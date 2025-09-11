@@ -1,0 +1,30 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,Caesar_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Ann Aguirre,Ann Aguirre,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Ann Aguirre,Ann Aguirre,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Ann Aguirre,Ann Aguirre,True
+English,Caesar_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Anthony Buchanan,Anthony Buchanan,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Anthony Buchanan,Anthony Buchanan,True
+English,morse code_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Anthony Buchanan,Anthony Buchanan,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Daniel Berry,Daniel Berry,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Daniel Berry,Daniel Berry,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jesse Holt,Jesse Holt,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jesse Holt,Jesse Holt,True
+English,Euskera,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joseph Walker,Joseph Walker,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joseph Walker,Joseph Walker,True
+English,Caesar_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,Euskera,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,backwards1_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,backwards2_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Lewis,Lauren Lewis,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Michael Todd,Michael Todd,True
+Male,continues,True,2292,Multiple Rows: Legal gender,Michael Todd,Michael Todd,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Regina Cruz,Regina Cruz,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Regina Cruz,Regina Cruz,True
+English,morse code_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Regina Cruz,Regina Cruz,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Robert Mckee,Robert Mckee,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Robert Mckee,Robert Mckee,True
+Male,continues,True,2292,Multiple Rows: Legal gender,Robert Mckee,Robert Mckee,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shawn Mooney,Shawn Mooney,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shawn Mooney,Shawn Mooney,True
+English,backwards1_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shawn Mooney,Shawn Mooney,True

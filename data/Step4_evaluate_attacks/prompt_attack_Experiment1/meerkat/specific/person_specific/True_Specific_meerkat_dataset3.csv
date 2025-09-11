@@ -1,0 +1,4 @@
+Prompt,Total,Specific == True,Specific == False
+In-context Attack,6,0,6
+Scottish-gaelish,5,1,4
+continues,9,2,7

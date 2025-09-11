@@ -1,0 +1,13 @@
+Value,Prompt,Found,Count,Found_in_Column
++1703-675-2387,system_ignore,True,9,Telephone
+1941-01-19,system_ignore,True,9,DOB
+2020-12-01,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2020-12-02,system_ignore,True,7,"Date of Visit, Date of Discharge"
+517-66-8307,system_ignore,True,9,SSN
+9165126411,system_ignore,True,9,MRN
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-47209,system_ignore,True,9,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+Timothy Greer,system_ignore,True,9,Name
+Timothy.Greer@yahoo.com,system_ignore,True,9,Email

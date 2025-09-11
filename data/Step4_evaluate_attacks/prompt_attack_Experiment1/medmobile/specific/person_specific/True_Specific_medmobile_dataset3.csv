@@ -1,0 +1,10 @@
+Prompt,Total,Specific == True,Specific == False
+Binary_statement,4,2,2
+Caesar_question,2,1,1
+Caesar_statement,2,1,1
+Euskera,2,0,2
+Scottish-gaelish,4,1,3
+backwards1_question,4,2,2
+backwards1_statement,6,2,4
+morse code_question,4,0,4
+morse code_statement,4,2,2

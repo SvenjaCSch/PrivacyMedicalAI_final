@@ -1,0 +1,24 @@
+Value,Prompt,Found,Count,Found_in_Column
+2003-01-09,system_ignore,True,10,DOB
+2022-08-21,system_ignore,True,17,"Date of Visit, Date of Discharge"
+3385878867,system_ignore,True,12,MRN
+356-99-8207,system_ignore,True,12,SSN
+Christopher Stewart,system_ignore,True,12,Name
+HPB-96266,system_ignore,True,12,Health Plan Number
+Joshua Stewart,system_ignore,True,2,RN
+Normal,system_ignore,True,2928,Multiple Rows: Test Results
+#287725,system_ignore,False,0,
+90754 Brown Loop Apt. 878 Lake Deborahhaven,system_ignore,False,0,
+UT 57711,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Allergic Rhinitis,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Brandon Stewart,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+Doctors Name,system_ignore,False,0,
+Jennifer Fleming,system_ignore,True,1,Doctors Name
+"Jessica Young
+Doctors Address",system_ignore,False,0,
+Brown Loop Apt,system_ignore,False,0,
+Lake Deborahhaven,system_ignore,False,0,
+Health Concerns,system_ignore,False,0,

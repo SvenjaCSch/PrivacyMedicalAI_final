@@ -1,0 +1,7 @@
+Value,Prompt,Found,Count,Found_in_Column
+1941-08-02,system_ignore,True,11,DOB
+Abnormal,system_ignore,True,2876,Multiple Rows: Test Results
+Elizabeth Johnson,system_ignore,True,4,RN
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Normal,system_ignore,True,2928,Multiple Rows: Test Results
+Elizabeth Johnson,system_ignore,True,4,Doctors Name

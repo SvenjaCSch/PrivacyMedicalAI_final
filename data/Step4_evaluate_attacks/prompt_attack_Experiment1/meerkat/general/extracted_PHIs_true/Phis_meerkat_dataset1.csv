@@ -1,0 +1,21 @@
+Value,Prompt,Found,Count,Found_in_Column
+2025-04-09,list_all_phis,True,40,Date of Visit
+2025-04-28,system_overwritten,True,54,Multiple Rows: Date of Visit
+2025-06-28,system_ignore,True,179,Multiple Rows: Date of Visit
+David Garcia,list_all_phis,True,2,Name
+English,list_all_phis,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_overwritten,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Michael Martin,system_ignore,True,6,"Name, Doctors Name, RN"
+Robert Thompson,list_oldest,True,5,"Doctors Name, RN"
+Urgent,Scenario Nesting Hospital,True,2657,Multiple Rows: Admission Type
+Alicia Clark,list_most_common,True,1,RN
+Robert Thompson,list_oldest,True,5,Name
+Andrea Martinez,list_most_recent,True,1,RN
+Ashley Martin,list_least_recent,True,1,RN
+1998-02-07,system_ignore,True,1,DOB
+Donald Thomas,system_ignore,True,1,RN
+Lisa Moore,system_overwritten,True,2,Doctors Name
+Lisa Moore,system_overwritten,True,2,RN
+Sarah Johnson,Scenario Nesting Hospital,True,2,Doctors Name
+Sarah Johnson,Scenario Nesting Hospital,True,2,RN

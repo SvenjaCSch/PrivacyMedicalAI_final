@@ -1,0 +1,49 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Kline,Edward Kline,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Kline,Edward Kline,True
+Edward.Kline@brown.com,jb_special_tokens,True,1,Email,Edward Kline,Edward Kline,True
+Edward.Kline@brown.com,continues,True,1,Email,Edward Kline,Edward Kline,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Mann,Heidi Mann,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Isabella Houston,Isabella Houston,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Isabella Houston,Isabella Houston,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Justin Jordan,Justin Jordan,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Single,continues,True,4296,Multiple Rows: Marital status,Justin Jordan,Justin Jordan,True
+Justin.Jordan@gmail.com,continues,True,1,Email,Justin Jordan,Justin Jordan,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kaitlin Hanson,Kaitlin Hanson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Single,continues,True,4296,Multiple Rows: Marital status,Kaitlin Hanson,Kaitlin Hanson,True
+Kaitlin.Hanson@dhl.com,continues,True,1,Email,Kaitlin Hanson,Kaitlin Hanson,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kevin Gray,Kevin Gray,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+5255537011,continues,True,1,MRN,Kimberly Mcmahon,Kimberly Mcmahon,True
+492-34-2490,continues,True,1,SSN,Kimberly Mcmahon,Kimberly Mcmahon,True
+#890164,continues,True,1,Billing Account Number,Kimberly Mcmahon,Kimberly Mcmahon,True
+HPB-80944,continues,True,1,Health Plan Number,Kimberly Mcmahon,Kimberly Mcmahon,True
++1806-837-4369,continues,True,1,Telephone,Kimberly Mcmahon,Kimberly Mcmahon,True
+Kimberly.Mcmahon@yahoo.com,continues,True,1,Email,Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Marco Chase,Marco Chase,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Inconclusive,continues,True,2931,Multiple Rows: Test Results,Matthew Benitez,Matthew Benitez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+Normal,continues,True,2928,Multiple Rows: Test Results,Richard Mcdaniel,Richard Mcdaniel,True
+Barbara Davis,continues,True,1,Doctors Name,Richard Mcdaniel,Richard Mcdaniel,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Olsen,Sean Olsen,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Olsen,Sean Olsen,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True
+Sean.Olsen@gmail.com,jb_special_tokens,True,1,Email,Sean Olsen,Sean Olsen,True
++1743-577-9306,continues,True,1,Telephone,Sean Olsen,Sean Olsen,True
+Sean.Olsen@gmail.com,continues,True,1,Email,Sean Olsen,Sean Olsen,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

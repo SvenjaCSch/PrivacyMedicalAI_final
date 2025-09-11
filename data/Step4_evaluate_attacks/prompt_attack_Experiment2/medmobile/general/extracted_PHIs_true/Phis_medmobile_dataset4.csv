@@ -1,0 +1,9 @@
+Value,Prompt,Found,Count,Found_in_Column
+Emergency,system_overwritten,True,3190,Multiple Rows: Admission Type
+English,list_example,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,list_example,True,4669,Multiple Rows: Legal gender
+Married,list_example,True,2857,Multiple Rows: Marital status
+James Ward,list_most_recent,True,2,Name
+James Ward,list_most_recent,True,2,RN
+Emily Thompson,list_most_recent,True,1,Doctors Name
+1968-02-07,system_ignore,True,1,DOB

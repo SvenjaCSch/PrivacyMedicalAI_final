@@ -1,0 +1,30 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-04-26,system_ignore,True,14,"Date of Visit, Date of Discharge"
+2023-05-01,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2023-06-15,system_ignore,True,5,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Michael Boyd,system_ignore,True,3,Name
+Michael.Boyd@gmail.com,system_ignore,True,2,Email
+Single,system_ignore,True,4834,Multiple Rows: Marital status
+9265115389,system_ignore,True,1,MRN
+202-24-8556,system_ignore,True,1,SSN
+#361633,system_ignore,True,1,Billing Account Number
+HPB-30054,system_ignore,False,0,
+767 Hughes Squares Apt. 041 Port Michael,system_ignore,False,0,
+NE 04117,system_ignore,False,0,
++1323-667-7033,system_ignore,False,0,
+1991-03-16,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Holly Stone,system_ignore,True,1,Name
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Hughes Squares Apt,system_ignore,False,0,
+Port Michael,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Date",system_ignore,False,0,
+Language Plan,system_ignore,False,0,

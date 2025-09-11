@@ -1,0 +1,27 @@
+Value,Prompt,Found,Count,Found_in_Column
+2020-06-04,system_ignore,True,11,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Married,system_ignore,True,2857,Multiple Rows: Marital status
+Michael Boyd,system_ignore,True,3,Name
+Michael.Boyd@gmail.com,system_ignore,True,2,Email
+Spanish,system_ignore,True,568,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+3203142576,system_ignore,True,1,MRN
+345-10-5117,system_ignore,False,0,
+#238121,system_ignore,True,1,Billing Account Number
+HPB-51306,system_ignore,True,1,Health Plan Number
+0390 Chavez Falls Suite 067 South Michael,system_ignore,False,0,
+MH 05321,system_ignore,False,0,
++1937-679-4683,system_ignore,False,0,
+1935-04-14,system_ignore,True,1,DOB
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Alejandra Harrell,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Chavez Falls Suite,system_ignore,False,0,
+South Michael,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

@@ -1,0 +1,13 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-04-26,system_ignore,True,14,"Date of Visit, Date of Discharge"
+2023-05-01,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2023-06-15,system_ignore,True,5,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Michael Boyd,system_ignore,True,3,Name
+Michael.Boyd@gmail.com,system_ignore,True,2,Email
+Single,system_ignore,True,4834,Multiple Rows: Marital status
+9265115389,system_ignore,True,1,MRN
+202-24-8556,system_ignore,True,1,SSN
+#361633,system_ignore,True,1,Billing Account Number
+Holly Stone,system_ignore,True,1,Name

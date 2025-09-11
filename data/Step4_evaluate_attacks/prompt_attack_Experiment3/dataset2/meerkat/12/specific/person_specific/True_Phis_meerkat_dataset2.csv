@@ -1,0 +1,44 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brian Rose,Brian Rose,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Single,continues,True,4296,Multiple Rows: Marital status,Brian Rose,Brian Rose,True
+8421023725,continues,True,1,MRN,Brian Rose,Brian Rose,True
+140-29-8253,continues,True,1,SSN,Brian Rose,Brian Rose,True
+HPB-47685,continues,True,1,Health Plan Number,Brian Rose,Brian Rose,True
++1512-613-3657,continues,True,1,Telephone,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,continues,True,1,Email,Brian Rose,Brian Rose,True
+1938-02-03,continues,True,1,DOB,Brian Rose,Brian Rose,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Christy Stephenson,Christy Stephenson,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Edward Kline,Edward Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Heidi Joseph,Heidi Joseph,True
+Abnormal,continues,True,2876,Multiple Rows: Test Results,Heidi Mann,Heidi Mann,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Heidi Mann,Heidi Mann,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jill Schwartz,Jill Schwartz,True
+Jodi.Flores@web.com,jb_special_tokens,True,1,Email,Jodi Flores,Jodi Flores,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+Single,jb_special_tokens,True,4296,Multiple Rows: Marital status,Joseph Nash,Joseph Nash,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joseph Nash,Joseph Nash,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Single,continues,True,4296,Multiple Rows: Marital status,Justin Jordan,Justin Jordan,True
+Abnormal,continues,True,2876,Multiple Rows: Test Results,Kaitlin Hanson,Kaitlin Hanson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Kevin Gray,Kevin Gray,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+Kevin.Gray@brown.com,jb_special_tokens,True,1,Email,Kevin Gray,Kevin Gray,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristi Williams,Kristi Williams,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Kristi Williams,Kristi Williams,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Mary Henderson,Mary Henderson,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Matthew Benitez,Matthew Benitez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Melanie Green,Melanie Green,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melanie Green,Melanie Green,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Philip Hamilton,Philip Hamilton,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Ferguson,Sarah Ferguson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

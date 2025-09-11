@@ -1,0 +1,3 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Edward Kline,False

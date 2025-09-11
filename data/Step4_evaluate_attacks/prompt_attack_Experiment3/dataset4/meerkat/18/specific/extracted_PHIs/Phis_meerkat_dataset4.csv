@@ -1,0 +1,944 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+1979-09-22,jb_special_tokens,True,2,DOB,"Wesley Bruce, Debra Maddox",Adrienne Wiley,False
+2023-10-24,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Jaclyn Anderson, Tammy Day, Timothy Reed, Michael Lane, Kelsey Phelps, Laura Hernandez, David Grant, Karen Lynn, Amber Curtis, Teresa Brown",Adrienne Wiley,False
+2023-11-03,jb_special_tokens,True,16,"Date of Visit, Date of Discharge","Joseph Thomas, Benjamin Davis, Rebekah Jarvis, Stephanie Gibbs, Michael Randall, John Esparza, Aaron Salas, Donald Castillo, Brian Jordan, Robert Johnson, Gabriela Walsh, Thomas Ramos, Timothy Reed, Michelle Parks, Stephen Wolf, Robert Cook",Adrienne Wiley,False
+2023-11-12,continues,True,14,"Date of Visit, Date of Discharge","Susan Dorsey, James Williams, Laura Bell, Brett Serrano, Christopher Rodriguez, Michael Ayala, Crystal Young, Catherine Smith, Maria Yates, Michelle Jackson, Cynthia Torres, Holly Bass, Shawn Doyle, Ethan Walker",Adrienne Wiley,False
+2023-12-12,continues,True,12,"Date of Visit, Date of Discharge","Katrina Sandoval, Nicholas Klein, Steve Warren, Melissa Hogan, April Cruz, Jason Hess, Emily Cruz, Kendra Jacobs, Susan Dorsey, James Williams, Michele Kennedy, Jeffrey Brown",Adrienne Wiley,False
+2023-12-19,continues,True,8,"Date of Visit, Date of Discharge","Kelly Moore, Willie Miller, Brian Wilson, Joseph Martinez, Kenneth Hill, Tyler Bates, Melissa Powell, Chad Bennett",Adrienne Wiley,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,Adrienne Wiley,Adrienne Wiley,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Adrienne Wiley,Adrienne Wiley,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Adrienne Wiley,Adrienne Wiley,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Adrienne Wiley,Adrienne Wiley,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Adrienne Wiley,Adrienne Wiley,True
+HPB-76224,continues,True,2,Health Plan Number,"Sharon Smith, Timothy Brown",Adrienne Wiley,False
+Single,continues,True,4834,Multiple Rows: Marital status,None,Adrienne Wiley,False
+284-49-4620,jb_special_tokens,True,1,SSN,Anna Carlson,Adrienne Wiley,False
+284-49-4620,jb_special_tokens,False,0,,,Adrienne Wiley,False
+#431946,jb_special_tokens,True,1,Billing Account Number,Joshua Huerta,Adrienne Wiley,False
+#431946,jb_special_tokens,False,0,,,Adrienne Wiley,False
+HPB-13443,jb_special_tokens,True,1,Health Plan Number,David Adams,Adrienne Wiley,False
+HPB-13443,jb_special_tokens,False,0,,,Adrienne Wiley,False
+English,jb_special_tokens,False,0,,,Adrienne Wiley,False
+Emergency,jb_special_tokens,False,0,,,Adrienne Wiley,False
+Female,jb_special_tokens,False,0,,,Adrienne Wiley,False
+1979-09-22,jb_special_tokens,False,0,,,Adrienne Wiley,False
+2023-10-24,jb_special_tokens,False,0,,,Adrienne Wiley,False
+2023-11-03,jb_special_tokens,False,0,,,Adrienne Wiley,False
+Brian Patrick,jb_special_tokens,True,1,Name,Brian Patrick,Adrienne Wiley,False
+Brian Patrick,jb_special_tokens,False,0,,,Adrienne Wiley,False
+Brian Ray,jb_special_tokens,True,1,Name,Brian Ray,Adrienne Wiley,False
+Brian Ray,jb_special_tokens,False,0,,,Adrienne Wiley,False
+4913973714,continues,True,1,MRN,Robert Bowman,Adrienne Wiley,False
+4913973714,continues,False,0,,,Adrienne Wiley,False
+128-36-8650,continues,True,1,SSN,Gloria Myers,Adrienne Wiley,False
+128-36-8650,continues,False,0,,,Adrienne Wiley,False
+#990601,continues,True,1,Billing Account Number,Ana Jenkins,Adrienne Wiley,False
+#990601,continues,False,0,,,Adrienne Wiley,False
+HPB-76224,continues,False,0,,,Adrienne Wiley,False
+Adrienne.Wiley@gmx.com,continues,True,1,Email,Adrienne Wiley,Adrienne Wiley,True
+Adrienne.Wiley@gmx.com,continues,False,0,,,Adrienne Wiley,False
+English,continues,False,0,,,Adrienne Wiley,False
+Single,continues,False,0,,,Adrienne Wiley,False
+Female,continues,False,0,,,Adrienne Wiley,False
+2023-11-12,continues,False,0,,,Adrienne Wiley,False
+2023-12-12,continues,False,0,,,Adrienne Wiley,False
+2023-12-19,continues,False,0,,,Adrienne Wiley,False
+Jesse Gray,continues,True,1,Doctors Name,Dorothy Hernandez,Adrienne Wiley,False
+Jesse Gray,continues,False,0,,,Adrienne Wiley,False
+Alan Reid,continues,True,1,Doctors Name,Heather Hernandez,Adrienne Wiley,False
+Alan Reid,continues,False,0,,,Adrienne Wiley,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Amy Rhodes,False
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Amy Rhodes,False
+Urgent,jb_special_tokens,False,0,,,Amy Rhodes,False
+Elective,continues,False,0,,,Amy Rhodes,False
+2022-12-30,continues,True,16,"Date of Visit, Date of Discharge","Mike Atkins, Jamie Vaughan, Holly Lane, Sarah Fuentes, Shelly Harris, Zachary Stevens, Timothy George, Melissa Bennett, Brian Freeman, Amber Duke, Jose Mann, Deborah Jacobs, Sandy Wade, Holly Park, Pamela Gordon, Jonathan Underwood",Angela Wilson,False
+2022-12-31,continues,True,15,"Date of Visit, Date of Discharge","Corey Bowen, Lauren Jordan, Lauren Wolfe, Andrea Lopez, Kristie Wolfe, Amber Nguyen, Robert Zavala, Theresa Hart, Greg Thomas, Veronica Morales, James Rosales, Laura Hall, Jennifer Moore, Melissa Bennett, Amber Duke",Angela Wilson,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Angela Wilson,Angela Wilson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Angela Wilson,Angela Wilson,True
+German,continues,True,368,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Angela Wilson,False
+Single,continues,True,4834,Multiple Rows: Marital status,None,Angela Wilson,False
+Spanish,continues,True,568,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Angela Wilson,False
+Mary Daniels,jb_special_tokens,True,1,Name,Mary Daniels,Angela Wilson,False
+Mary Daniels,jb_special_tokens,False,0,,,Angela Wilson,False
+Scott Gordon,jb_special_tokens,True,1,Doctors Name,Kelsey Jensen,Angela Wilson,False
+Scott Gordon,jb_special_tokens,False,0,,,Angela Wilson,False
+Joshua Allen,jb_special_tokens,True,1,Name,Joshua Allen,Angela Wilson,False
+Joshua Allen,jb_special_tokens,False,0,,,Angela Wilson,False
+2121004415,continues,True,1,MRN,Amber Duke,Angela Wilson,False
+2121004415,continues,False,0,,,Angela Wilson,False
+#417349,continues,True,1,Billing Account Number,Beverly Mills,Angela Wilson,False
+#417349,continues,False,0,,,Angela Wilson,False
+HPB-24741,continues,True,1,Health Plan Number,Lauren Freeman,Angela Wilson,False
+HPB-24741,continues,False,0,,,Angela Wilson,False
+Amber.Duke@yahoo.com,continues,True,1,Email,Amber Duke,Angela Wilson,False
+Amber.Duke@yahoo.com,continues,False,0,,,Angela Wilson,False
+English,continues,False,0,,,Angela Wilson,False
+German,continues,False,0,,,Angela Wilson,False
+Spanish,continues,False,0,,,Angela Wilson,False
+Single,continues,False,0,,,Angela Wilson,False
+Female,continues,False,0,,,Angela Wilson,False
+1973-09-01,continues,True,1,DOB,Amber Duke,Angela Wilson,False
+1973-09-01,continues,False,0,,,Angela Wilson,False
+2022-12-30,continues,False,0,,,Angela Wilson,False
+2022-12-31,continues,False,0,,,Angela Wilson,False
+Amber Duke,continues,True,1,Name,Amber Duke,Angela Wilson,False
+Amber Duke,continues,False,0,,,Angela Wilson,False
+2020-06-02,jb_special_tokens,True,9,Date of Visit,"Alicia Bell, Patricia Anderson, Austin Beard, Derrick Walters, William Davis, Stephanie Cherry, Billy Alexander, Jose Pope",Austin Beard,False
+2020-06-09,jb_special_tokens,True,15,"Date of Visit, Date of Discharge","Bryan Greene, Ashley Smith, Matthew Smith, Tina Harper, Scott Smith, Deborah Peterson, Tracy Rich, Taylor Ruiz, Dustin Thomas, Kristine Holmes, Brandi Bennett, Joy Bray, Katherine Williams, Kristen Allen, Jose Pope",Austin Beard,False
+2020-06-16,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Anita Mccarthy, Justin Parker, Paige Scott, Matthew Fox, Kevin Mccoy, Stephanie Parker, Gabriela Shah, Kelly Lopez, Brian Martinez, Austin Davis, Allison Bradley",Austin Beard,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Austin Beard,Austin Beard,True
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Austin Beard,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Austin Beard,Austin Beard,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,Austin Beard,False
+468-82-2847,jb_special_tokens,True,1,SSN,Frank Brown,Austin Beard,False
+468-82-2847,jb_special_tokens,False,0,,,Austin Beard,False
+HPB-73282,jb_special_tokens,True,1,Health Plan Number,Raymond Haynes,Austin Beard,False
+HPB-73282,jb_special_tokens,False,0,,,Austin Beard,False
+Austin.Beard@yahoo.com,jb_special_tokens,True,1,Email,Austin Beard,Austin Beard,True
+Austin.Beard@yahoo.com,jb_special_tokens,False,0,,,Austin Beard,False
+English,jb_special_tokens,False,0,,,Austin Beard,False
+Emergency,jb_special_tokens,False,0,,,Austin Beard,False
+Male,jb_special_tokens,False,0,,,Austin Beard,False
+2020-06-02,jb_special_tokens,True,9,Date of Discharge,Sharon Casey,Austin Beard,False
+2020-06-02,jb_special_tokens,False,0,,,Austin Beard,False
+2020-06-09,jb_special_tokens,False,0,,,Austin Beard,False
+2020-06-16,jb_special_tokens,False,0,,,Austin Beard,False
+Connor May,jb_special_tokens,True,1,Doctors Name,Sharon Baker,Austin Beard,False
+Connor May,jb_special_tokens,False,0,,,Austin Beard,False
+Elective,continues,False,0,,,Austin Beard,False
+Urgent,continues,False,0,,,Austin Beard,False
+1944-01-24,jb_special_tokens,True,5,DOB,"Mary Blake, Charles Bowman, Benjamin Watkins, Audrey Graves, Matthew Stevenson",Brittany Freeman,False
+2022-12-31,continues,True,15,"Date of Visit, Date of Discharge","Corey Bowen, Lauren Jordan, Lauren Wolfe, Andrea Lopez, Kristie Wolfe, Amber Nguyen, Robert Zavala, Theresa Hart, Greg Thomas, Veronica Morales, James Rosales, Laura Hall, Jennifer Moore, Melissa Bennett, Amber Duke",Brittany Freeman,False
+2023-01-26,continues,True,8,"Date of Visit, Date of Discharge","Travis Lee, Anna Jenkins, Matthew Miller, Karen Booker, Christine Holmes, Sherry Wade, Melissa Carter, Robert Zavala",Brittany Freeman,False
+2023-02-12,jb_special_tokens,True,17,"Date of Visit, Date of Discharge","Lorraine Wilson, James Moses, Jessica Hall, Michael Lewis, Mark Love, Julia Brown, Jon Lang, Kimberly Walters, Alicia Cooper, Charles Green, Debbie Hart, Michael Henry, Kristine Owens, Ashley Richards, Teresa Jones, Christine Holmes, Jenny Burton",Brittany Freeman,False
+2023-02-16,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Sheila Gould, Nicole Singleton, Stephanie Wagner, Matthew Miller, Jonathan Wilson, Amanda Jenkins, Tony Valencia, Kayla Levy, Kimberly Walters",Brittany Freeman,False
+2023-02-18,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Caleb Pham, Cole Luna, Brad Wilcox, Jordan Griffin, Rachel Avery, Charles Watson, Brenda Obrien, Phillip Reyes, Melissa Crawford, David Cooper, Cynthia Suarez",Brittany Freeman,False
+2023-02-22,continues,True,11,"Date of Visit, Date of Discharge","Bernard Brown, Sean Juarez, Deborah Lopez, Joseph Shepherd, Anna Jenkins, James Moses, Christine Clay, Timothy Price, Andrew Barron, Jennifer Martinez, Joseph Hahn",Brittany Freeman,False
+2023-03-15,continues,True,17,"Date of Visit, Date of Discharge","Craig Oneill, Christopher Murray, Allen Carpenter, Pamela Hernandez, Adam Grant, David Bailey, Tyler Anderson, Christopher Taylor, Brandi Collins, Sheryl Kelley, Cole Luna, Angela Rasmussen, Andrew Ware, Tracy Curtis, Cynthia Horton, Sean Juarez, Joseph Shepherd",Brittany Freeman,False
+2023-03-23,continues,True,9,Date of Discharge,"Meghan Meyer, Mary Flores, Bernard Brown, Jessica Hansen, Timothy Acevedo, Ashley Anderson, Danny Green, Christopher Murray, Ruth Brady",Brittany Freeman,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brittany Freeman,Brittany Freeman,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brittany Freeman,Brittany Freeman,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Brittany Freeman,Brittany Freeman,True
+Married,continues,True,2857,Multiple Rows: Marital status,None,Brittany Freeman,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Brittany Freeman,Brittany Freeman,True
+3807767276,jb_special_tokens,True,1,MRN,Michael Hayes,Brittany Freeman,False
+3807767276,jb_special_tokens,False,0,,,Brittany Freeman,False
+#620293,jb_special_tokens,True,1,Billing Account Number,Kristen Cooley,Brittany Freeman,False
+#620293,jb_special_tokens,False,0,,,Brittany Freeman,False
+HPB-46402,jb_special_tokens,True,1,Health Plan Number,Olivia Thompson,Brittany Freeman,False
+HPB-46402,jb_special_tokens,False,0,,,Brittany Freeman,False
+Brittany.Freeman@web.com,jb_special_tokens,True,1,Email,Brittany Freeman,Brittany Freeman,True
+Brittany.Freeman@web.com,jb_special_tokens,False,0,,,Brittany Freeman,False
+English,jb_special_tokens,False,0,,,Brittany Freeman,False
+Single,jb_special_tokens,False,0,,,Brittany Freeman,False
+Female,jb_special_tokens,False,0,,,Brittany Freeman,False
+1944-01-24,jb_special_tokens,False,0,,,Brittany Freeman,False
+2023-02-12,jb_special_tokens,False,0,,,Brittany Freeman,False
+2023-02-16,jb_special_tokens,False,0,,,Brittany Freeman,False
+2023-02-18,jb_special_tokens,False,0,,,Brittany Freeman,False
+Mary Blake,jb_special_tokens,True,1,Name,Mary Blake,Brittany Freeman,False
+Mary Blake,jb_special_tokens,False,0,,,Brittany Freeman,False
+English,continues,False,0,,,Brittany Freeman,False
+Married,continues,False,0,,,Brittany Freeman,False
+2022-12-31,continues,False,0,,,Brittany Freeman,False
+2023-01-26,continues,False,0,,,Brittany Freeman,False
+2023-02-22,continues,False,0,,,Brittany Freeman,False
+2023-03-15,continues,False,0,,,Brittany Freeman,False
+2023-03-23,continues,False,0,,,Brittany Freeman,False
+2019-11-05,jb_special_tokens,True,7,"Date of Visit, Date of Discharge","Jill Hall, Emily Long, Holly Morris, Lance Carr, Amy Espinoza, Rodney Whitney, Valerie Lee",Carly Flores,False
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Carly Flores,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,Carly Flores,False
+Male,jb_special_tokens,False,0,,,Carly Flores,False
+2019-11-05,jb_special_tokens,False,0,,,Carly Flores,False
+Urgent,continues,False,0,,,Carly Flores,False
+2023-11-13,continues,True,11,"Date of Visit, Date of Discharge","Brian Ruiz, Keith Griffin, Patricia Taylor, Sarah Hicks, Jason Blair, Heather Wilson, William Fisher, Mary Cook, Donald Castillo, Lisa Bell, Anthony Willis",Catherine Kirk,False
+2023-11-19,continues,True,8,"Date of Visit, Date of Discharge","Jo Arroyo, Dominic Freeman, Dominic Stewart, William Boyd, Brittany Meyer, Nicole Kim, Maria Blankenship, Sarah Hicks",Catherine Kirk,False
+2023-11-21,continues,True,10,"Date of Visit, Date of Discharge","Margaret Evans, James Silva, Courtney Hernandez, Melissa Powell, Kyle Klein, Brian Ruiz, Tracey Pollard, Frank Graham, Robert Davis, David Nguyen",Catherine Kirk,False
+2023-12-08,continues,True,12,"Date of Visit, Date of Discharge","Geoffrey Peterson, Gina Riley, Kyle Owens, Jason Stevens, Brittney Brown, Julia Rivera, James Silva, Heidi Robertson, Timothy Hendrix, Steve Caldwell, Jennifer Davis, Joseph Vargas",Catherine Kirk,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Catherine Kirk,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Catherine Kirk,Catherine Kirk,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Catherine Kirk,Catherine Kirk,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Catherine Kirk,False
+Single,continues,True,4834,Multiple Rows: Marital status,None,Catherine Kirk,False
+Emergency,jb_special_tokens,False,0,,,Catherine Kirk,False
+Male,jb_special_tokens,False,0,,,Catherine Kirk,False
+1239716990,continues,True,1,MRN,Samantha Andrade,Catherine Kirk,False
+1239716990,continues,False,0,,,Catherine Kirk,False
+947-61-1496,continues,True,1,SSN,Tina Dixon,Catherine Kirk,False
+947-61-1496,continues,False,0,,,Catherine Kirk,False
+#653315,continues,True,1,Billing Account Number,Robert Torres,Catherine Kirk,False
+#653315,continues,False,0,,,Catherine Kirk,False
+Catherine.Kirk@gmx.com,continues,True,1,Email,Catherine Kirk,Catherine Kirk,True
+Catherine.Kirk@gmx.com,continues,False,0,,,Catherine Kirk,False
+English,continues,False,0,,,Catherine Kirk,False
+Single,continues,False,0,,,Catherine Kirk,False
+Female,continues,False,0,,,Catherine Kirk,False
+2023-11-13,continues,False,0,,,Catherine Kirk,False
+2023-11-19,continues,False,0,,,Catherine Kirk,False
+2023-12-08,continues,False,0,,,Catherine Kirk,False
+2023-11-21,continues,False,0,,,Catherine Kirk,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Cynthia Coleman,False
+Male,continues,True,4669,Multiple Rows: Legal gender,None,Cynthia Coleman,False
+Elective,jb_special_tokens,False,0,,,Cynthia Coleman,False
+Male,continues,False,0,,,Cynthia Coleman,False
+2019-09-19,continues,True,15,"Date of Visit, Date of Discharge","Cameron Spencer, Evelyn Vaughn, Ian Chavez, Bryan Davis, Stephen White, Christina Meyer, Philip Thomas, Megan Scott, Lauren Flowers, Danielle Bennett, Charlotte Cox, Lisa Dean, Christopher Hall, Robert Hobbs, Michael Johnson",Daniel Oneill,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Daniel Oneill,Daniel Oneill,True
+Normal,continues,True,3219,Multiple Rows: Test Results,Daniel Oneill,Daniel Oneill,True
+Normal,continues,False,0,,,Daniel Oneill,False
+Emergency,continues,False,0,,,Daniel Oneill,False
+2019-09-19,continues,False,0,,,Daniel Oneill,False
+2023-09-21,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Benjamin Russell, Matthew Stevenson, Hunter Flores, Katelyn Morrison, David Roberts, Charles Gonzalez, Sarah Hernandez, Brandon Barnes",Donald Hayes,False
+2023-10-11,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Madison Taylor, Michele Hopkins, Mackenzie Neal, Marissa Byrd, Erika West, Andrew Davis, Cristina Hernandez, Lauren Durham, Joshua Cooper, Hunter Flores",Donald Hayes,False
+2023-10-14,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Richard Cannon, Susan Navarro, Joshua Bryant, Anne Curtis, Miguel Gill, Victoria Cooper, Michelle Murphy, Christopher Carney, Jo Shaffer, Jonathan Espinoza, Joseph Butler",Donald Hayes,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Donald Hayes,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Donald Hayes,Donald Hayes,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+Widowed,jb_special_tokens,True,469,Multiple Rows: Marital status,Donald Hayes,Donald Hayes,True
+4226660771,jb_special_tokens,True,1,MRN,Donald Hayes,Donald Hayes,True
+4226660771,jb_special_tokens,False,0,,,Donald Hayes,False
+#265513,jb_special_tokens,True,1,Billing Account Number,Steven Clay,Donald Hayes,False
+#265513,jb_special_tokens,False,0,,,Donald Hayes,False
++1616-700-5008,jb_special_tokens,True,1,Telephone,Jason Adams,Donald Hayes,False
++1616-700-5008,jb_special_tokens,False,0,,,Donald Hayes,False
+English,jb_special_tokens,False,0,,,Donald Hayes,False
+Widowed,jb_special_tokens,False,0,,,Donald Hayes,False
+Male,jb_special_tokens,False,0,,,Donald Hayes,False
+1938-03-11,jb_special_tokens,True,1,DOB,Donald Hayes,Donald Hayes,True
+1938-03-11,jb_special_tokens,False,0,,,Donald Hayes,False
+2023-09-21,jb_special_tokens,False,0,,,Donald Hayes,False
+2023-10-11,jb_special_tokens,False,0,,,Donald Hayes,False
+2023-10-14,jb_special_tokens,False,0,,,Donald Hayes,False
+Elective,continues,False,0,,,Donald Hayes,False
+2021-09-18,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Barry Riley, Jeffery Ortiz, Deborah Webster, Brandon Hubbard, Jennifer Owens, Douglas Jones, Daniel King, Jennifer Warren, Tracy Peterson, Amanda Moreno, Jonathan Kelly",Donald Nguyen,False
+2021-10-04,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Veronica Stephens, Joy Velez, Shannon Sherman, Raymond Gross, Brian Hernandez, Daniel Craig, Christopher Barrett, Adam Blackburn, Crystal Richardson, Lindsay Davis",Donald Nguyen,False
+2021-11-12,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Jesse Parsons, Alexander Pope, Rebecca Gray, Nicole Christensen, Mason Donaldson, Daniel Wilson, Ann Kelley, Suzanne Griffin, Shelley Miller",Donald Nguyen,False
+Christopher Johnson,jb_special_tokens,True,5,"Name, RN","Christopher Johnson, Julia Cabrera, Ashley Lopez",Donald Nguyen,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Donald Nguyen,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Donald Nguyen,Donald Nguyen,True
+HPB-18118,jb_special_tokens,True,2,Health Plan Number,"Raymond Jackson, Charles Anderson",Donald Nguyen,False
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Donald Nguyen,Donald Nguyen,True
+Spanish,jb_special_tokens,True,568,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Donald Nguyen,False
+Widowed,jb_special_tokens,True,469,Multiple Rows: Marital status,None,Donald Nguyen,False
+124-35-5670,jb_special_tokens,True,1,SSN,Brandon Curtis,Donald Nguyen,False
+124-35-5670,jb_special_tokens,False,0,,,Donald Nguyen,False
+#897486,jb_special_tokens,True,1,Billing Account Number,Frank Martinez,Donald Nguyen,False
+#897486,jb_special_tokens,False,0,,,Donald Nguyen,False
+HPB-18118,jb_special_tokens,False,0,,,Donald Nguyen,False
+Christopher.Johnson@gmx.com,jb_special_tokens,True,1,Email,Christopher Johnson,Donald Nguyen,False
+Christopher.Johnson@gmx.com,jb_special_tokens,False,0,,,Donald Nguyen,False
+English,jb_special_tokens,False,0,,,Donald Nguyen,False
+Spanish,jb_special_tokens,False,0,,,Donald Nguyen,False
+Widowed,jb_special_tokens,False,0,,,Donald Nguyen,False
+Male,jb_special_tokens,False,0,,,Donald Nguyen,False
+2021-09-18,jb_special_tokens,False,0,,,Donald Nguyen,False
+2021-10-04,jb_special_tokens,False,0,,,Donald Nguyen,False
+2021-11-12,jb_special_tokens,False,0,,,Donald Nguyen,False
+Christopher Johnson,jb_special_tokens,True,5,Doctors Name,Amanda Rich,Donald Nguyen,False
+Christopher Johnson,jb_special_tokens,False,0,,,Donald Nguyen,False
+Matthew Ryan,jb_special_tokens,True,1,Name,Matthew Ryan,Donald Nguyen,False
+Matthew Ryan,jb_special_tokens,False,0,,,Donald Nguyen,False
+Elective,continues,False,0,,,Donald Nguyen,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Dustin Burke,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Dustin Burke,False
+Elective,jb_special_tokens,False,0,,,Dustin Burke,False
+Elective,continues,False,0,,,Dustin Burke,False
+2004-09-07,jb_special_tokens,True,2,DOB,"Jesse Brooks, Kelly Anderson",Dustin Contreras,False
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,None,Dustin Contreras,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Dustin Contreras,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Dustin Contreras,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Dustin Contreras,False
+Kelly Anderson,jb_special_tokens,True,4,Name,Kelly Anderson,Dustin Contreras,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Dustin Contreras,Dustin Contreras,True
+Abnormal,jb_special_tokens,False,0,,,Dustin Contreras,False
+Emergency,jb_special_tokens,False,0,,,Dustin Contreras,False
+2004-09-07,jb_special_tokens,False,0,,,Dustin Contreras,False
+Kelly Anderson,jb_special_tokens,True,4,Doctors Name,Nicholas Schmidt,Dustin Contreras,False
+Kelly Anderson,jb_special_tokens,True,4,RN,Rebecca Klein,Dustin Contreras,False
+Kelly Anderson,jb_special_tokens,False,0,,,Dustin Contreras,False
+Elective,continues,False,0,,,Dustin Contreras,False
+Urgent,continues,False,0,,,Dustin Contreras,False
+Emergency,continues,False,0,,,Dustin Contreras,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Jack Spencer,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jack Spencer,False
+Emergency,jb_special_tokens,False,0,,,Jack Spencer,False
+Elective,continues,False,0,,,Jack Spencer,False
+1980-01-01,continues,True,2,DOB,"Jacqueline Holden, Robin Jimenez",Jacqueline Holden,False
+2023-04-29,continues,True,15,"Date of Visit, Date of Discharge","Andrew Jackson, Matthew Jones, Kenneth Holmes, Monica Avila, Christine Evans, Jennifer Jackson, Anthony Knapp, Kelsey Johnston, Kaitlyn Hurley, Michael Carter, Alexis Montes, Michael Ortiz, Nicholas Allen, Jennifer Bates, Kristen Cooley",Jacqueline Holden,False
+2023-05-09,continues,True,9,"Date of Visit, Date of Discharge","Edward Winters, Stacy Nelson, Christopher Johnson, Robert Moore, Beverly Richards, Carrie Gordon, Connie Bell, Anthony Robinson, Charlotte Baker",Jacqueline Holden,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jacqueline Holden,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Jacqueline Holden,Jacqueline Holden,True
+Emergency,jb_special_tokens,False,0,,,Jacqueline Holden,False
+6455348095,continues,True,1,MRN,Willie Hartman,Jacqueline Holden,False
+6455348095,continues,False,0,,,Jacqueline Holden,False
+HPB-31475,continues,True,1,Health Plan Number,Mike Tran,Jacqueline Holden,False
+HPB-31475,continues,False,0,,,Jacqueline Holden,False
+Jacqueline.Holden@aol.com,continues,True,1,Email,Jacqueline Holden,Jacqueline Holden,True
+Jacqueline.Holden@aol.com,continues,False,0,,,Jacqueline Holden,False
+Female,continues,False,0,,,Jacqueline Holden,False
+1980-01-01,continues,False,0,,,Jacqueline Holden,False
+2023-04-29,continues,False,0,,,Jacqueline Holden,False
+2023-05-09,continues,False,0,,,Jacqueline Holden,False
+Christopher Lynch,continues,True,1,RN,Taylor Smith,Jacqueline Holden,False
+Christopher Lynch,continues,False,0,,,Jacqueline Holden,False
+1954-01-12,jb_special_tokens,True,2,DOB,"Jenny Gentry, Daniel Calderon",Jeffrey Hull,False
+2020-01-31,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Shelley Vaughan, Samuel Gonzalez, Amber Jenkins, Richard Young, Tonya Nelson, Diana Ramirez, Mark Crawford, Marissa Nichols, Charles Klein, Rebecca Rodriguez, Wendy Hernandez, Hector Meza, John Franklin, Kenneth Rose",Jeffrey Hull,False
+2020-02-23,jb_special_tokens,True,19,"Date of Visit, Date of Discharge","Kelly Golden, Lisa Allen, Matthew Hamilton, Joyce Avila, Jeff Rowe, Peter Garcia, Tanner Romero, Amy Jones, Benjamin Wilson, Sarah Wong, Wanda Lee, Shawn Barrett, Patricia Bartlett, Jeremiah Smith, Amber Jenkins, Ashley Sims, Jaclyn Morales, David Hernandez, Joseph Henry",Jeffrey Hull,False
+Abnormal,continues,True,3193,Multiple Rows: Test Results,None,Jeffrey Hull,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Jeffrey Hull,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jeffrey Hull,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Hull,Jeffrey Hull,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Jeffrey Hull,Jeffrey Hull,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Jeffrey Hull,Jeffrey Hull,True
+#808166,jb_special_tokens,True,1,Billing Account Number,Isaac Thompson,Jeffrey Hull,False
+#808166,jb_special_tokens,False,0,,,Jeffrey Hull,False
+HPB-79915,jb_special_tokens,True,1,Health Plan Number,Wayne Watson,Jeffrey Hull,False
+HPB-79915,jb_special_tokens,False,0,,,Jeffrey Hull,False
++1930-458-1604,jb_special_tokens,True,1,Telephone,Julie Moon,Jeffrey Hull,False
++1930-458-1604,jb_special_tokens,False,0,,,Jeffrey Hull,False
+English,jb_special_tokens,False,0,,,Jeffrey Hull,False
+Single,jb_special_tokens,False,0,,,Jeffrey Hull,False
+Emergency,jb_special_tokens,False,0,,,Jeffrey Hull,False
+Male,jb_special_tokens,False,0,,,Jeffrey Hull,False
+1954-01-12,jb_special_tokens,False,0,,,Jeffrey Hull,False
+2020-01-31,jb_special_tokens,False,0,,,Jeffrey Hull,False
+2020-02-23,jb_special_tokens,False,0,,,Jeffrey Hull,False
+Richard Campbell,jb_special_tokens,True,2,Name,Richard Campbell,Jeffrey Hull,False
+Richard Campbell,jb_special_tokens,True,2,RN,Nicole Hoffman,Jeffrey Hull,False
+Richard Campbell,jb_special_tokens,False,0,,,Jeffrey Hull,False
+Abnormal,continues,False,0,,,Jeffrey Hull,False
+Emergency,continues,False,0,,,Jeffrey Hull,False
+Richard Hughes,continues,True,1,RN,Howard Welch,Jeffrey Hull,False
+Richard Hughes,continues,False,0,,,Jeffrey Hull,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Jennifer Camacho,Jennifer Camacho,True
+105-76-9125,continues,True,1,SSN,Sarah Wong,Jennifer Camacho,False
+105-76-9125,continues,False,0,,,Jennifer Camacho,False
+Female,continues,False,0,,,Jennifer Camacho,False
+David Burnett,jb_special_tokens,True,2,Doctors Name,"Craig Oneill, Robert Cunningham",Jerome Howell,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jerome Howell,False
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Jerome Howell,Jerome Howell,True
+Normal,jb_special_tokens,False,0,,,Jerome Howell,False
+Emergency,jb_special_tokens,False,0,,,Jerome Howell,False
+David Burnett,jb_special_tokens,False,0,,,Jerome Howell,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,John Galvan,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,John Galvan,John Galvan,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,John Galvan,False
+John.Galvan@yahoo.com,jb_special_tokens,True,1,Email,John Galvan,John Galvan,True
+John.Galvan@yahoo.com,jb_special_tokens,False,0,,,John Galvan,False
+Single,jb_special_tokens,False,0,,,John Galvan,False
+Emergency,jb_special_tokens,False,0,,,John Galvan,False
+Urgent,continues,False,0,,,John Galvan,False
+Abnormal,continues,True,3193,Multiple Rows: Test Results,None,Jonathan Rollins,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Jonathan Rollins,False
+Jordan Smith,continues,True,3,Doctors Name,"Adam Stevens, Andrew King",Jonathan Rollins,False
+Abnormal,continues,False,0,,,Jonathan Rollins,False
+Emergency,continues,False,0,,,Jonathan Rollins,False
+Jordan Smith,continues,True,3,RN,Suzanne Shelton,Jonathan Rollins,False
+Jordan Smith,continues,False,0,,,Jonathan Rollins,False
+1971-07-12,jb_special_tokens,True,2,DOB,"Brianna Gomez, Patrick Hopkins",Jordan Garza,False
+2021-07-05,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Timothy Zuniga, Jeff Williams, Teresa Bailey, Michael Lee, Dalton Singleton, Stephanie Cole, Kevin Crane, George Cox, Jamie Williams, Colleen Ellis, Luis Sweeney",Jordan Garza,False
+2021-08-03,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Nicholas Patterson, Lisa Stout, Katelyn Sullivan, Stephanie Barron, Robert Simpson, Kenneth Walters, Alexander Byrd, Andrea Cannon, Mario Marshall, Craig Davis, Michael Mcmillan, Luke Murphy, Scott Hunter",Jordan Garza,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Jordan Garza,Jordan Garza,True
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jordan Garza,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Garza,Jordan Garza,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Jordan Garza,Jordan Garza,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,None,Jordan Garza,False
+627-66-5754,jb_special_tokens,True,1,SSN,Christy Gray,Jordan Garza,False
+627-66-5754,jb_special_tokens,False,0,,,Jordan Garza,False
+#858040,jb_special_tokens,True,1,Billing Account Number,Ashley Sanchez,Jordan Garza,False
+#858040,jb_special_tokens,False,0,,,Jordan Garza,False
+HPB-41972,jb_special_tokens,True,1,Health Plan Number,Ariel Miller,Jordan Garza,False
+HPB-41972,jb_special_tokens,False,0,,,Jordan Garza,False
+Jordan.Garza@yahoo.com,jb_special_tokens,True,1,Email,Jordan Garza,Jordan Garza,True
+Jordan.Garza@yahoo.com,jb_special_tokens,False,0,,,Jordan Garza,False
+English,jb_special_tokens,False,0,,,Jordan Garza,False
+Single,jb_special_tokens,False,0,,,Jordan Garza,False
+Emergency,jb_special_tokens,False,0,,,Jordan Garza,False
+Female,jb_special_tokens,False,0,,,Jordan Garza,False
+2021-07-05,jb_special_tokens,False,0,,,Jordan Garza,False
+1971-07-12,jb_special_tokens,False,0,,,Jordan Garza,False
+2021-08-03,jb_special_tokens,False,0,,,Jordan Garza,False
+Elective,continues,False,0,,,Jordan Garza,False
+1956-02-22,jb_special_tokens,True,2,DOB,"David Villanueva, Michael Soto",Joshua Silva,False
+2020-02-07,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Lindsey Webb, Kim Fernandez, Jason Simpson, Ashley Watson, Cynthia Humphrey, Jay Barker, Peter Thomas, Brandon Miller, Bryan Williams, Michelle Fox, Peter Jenkins",Joshua Silva,False
+2020-02-21,jb_special_tokens,True,15,"Date of Visit, Date of Discharge","Jonathan Velez, Rebecca Miller, Olivia Williams, Rachel Porter, Scott Boyer, Ronald Woodard, Jonathan Williams, Natalie Rodriguez, Cody Hoffman, Deborah Murray, Richard Young, Nicole Pearson, Dawn Harris, Sandra Brown, Mary Carr",Joshua Silva,False
+2020-03-13,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","James Garza, Chad Smith, Taylor Brooks, Laurie Wilkins, Heather Sutton, Andres Griffin, Dawn Yates, Robert Shepard, John Nguyen, Kimberly May, Mark Cruz, Paul Ramirez",Joshua Silva,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joshua Silva,Joshua Silva,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Joshua Silva,Joshua Silva,True
+Widowed,jb_special_tokens,True,469,Multiple Rows: Marital status,None,Joshua Silva,False
+1652783411,jb_special_tokens,True,1,MRN,Michael Soto,Joshua Silva,False
+1652783411,jb_special_tokens,False,0,,,Joshua Silva,False
+475-81-8048,jb_special_tokens,True,1,SSN,Dustin Ryan,Joshua Silva,False
+475-81-8048,jb_special_tokens,False,0,,,Joshua Silva,False
+#935804,jb_special_tokens,True,1,Billing Account Number,Christopher Young,Joshua Silva,False
+#935804,jb_special_tokens,False,0,,,Joshua Silva,False
+HPB-94829,jb_special_tokens,True,1,Health Plan Number,Mark White,Joshua Silva,False
+HPB-94829,jb_special_tokens,False,0,,,Joshua Silva,False
+Michael.Soto@dhl.com,jb_special_tokens,True,1,Email,Michael Soto,Joshua Silva,False
+Michael.Soto@dhl.com,jb_special_tokens,False,0,,,Joshua Silva,False
+English,jb_special_tokens,False,0,,,Joshua Silva,False
+Widowed,jb_special_tokens,False,0,,,Joshua Silva,False
+Male,jb_special_tokens,False,0,,,Joshua Silva,False
+1956-02-22,jb_special_tokens,False,0,,,Joshua Silva,False
+2020-02-21,jb_special_tokens,False,0,,,Joshua Silva,False
+2020-03-13,jb_special_tokens,False,0,,,Joshua Silva,False
+2020-02-07,jb_special_tokens,False,0,,,Joshua Silva,False
+Michael Soto,jb_special_tokens,True,2,Name,Michael Soto,Joshua Silva,False
+Michael Soto,jb_special_tokens,True,2,Doctors Name,Joshua Silva,Joshua Silva,True
+Michael Soto,jb_special_tokens,False,0,,,Joshua Silva,False
+2021-08-21,continues,True,11,"Date of Visit, Date of Discharge","Rachel Gonzalez, Kelsey Singh, Samuel Reed, Jesse Koch, Scott Parrish, Patricia Ferguson, Adrienne Palmer, Julie Adams, Nicole Contreras, Sarah Hayes, Alexandria Perkins",Karen Chavez,False
+2021-08-22,continues,True,12,"Date of Visit, Date of Discharge","Brenda Kim, Donna Hammond, Mary Davis, Michelle Jacobson, Vincent Wright, Melvin Sherman, Daniel Wagner, Belinda Ramirez, Wendy Marquez, Kyle Johnson, Tonya Fitzpatrick, Michael Robles",Karen Chavez,False
+2021-09-04,continues,True,6,"Date of Visit, Date of Discharge","Lori Olson, Lauren Gonzalez, Jacqueline Sherman, Kelsey Singh, Vincent Wright, Cassandra Johnson",Karen Chavez,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Karen Chavez,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Karen Chavez,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Karen Chavez,Karen Chavez,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Karen Chavez,Karen Chavez,True
+Russian,continues,True,221,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Karen Chavez,False
+Single,continues,True,4834,Multiple Rows: Marital status,Karen Chavez,Karen Chavez,True
+Elective,jb_special_tokens,False,0,,,Karen Chavez,False
+#353384,continues,True,1,Billing Account Number,Omar Hill,Karen Chavez,False
+#353384,continues,False,0,,,Karen Chavez,False
+Russian,continues,False,0,,,Karen Chavez,False
+English,continues,False,0,,,Karen Chavez,False
+Single,continues,False,0,,,Karen Chavez,False
+Elective,continues,False,0,,,Karen Chavez,False
+Female,continues,False,0,,,Karen Chavez,False
+2021-08-21,continues,False,0,,,Karen Chavez,False
+2021-08-22,continues,False,0,,,Karen Chavez,False
+2021-09-04,continues,False,0,,,Karen Chavez,False
+Stephen Robinson,continues,True,2,Name,Stephen Robinson,Karen Chavez,False
+Stephen Robinson,continues,True,2,Doctors Name,Kenneth Flynn,Karen Chavez,False
+Stephen Robinson,continues,False,0,,,Karen Chavez,False
+1994-02-04,jb_special_tokens,True,2,DOB,"Michael Compton, Sean Sanchez",Kathleen Mercer,False
+2020-12-19,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Thomas Anderson, Chad Garza, Daniel Ferguson, Jonathan Hardy, Sandra Sutton, Kristen Ward, Karen Murray, Shannon Eaton, Melody Smith, Randy Carter, Kathy Wyatt, Elizabeth Boyd",Kathleen Mercer,False
+2021-01-09,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Catherine Gilbert, Christopher Torres, Katie Lopez, Lisa Chandler, Hannah Grant, Isaac Johnson, Janet Phillips, Donald Kelly, Anita Gamble, Sean Sanchez, Karen Phelps, Sandy Gomez",Kathleen Mercer,False
+2021-02-13,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Kelly Ochoa, Michael Krueger, Mark Terry, Zachary Moss, Kimberly Kane, Mark Ramos, Alicia Jackson, Robert Knapp, Lori Williams, Corey Burgess, Joe Hoffman, William Hogan, Christopher Jackson",Kathleen Mercer,False
+2022-08-06,continues,True,11,"Date of Visit, Date of Discharge","Jacob Davis, Theresa Sharp, Karen Brady, Martin Davis, Kristina Bernard, Angela Morales, Kimberly Page, Amanda Jimenez, Anita Palmer, Derrick Wilson, Jaime King",Kathleen Mercer,False
+2022-08-16,continues,True,13,"Date of Visit, Date of Discharge","Donald Baker, Kayla Ortega, Glenn Taylor, John Hartman, Michael Stevens, Joshua Gomez, Justin Barton, Paul Mayo, Dale Brown, Cassandra Cruz, Tamara Roberts, Paul Young, Kenneth Gray",Kathleen Mercer,False
+2022-09-03,continues,True,14,"Date of Visit, Date of Discharge","Tamara Murphy, Anthony Rodriguez, Joseph Knapp, Anthony Mcmahon, Lacey Jennings, Jonathan Smith, Veronica Smith, Holly Young, Paul Morton, Tina Craig, Bryan Davis, Laura Lam, Laura Baker, Victoria Page",Kathleen Mercer,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Kathleen Mercer,Kathleen Mercer,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kathleen Mercer,Kathleen Mercer,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Kathleen Mercer,False
+Sean Sanchez,jb_special_tokens,True,2,Name,Sean Sanchez,Kathleen Mercer,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Kathleen Mercer,Kathleen Mercer,True
+2024989429,jb_special_tokens,True,1,MRN,Sean Sanchez,Kathleen Mercer,False
+2024989429,jb_special_tokens,False,0,,,Kathleen Mercer,False
+231-50-5492,jb_special_tokens,True,1,SSN,Michael Cook,Kathleen Mercer,False
+231-50-5492,jb_special_tokens,False,0,,,Kathleen Mercer,False
+HPB-20316,jb_special_tokens,True,1,Health Plan Number,Ryan Patrick,Kathleen Mercer,False
+HPB-20316,jb_special_tokens,False,0,,,Kathleen Mercer,False
+Sean.Sanchez@gmail.com,jb_special_tokens,True,1,Email,Sean Sanchez,Kathleen Mercer,False
+Sean.Sanchez@gmail.com,jb_special_tokens,False,0,,,Kathleen Mercer,False
+English,jb_special_tokens,False,0,,,Kathleen Mercer,False
+Single,jb_special_tokens,False,0,,,Kathleen Mercer,False
+Male,jb_special_tokens,False,0,,,Kathleen Mercer,False
+1994-02-04,jb_special_tokens,False,0,,,Kathleen Mercer,False
+2020-12-19,jb_special_tokens,False,0,,,Kathleen Mercer,False
+2021-01-09,jb_special_tokens,False,0,,,Kathleen Mercer,False
+2021-02-13,jb_special_tokens,False,0,,,Kathleen Mercer,False
+Sean Sanchez,jb_special_tokens,False,0,,,Kathleen Mercer,False
+Elective,continues,False,0,,,Kathleen Mercer,False
+2022-08-06,continues,False,0,,,Kathleen Mercer,False
+2022-08-16,continues,False,0,,,Kathleen Mercer,False
+2022-09-03,continues,False,0,,,Kathleen Mercer,False
+Alexandra Lara,continues,True,1,Name,Alexandra Lara,Kathleen Mercer,False
+Alexandra Lara,continues,False,0,,,Kathleen Mercer,False
+2024-02-14,continues,True,15,"Date of Visit, Date of Discharge","Matthew Smith, Sharon Johnson, Kellie Patterson, Ruben Lynch, Jenna Daniels, Eric Nolan, Tina Martin, John Hart, Richard Hodge, Teresa Lee, Terri Mckee, Shannon Martinez, Kelly Gibson, Johnathan White, Richard Perkins",Keith Wagner,False
+2024-03-11,continues,True,9,"Date of Visit, Date of Discharge","Eric Morales, Anna Evans, Marie Snyder, Paul Robertson, Alexis Lopez, Sharon Johnson, Kimberly Davis, Mario Cooper, Richard Hodge",Keith Wagner,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Keith Wagner,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Keith Wagner,Keith Wagner,True
+Rebecca Walker,continues,True,5,"Name, RN","Rebecca Walker, Christopher Riggs, Stacy Butler",Keith Wagner,False
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,Keith Wagner,Keith Wagner,True
+Urgent,jb_special_tokens,False,0,,,Keith Wagner,False
+333-84-4873,continues,True,1,SSN,Kenneth Daniels,Keith Wagner,False
+333-84-4873,continues,False,0,,,Keith Wagner,False
+#993319,continues,True,1,Billing Account Number,Joshua Williams,Keith Wagner,False
+#993319,continues,False,0,,,Keith Wagner,False
+HPB-68280,continues,True,1,Health Plan Number,Shannon Lee,Keith Wagner,False
+HPB-68280,continues,False,0,,,Keith Wagner,False
+English,continues,False,0,,,Keith Wagner,False
+Emergency,continues,False,0,,,Keith Wagner,False
+1947-02-28,continues,True,1,DOB,Heather Campbell,Keith Wagner,False
+1947-02-28,continues,False,0,,,Keith Wagner,False
+2024-02-14,continues,False,0,,,Keith Wagner,False
+2024-03-11,continues,False,0,,,Keith Wagner,False
+Rebecca Walker,continues,True,5,Doctors Name,Bailey Stevens,Keith Wagner,False
+Rebecca Walker,continues,False,0,,,Keith Wagner,False
+Ian Rocha,continues,True,1,Name,Ian Rocha,Keith Wagner,False
+Ian Rocha,continues,False,0,,,Keith Wagner,False
+Jennifer Cook,continues,True,2,Name,Jennifer Cook,Keith Wagner,False
+Jennifer Cook,continues,True,2,RN,Kristin Brown,Keith Wagner,False
+Jennifer Cook,continues,False,0,,,Keith Wagner,False
+2023-11-14,continues,True,11,"Date of Visit, Date of Discharge","Margaret Nelson, Meghan White, John Gentry, Gary Jefferson, Robert Gibson, Daniel Ramirez, Noah Gibson, Lucas Taylor, Jaclyn Anderson, Michael Campbell, Becky Vasquez",Kelsey Burch,False
+2023-12-09,continues,True,11,"Date of Visit, Date of Discharge","Walter Jefferson, Troy Garcia, Christie Smith, Victoria Dixon, Ashley Kim, Mackenzie Miller, Jo Arroyo, Shawn Rose, James Smith, Matthew Lane, Amanda Richards",Kelsey Burch,False
+2023-12-12,continues,True,12,"Date of Visit, Date of Discharge","Katrina Sandoval, Nicholas Klein, Steve Warren, Melissa Hogan, April Cruz, Jason Hess, Emily Cruz, Kendra Jacobs, Susan Dorsey, James Williams, Michele Kennedy, Jeffrey Brown",Kelsey Burch,False
+2023-12-13,continues,True,15,"Date of Visit, Date of Discharge","Jessica Byrd, Megan Jones, Mandy Smith, Mikayla Jennings, Jeffrey Castillo, Brianna Myers, Daniel Castillo, Janet Caldwell, Geoffrey Peterson, Deanna Thomas, Jaime Collins, Gary Jefferson, Ashley Kim, Shane Hartman, Andrew Williams",Kelsey Burch,False
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,None,Kelsey Burch,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Kelsey Burch,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Kelsey Burch,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Kelsey Burch,Kelsey Burch,True
+Abnormal,jb_special_tokens,False,0,,,Kelsey Burch,False
+Elective,jb_special_tokens,False,0,,,Kelsey Burch,False
+Amanda Moore,jb_special_tokens,True,2,Doctors Name,Nicholas Smith,Kelsey Burch,False
+Amanda Moore,jb_special_tokens,True,2,RN,Connie Dominguez,Kelsey Burch,False
+Amanda Moore,jb_special_tokens,False,0,,,Kelsey Burch,False
+#230385,continues,True,1,Billing Account Number,Wendy Duffy,Kelsey Burch,False
+#230385,continues,False,0,,,Kelsey Burch,False
+HPB-18970,continues,True,1,Health Plan Number,James Moody,Kelsey Burch,False
+HPB-18970,continues,False,0,,,Kelsey Burch,False
+Kelsey.Burch@dhl.com,continues,True,1,Email,Kelsey Burch,Kelsey Burch,True
+Kelsey.Burch@dhl.com,continues,False,0,,,Kelsey Burch,False
+Emergency,continues,False,0,,,Kelsey Burch,False
+Female,continues,False,0,,,Kelsey Burch,False
+2023-11-14,continues,False,0,,,Kelsey Burch,False
+2023-12-12,continues,False,0,,,Kelsey Burch,False
+2023-12-09,continues,False,0,,,Kelsey Burch,False
+2023-12-13,continues,False,0,,,Kelsey Burch,False
+2022-06-27,jb_special_tokens,True,20,"Date of Visit, Date of Discharge","Michele Ellis, Gary Andersen, Nicholas Contreras, Carlos Malone, Phillip Nelson, Stephanie Morrison, Sheila Fritz, Michael Lin, Kristen Fletcher, Tonya Nelson, John Levy, Victoria Wong, Robert Wright, Richard Villanueva, David Allen, Tammy Johnson, Lisa Aguilar, Natalie Rosales, Tracy Boone, Charles Barrett",Kevin Bailey,False
+2022-07-25,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Heidi Boyle, Linda Griffin, John Atkinson, Elaine Hicks, Nicholas Clark, Emily Perry, Thomas Parker, Willie Vasquez, Daniel White",Kevin Bailey,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Kevin Bailey,Kevin Bailey,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Kevin Bailey,Kevin Bailey,True
+Inconclusive,continues,True,3188,Multiple Rows: Test Results,None,Kevin Bailey,False
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Kevin Bailey,False
+Elective,jb_special_tokens,False,0,,,Kevin Bailey,False
+Urgent,jb_special_tokens,False,0,,,Kevin Bailey,False
+2022-06-27,jb_special_tokens,False,0,,,Kevin Bailey,False
+2022-07-25,jb_special_tokens,False,0,,,Kevin Bailey,False
+Inconclusive,continues,False,0,,,Kevin Bailey,False
+Elective,continues,False,0,,,Kevin Bailey,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Kevin Mccoy,False
+Jeffrey Hill,jb_special_tokens,True,3,Name,Jeffrey Hill,Kevin Mccoy,False
+Karen Johnson,jb_special_tokens,True,6,Doctors Name,"Kevin Robinson, Joshua Lewis, Randall Chambers, Daniel Ramirez",Kevin Mccoy,False
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Kevin Mccoy,False
+Elective,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Urgent,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Michael Peterson,jb_special_tokens,True,1,Doctors Name,Joyce Barry,Kevin Mccoy,False
+Michael Peterson,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Karen Johnson,jb_special_tokens,True,6,Name,Karen Johnson,Kevin Mccoy,False
+Karen Johnson,jb_special_tokens,True,6,RN,Patrick Melendez,Kevin Mccoy,False
+Karen Johnson,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Jeffrey Hill,jb_special_tokens,True,3,Doctors Name,Peter Keller,Kevin Mccoy,False
+Jeffrey Hill,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Jacqueline Cole,jb_special_tokens,True,2,Doctors Name,David Alvarez,Kevin Mccoy,False
+Jacqueline Cole,jb_special_tokens,True,2,RN,Wayne Ferguson,Kevin Mccoy,False
+Jacqueline Cole,jb_special_tokens,False,0,,,Kevin Mccoy,False
+Kevin Brooks,continues,True,1,Name,Kevin Brooks,Kevin Mccoy,False
+Kevin Brooks,continues,False,0,,,Kevin Mccoy,False
+2023-07-12,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Stephanie Baldwin, Judy West, John Whitaker, Alexander Brown, Nancy Rodriguez, Kelly Johnson, Emily Davis, Michelle Carlson, Zachary Hall, Evan Torres",Kevin Robertson,False
+2023-08-04,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Daniel Gonzalez, Mallory Williams, Christopher Jones, Steven Cook, Tristan Baker, Carolyn Evans, Megan Miranda, Stanley Ford",Kevin Robertson,False
+2023-08-06,jb_special_tokens,True,6,Date of Visit,"Valerie Horton, Felicia Miller, Devin Cox, Richard Hall, Richard Cortez",Kevin Robertson,False
+2023-08-09,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Jamie Hawkins, Catherine Wade, Rachel Colon, Robert Drake, Nathan Harrison, Kristen Ferguson, Taylor Carter, Renee Vasquez, Aaron Alvarado, Raymond Jones, Jason Cabrera, Mallory Williams, Tabitha Turner, Bryan Lee",Kevin Robertson,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kevin Robertson,Kevin Robertson,True
+German,jb_special_tokens,True,368,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+HPB-25017,jb_special_tokens,True,2,Health Plan Number,"Michelle Foley, John Tate",Kevin Robertson,False
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Kevin Robertson,Kevin Robertson,True
+Michael Robertson,jb_special_tokens,True,4,"Doctors Name, RN","Steven Johnson, Joseph Jones, Michelle Nielsen, Elizabeth Jones",Kevin Robertson,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,None,Kevin Robertson,False
+#835043,jb_special_tokens,True,1,Billing Account Number,Stephanie Baldwin,Kevin Robertson,False
+#835043,jb_special_tokens,False,0,,,Kevin Robertson,False
+HPB-25017,jb_special_tokens,False,0,,,Kevin Robertson,False
+Kevin.Robertson@aol.com,jb_special_tokens,True,1,Email,Kevin Robertson,Kevin Robertson,True
+Kevin.Robertson@aol.com,jb_special_tokens,False,0,,,Kevin Robertson,False
+German,jb_special_tokens,False,0,,,Kevin Robertson,False
+English,jb_special_tokens,False,0,,,Kevin Robertson,False
+Single,jb_special_tokens,False,0,,,Kevin Robertson,False
+Male,jb_special_tokens,False,0,,,Kevin Robertson,False
+2023-07-12,jb_special_tokens,False,0,,,Kevin Robertson,False
+2023-08-04,jb_special_tokens,False,0,,,Kevin Robertson,False
+2023-08-06,jb_special_tokens,True,6,Date of Discharge,Craig Wilson,Kevin Robertson,False
+2023-08-06,jb_special_tokens,False,0,,,Kevin Robertson,False
+2023-08-09,jb_special_tokens,False,0,,,Kevin Robertson,False
+Michael Robertson,jb_special_tokens,False,0,,,Kevin Robertson,False
+2020-03-30,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Eric Hall, Raymond Haynes, Melinda Nguyen, Andrew Escobar, Kelly Mathis, Chloe Vang, Steven Johnson, Mark Lopez, Valerie Johnson, Marcus Dorsey, Julie Blair, Stephanie Thomas, Lisa Moss, Marcus Todd",Linda Bowen,False
+2020-04-17,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Hannah Wheeler, Anne Greene, Dennis Tran, Kyle Ross, Melinda Nguyen, Alyssa Horton, Stephen Jones, Stacy Cox",Linda Bowen,False
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Linda Bowen,Linda Bowen,True
+Inconclusive,jb_special_tokens,True,3188,Multiple Rows: Test Results,Linda Bowen,Linda Bowen,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Linda Bowen,Linda Bowen,True
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,Linda Bowen,Linda Bowen,True
+#270472,jb_special_tokens,True,1,Billing Account Number,Michael Woodard,Linda Bowen,False
+#270472,jb_special_tokens,False,0,,,Linda Bowen,False
+HPB-50933,jb_special_tokens,True,1,Health Plan Number,Lisa Moss,Linda Bowen,False
+HPB-50933,jb_special_tokens,False,0,,,Linda Bowen,False
+Inconclusive,jb_special_tokens,False,0,,,Linda Bowen,False
+Urgent,jb_special_tokens,False,0,,,Linda Bowen,False
+Female,jb_special_tokens,False,0,,,Linda Bowen,False
+1959-01-28,jb_special_tokens,True,1,DOB,Sierra Mathis,Linda Bowen,False
+1959-01-28,jb_special_tokens,False,0,,,Linda Bowen,False
+2020-03-30,jb_special_tokens,False,0,,,Linda Bowen,False
+2020-04-17,jb_special_tokens,False,0,,,Linda Bowen,False
+Natalie Richards,jb_special_tokens,True,1,RN,Karen Warren,Linda Bowen,False
+Natalie Richards,jb_special_tokens,False,0,,,Linda Bowen,False
+Urgent,continues,False,0,,,Linda Bowen,False
+2003-01-15,continues,True,4,DOB,"Scott Baxter, Raymond Buckley, Andrea Hall, Heather Frye",Misty Miller,False
+2021-04-12,continues,True,6,Date of Visit,"Kyle Rose, Raymond Buckley, Austin Johnson, Brett Turner, Olivia Rollins",Misty Miller,False
+2021-05-04,continues,True,11,"Date of Visit, Date of Discharge","Katie Marquez, Patrick Li, Gregory Baldwin, Michelle Nicholson, Ronald Hunter, James Murray, Nancy Todd, David Gross, Raymond Buckley, Jeremy Scott, Joseph Glenn",Misty Miller,False
+2022-04-11,continues,True,12,"Date of Visit, Date of Discharge","David Osborn, Lori Santos, Tyler Moore, Samantha Miller, Melissa Price, Pamela Gonzalez, Christopher Watts, Jacob Miller, Edward Thompson, Janet Lee, Clinton Jensen, Jeremy Kirby",Misty Miller,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Misty Miller,Misty Miller,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Misty Miller,Misty Miller,True
+James Brown,continues,True,4,"Name, RN","James Brown, Karen Williamson, Jamie Underwood",Misty Miller,False
+Karen Brown,continues,True,5,"Doctors Name, RN","Brian Henderson, Alexa Short, Vincent Scott, Larry French",Misty Miller,False
+Single,continues,True,4834,Multiple Rows: Marital status,Misty Miller,Misty Miller,True
+2854353372,continues,True,1,MRN,Karen Brown,Misty Miller,False
+2854353372,continues,False,0,,,Misty Miller,False
+572-98-2242,continues,True,1,SSN,Linda Spencer,Misty Miller,False
+572-98-2242,continues,False,0,,,Misty Miller,False
+Karen.Brown@brown.com,continues,True,1,Email,Karen Brown,Misty Miller,False
+Karen.Brown@brown.com,continues,False,0,,,Misty Miller,False
+English,continues,False,0,,,Misty Miller,False
+Single,continues,False,0,,,Misty Miller,False
+Female,continues,False,0,,,Misty Miller,False
+2003-01-15,continues,False,0,,,Misty Miller,False
+2021-04-12,continues,True,6,Date of Discharge,Kara Pineda,Misty Miller,False
+2021-04-12,continues,False,0,,,Misty Miller,False
+2021-05-04,continues,False,0,,,Misty Miller,False
+2022-04-11,continues,False,0,,,Misty Miller,False
+Karen Brown,continues,True,5,Name,Karen Brown,Misty Miller,False
+Karen Brown,continues,False,0,,,Misty Miller,False
+Michelle Brown,continues,True,1,Name,Michelle Brown,Misty Miller,False
+Michelle Brown,continues,False,0,,,Misty Miller,False
+James Brown,continues,False,0,,,Misty Miller,False
+2023-07-13,continues,True,11,"Date of Visit, Date of Discharge","Eric Smith, Nicholas Price, Robin Miranda, Robert Allen, Michael Potts, Sharon Davis, Adam Jones, David Morrison, James Price, Christopher Bowen, Michael Andrews",Natalie Miller,False
+2023-07-17,continues,True,10,"Date of Visit, Date of Discharge","Cynthia Salas, Shannon Mosley, Thomas Scott, Eric Sullivan, John Bryan, Anita Johnson, Melissa Davis, Theresa Gutierrez, Laura Miller, Jennifer Roberts",Natalie Miller,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Natalie Miller,Natalie Miller,True
+Eric Smith,continues,True,5,"Name, RN","Eric Smith, Laura Bell, Bryan Rice",Natalie Miller,False
+HPB-47082,continues,True,2,Health Plan Number,"Michelle Murphy, Timothy Myers",Natalie Miller,False
+Male,continues,True,4669,Multiple Rows: Legal gender,None,Natalie Miller,False
+Single,continues,True,4834,Multiple Rows: Marital status,Natalie Miller,Natalie Miller,True
+7199343873,continues,True,1,MRN,Eric Smith,Natalie Miller,False
+7199343873,continues,False,0,,,Natalie Miller,False
+HPB-47082,continues,False,0,,,Natalie Miller,False
+Eric.Smith@brown.com,continues,True,1,Email,Eric Smith,Natalie Miller,False
+Eric.Smith@brown.com,continues,False,0,,,Natalie Miller,False
+English,continues,False,0,,,Natalie Miller,False
+Single,continues,False,0,,,Natalie Miller,False
+Male,continues,False,0,,,Natalie Miller,False
+2023-07-13,continues,False,0,,,Natalie Miller,False
+2023-07-17,continues,False,0,,,Natalie Miller,False
+Eric Smith,continues,False,0,,,Natalie Miller,False
+Christopher Webb,continues,True,1,Doctors Name,James Kim,Natalie Miller,False
+Christopher Webb,continues,False,0,,,Natalie Miller,False
+Stephanie Montgomery,continues,True,2,Doctors Name,Beth Fitzgerald,Natalie Miller,False
+Stephanie Montgomery,continues,True,2,RN,Danielle Wagner,Natalie Miller,False
+Stephanie Montgomery,continues,False,0,,,Natalie Miller,False
+2023-10-01,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Stephanie Martinez, Kathy Howe, Cindy Krueger, Brittany Coleman, Grace Sandoval, Christopher Bradshaw, Renee Ramos, Cindy Griffin, Robert Bryant, Matthew Stevenson, Rebecca Walker",Nicole Wise,False
+2023-10-08,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Patrick Knox, Jonathan Small, Bonnie Greene, Ronald Stewart, Amanda Bradshaw, Kathy Howe, Katelyn Gray, Elizabeth Hill, Stephanie George, Kyle Suarez, Renee Ramos, Alison Nelson",Nicole Wise,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Nicole Wise,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Nicole Wise,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Nicole Wise,Nicole Wise,True
+Married,jb_special_tokens,True,2857,Multiple Rows: Marital status,None,Nicole Wise,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Nicole Wise,Nicole Wise,True
++1908-404-4272,jb_special_tokens,True,1,Telephone,Benjamin Carlson,Nicole Wise,False
++1908-404-4272,jb_special_tokens,False,0,,,Nicole Wise,False
++1949-148-5006,jb_special_tokens,True,1,Telephone,Christopher Walker,Nicole Wise,False
++1949-148-5006,jb_special_tokens,False,0,,,Nicole Wise,False
+English,jb_special_tokens,False,0,,,Nicole Wise,False
+Single,jb_special_tokens,False,0,,,Nicole Wise,False
+Married,jb_special_tokens,False,0,,,Nicole Wise,False
+Emergency,jb_special_tokens,False,0,,,Nicole Wise,False
+2023-10-01,jb_special_tokens,False,0,,,Nicole Wise,False
+2023-10-08,jb_special_tokens,False,0,,,Nicole Wise,False
+Kyle Carter,jb_special_tokens,True,1,Doctors Name,Christopher Wood,Nicole Wise,False
+Kyle Carter,jb_special_tokens,False,0,,,Nicole Wise,False
+Elective,continues,False,0,,,Nicole Wise,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Paula Clark,False
+Emergency,jb_special_tokens,False,0,,,Paula Clark,False
+2023-04-19,jb_special_tokens,True,5,"Date of Visit, Date of Discharge","Jacob Diaz, Brandon Jennings, Vincent Garcia, Vanessa Hammond, Allison Owens",Paul Gomez,False
+2023-04-27,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Beth Young, Betty Lamb, William Padilla, Natasha Kent, Tonya Manning, Charles Smith, Brandon Jennings, Amanda Allison",Paul Gomez,False
+2023-05-02,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Alex Lowery, Christopher Johnson, Steven Kelly, Christopher Cunningham, Andrew Hampton, Joshua James, Taylor Scott, Thomas Miller, David Long, Caitlin Ortiz, Alyssa Thompson, Frank Wilson, Haley Hernandez, Troy Long",Paul Gomez,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Paul Gomez,Paul Gomez,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Paul Gomez,Paul Gomez,True
+Sergio Johnson,jb_special_tokens,True,2,Name,Sergio Johnson,Paul Gomez,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,None,Paul Gomez,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,Paul Gomez,False
+Widowed,jb_special_tokens,True,469,Multiple Rows: Marital status,None,Paul Gomez,False
+9936530324,jb_special_tokens,True,1,MRN,Cheyenne Knapp,Paul Gomez,False
+9936530324,jb_special_tokens,False,0,,,Paul Gomez,False
+148-10-8319,jb_special_tokens,True,1,SSN,Denise Joseph,Paul Gomez,False
+148-10-8319,jb_special_tokens,False,0,,,Paul Gomez,False
+#692927,jb_special_tokens,True,1,Billing Account Number,Lawrence Lopez,Paul Gomez,False
+#692927,jb_special_tokens,False,0,,,Paul Gomez,False
+Sergio.Johnson@web.com,jb_special_tokens,True,1,Email,Sergio Johnson,Paul Gomez,False
+Sergio.Johnson@web.com,jb_special_tokens,False,0,,,Paul Gomez,False
+English,jb_special_tokens,False,0,,,Paul Gomez,False
+Single,jb_special_tokens,False,0,,,Paul Gomez,False
+Widowed,jb_special_tokens,False,0,,,Paul Gomez,False
+Male,jb_special_tokens,False,0,,,Paul Gomez,False
+1994-03-19,jb_special_tokens,True,1,DOB,Sergio Black,Paul Gomez,False
+1994-03-19,jb_special_tokens,False,0,,,Paul Gomez,False
+2023-04-19,jb_special_tokens,False,0,,,Paul Gomez,False
+2023-04-27,jb_special_tokens,False,0,,,Paul Gomez,False
+2023-05-02,jb_special_tokens,False,0,,,Paul Gomez,False
+Sergio Johnson,jb_special_tokens,False,0,,,Paul Gomez,False
+Urgent,continues,False,0,,,Paul Gomez,False
+2020-07-12,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Robert Taylor, Diana Larsen, Miguel Jackson, Kristen Wright, Christy Gray, Sandra Christensen, Barbara Yu, Jesse Bernard, Robert Allison, Nicholas Larson, Lauren Price, Nicholas Mills, John Perkins",Randall Thompson,False
+2020-08-04,jb_special_tokens,True,16,"Date of Visit, Date of Discharge","Derrick Mcclain, James Wise, John Garrett, Bonnie Martin, Jennifer Weaver, Curtis Myers, Miguel Jackson, Katrina Moore, Angela Mayer, Felicia Olson, Robert Thompson, Rachael Jimenez, Andre Jones, Lindsay Green, Morgan Hubbard, Brianna Wood",Randall Thompson,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Randall Thompson,Randall Thompson,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Randall Thompson,Randall Thompson,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Randall Thompson,Randall Thompson,True
+Normal,continues,True,3219,Multiple Rows: Test Results,Randall Thompson,Randall Thompson,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Randall Thompson,Randall Thompson,True
+Widowed,jb_special_tokens,True,469,Multiple Rows: Marital status,None,Randall Thompson,False
+6912420658,jb_special_tokens,True,1,MRN,Randall Thompson,Randall Thompson,True
+6912420658,jb_special_tokens,False,0,,,Randall Thompson,False
+#176433,jb_special_tokens,True,1,Billing Account Number,Dale Huerta,Randall Thompson,False
+#176433,jb_special_tokens,False,0,,,Randall Thompson,False
+HPB-37106,jb_special_tokens,True,1,Health Plan Number,Hector Davis,Randall Thompson,False
+HPB-37106,jb_special_tokens,False,0,,,Randall Thompson,False
++1317-522-5663,jb_special_tokens,True,1,Telephone,Jonathan Butler,Randall Thompson,False
++1317-522-5663,jb_special_tokens,False,0,,,Randall Thompson,False
+Randall.Thompson@aol.com,jb_special_tokens,True,1,Email,Randall Thompson,Randall Thompson,True
+Randall.Thompson@aol.com,jb_special_tokens,False,0,,,Randall Thompson,False
+English,jb_special_tokens,False,0,,,Randall Thompson,False
+Single,jb_special_tokens,False,0,,,Randall Thompson,False
+Widowed,jb_special_tokens,False,0,,,Randall Thompson,False
+Male,jb_special_tokens,False,0,,,Randall Thompson,False
+2020-07-12,jb_special_tokens,False,0,,,Randall Thompson,False
+2020-08-04,jb_special_tokens,False,0,,,Randall Thompson,False
+Normal,continues,False,0,,,Randall Thompson,False
+Emergency,continues,False,0,,,Randall Thompson,False
+Cynthia Sullivan,continues,True,1,RN,James Morgan,Randall Thompson,False
+Cynthia Sullivan,continues,False,0,,,Randall Thompson,False
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,None,Richard Elliott,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Richard Elliott,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Richard Elliott,Richard Elliott,True
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Richard Elliott,False
+Abnormal,jb_special_tokens,False,0,,,Richard Elliott,False
+Urgent,jb_special_tokens,False,0,,,Richard Elliott,False
+Noah Gibson,jb_special_tokens,True,1,Name,Noah Gibson,Richard Elliott,False
+Noah Gibson,jb_special_tokens,False,0,,,Richard Elliott,False
+Elective,continues,False,0,,,Richard Elliott,False
+Male,continues,False,0,,,Richard Elliott,False
+2020-07-21,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Robert Ortega, Kimberly Hill, Melissa Hawkins, Alicia Moore, Melissa Wong, Misty White, Dalton Garcia, Benjamin Morris, Jon Andersen, Scott Ruiz, Andrew Williams",Robert Ortega,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Robert Ortega,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Robert Ortega,Robert Ortega,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Robert Ortega,Robert Ortega,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,None,Robert Ortega,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Robert Ortega,Robert Ortega,True
+7457484224,jb_special_tokens,True,1,MRN,Robert Ortega,Robert Ortega,True
+7457484224,jb_special_tokens,False,0,,,Robert Ortega,False
+#825135,jb_special_tokens,True,1,Billing Account Number,Christine Butler,Robert Ortega,False
+#825135,jb_special_tokens,False,0,,,Robert Ortega,False
+HPB-49774,jb_special_tokens,True,1,Health Plan Number,Austin Beard,Robert Ortega,False
+HPB-49774,jb_special_tokens,False,0,,,Robert Ortega,False
++1630-919-3306,jb_special_tokens,True,1,Telephone,Mark Vazquez,Robert Ortega,False
++1630-919-3306,jb_special_tokens,False,0,,,Robert Ortega,False
+Robert.Ortega@aol.com,jb_special_tokens,True,1,Email,Robert Ortega,Robert Ortega,True
+Robert.Ortega@aol.com,jb_special_tokens,False,0,,,Robert Ortega,False
+English,jb_special_tokens,False,0,,,Robert Ortega,False
+Single,jb_special_tokens,False,0,,,Robert Ortega,False
+Male,jb_special_tokens,False,0,,,Robert Ortega,False
+2000-01-08,jb_special_tokens,True,1,DOB,Robert Ortega,Robert Ortega,True
+2000-01-08,jb_special_tokens,False,0,,,Robert Ortega,False
+2020-07-21,jb_special_tokens,False,0,,,Robert Ortega,False
+Julian Rivera,jb_special_tokens,True,1,Doctors Name,Timothy Petersen,Robert Ortega,False
+Julian Rivera,jb_special_tokens,False,0,,,Robert Ortega,False
+William Schmidt,jb_special_tokens,True,2,Doctors Name,Brian Johnson,Robert Ortega,False
+William Schmidt,jb_special_tokens,True,2,RN,Jamie Patton,Robert Ortega,False
+William Schmidt,jb_special_tokens,False,0,,,Robert Ortega,False
+Urgent,continues,False,0,,,Robert Ortega,False
+Elective,continues,False,0,,,Robert Ortega,False
+2022-04-15,jb_special_tokens,True,5,"Date of Visit, Date of Discharge","Angel Foster, Elizabeth Solomon, Tonya Kim, Brenda Smith, Mark White",Rose Burton,False
+2022-04-23,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Holly Henry, Vanessa Brown, Douglas James, Jonathan Butler, Brandi Wall, April Graham, Timothy Davis, Tyler Cox, Michael Cortez, Tammy Lopez",Rose Burton,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Rose Burton,False
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Rose Burton,False
+456-45-3980,jb_special_tokens,True,1,SSN,Linda Reyes,Rose Burton,False
+456-45-3980,jb_special_tokens,False,0,,,Rose Burton,False
+#378945,jb_special_tokens,True,1,Billing Account Number,Damon Lopez,Rose Burton,False
+#378945,jb_special_tokens,False,0,,,Rose Burton,False
+HPB-87870,jb_special_tokens,True,1,Health Plan Number,Michael Gardner,Rose Burton,False
+HPB-87870,jb_special_tokens,False,0,,,Rose Burton,False
+Elective,jb_special_tokens,False,0,,,Rose Burton,False
+Male,jb_special_tokens,False,0,,,Rose Burton,False
+1982-04-05,jb_special_tokens,True,1,DOB,Lauren Gonzalez,Rose Burton,False
+1982-04-05,jb_special_tokens,False,0,,,Rose Burton,False
+2022-04-15,jb_special_tokens,False,0,,,Rose Burton,False
+2022-04-23,jb_special_tokens,False,0,,,Rose Burton,False
+Kenneth Harris,jb_special_tokens,True,1,Doctors Name,Andrew Parker,Rose Burton,False
+Kenneth Harris,jb_special_tokens,False,0,,,Rose Burton,False
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,Ruben Lynch,Ruben Lynch,True
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,Ruben Lynch,Ruben Lynch,True
+Abnormal,jb_special_tokens,False,0,,,Ruben Lynch,False
+Emergency,jb_special_tokens,False,0,,,Ruben Lynch,False
+Michael Taylor,jb_special_tokens,True,2,Name,Michael Taylor,Ruben Lynch,False
+Michael Taylor,jb_special_tokens,True,2,RN,Andrew Olsen,Ruben Lynch,False
+Michael Taylor,jb_special_tokens,False,0,,,Ruben Lynch,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Ryan Harper,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Ryan Harper,Ryan Harper,True
+Elective,jb_special_tokens,False,0,,,Ryan Harper,False
+Urgent,continues,False,0,,,Ryan Harper,False
+2021-11-29,continues,True,12,"Date of Visit, Date of Discharge","Christopher Erickson, Michael Pena, Donna Clarke, Matthew Scott, Joshua Morris, Kevin Nichols, Charles Simpson, Wanda Jones, Terri Jenkins, Terry Roberson, James Collins, James Reed",Sabrina Wilcox,False
+2021-12-27,continues,True,8,"Date of Visit, Date of Discharge","Eric Owens, Michelle Hernandez, Amanda Harris, Dustin Hill, Christopher Walter, Shane Rubio, Jay Mcclure, Terry Roberson",Sabrina Wilcox,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sabrina Wilcox,Sabrina Wilcox,True
+Male,continues,True,4669,Multiple Rows: Legal gender,None,Sabrina Wilcox,False
+Single,continues,True,4834,Multiple Rows: Marital status,Sabrina Wilcox,Sabrina Wilcox,True
+8060299047,continues,True,1,MRN,Luke Hamilton,Sabrina Wilcox,False
+8060299047,continues,False,0,,,Sabrina Wilcox,False
+220-91-1835,continues,True,1,SSN,Miguel Pittman,Sabrina Wilcox,False
+220-91-1835,continues,False,0,,,Sabrina Wilcox,False
+#275737,continues,True,1,Billing Account Number,Cole Luna,Sabrina Wilcox,False
+#275737,continues,False,0,,,Sabrina Wilcox,False
+HPB-30059,continues,True,1,Health Plan Number,Dale Santiago,Sabrina Wilcox,False
+HPB-30059,continues,False,0,,,Sabrina Wilcox,False
+English,continues,False,0,,,Sabrina Wilcox,False
+Single,continues,False,0,,,Sabrina Wilcox,False
+Male,continues,False,0,,,Sabrina Wilcox,False
+1978-04-21,continues,True,1,DOB,Margaret Robinson,Sabrina Wilcox,False
+1978-04-21,continues,False,0,,,Sabrina Wilcox,False
+2021-11-29,continues,False,0,,,Sabrina Wilcox,False
+2021-12-27,continues,False,0,,,Sabrina Wilcox,False
+Richard Mills,continues,True,1,Name,Richard Mills,Sabrina Wilcox,False
+Richard Mills,continues,False,0,,,Sabrina Wilcox,False
+2004-02-24,continues,True,3,DOB,"David Peterson, Scott Wright, Mark Morris",Sarah Marshall,False
+2019-09-11,jb_special_tokens,True,15,"Date of Visit, Date of Discharge","Joshua Elliott, Sandra Coleman, David Gibson, David Rodriguez, Jacob Moody, Linda Brown, Michael Ward, Michael Johnson, Ashley Lyons, Sarah Hernandez, Brenda Gonzales, Marcus Gomez, Jason Robles, Sarah Williams, Nicholas Mccall",Sarah Marshall,False
+2019-09-13,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Christopher Johnson, Brittney Ramos, Guy Davila, Cory Hampton, Samuel Boyd, Molly Williams, Amy Garcia, Dustin Logan, Robert Little, Richard Bell",Sarah Marshall,False
+2019-09-24,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Tim Mccann, Emma Randolph, Amy Burns, James Watts, Shannon York, David Lewis, Susan Wilson, David Wu, Jordan Kennedy, Johnathan Martinez, Jerry Davenport, Alexandra Lara",Sarah Marshall,False
+2023-05-23,continues,True,9,"Date of Visit, Date of Discharge","Samantha Hampton, Scott Wright, Tiffany Baldwin, David Andrews, Kelly Anderson, Steven Reed, Monica Avila, Lindsay Andersen, Desiree Greene",Sarah Marshall,False
+2023-06-07,continues,True,9,"Date of Visit, Date of Discharge","Melissa Tran, Stacy Roth, Kevin Robbins, Stacy Nelson, Melinda Martin, Keith Thomas, Scott Wright, Amanda Cooper, Steven Nunez",Sarah Marshall,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Sarah Marshall,Sarah Marshall,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Marshall,Sarah Marshall,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Marshall,Sarah Marshall,True
+Male,continues,True,4669,Multiple Rows: Legal gender,None,Sarah Marshall,False
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Sarah Marshall,False
+Single,continues,True,4834,Multiple Rows: Marital status,Sarah Marshall,Sarah Marshall,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Sarah Marshall,Sarah Marshall,True
+5480283978,jb_special_tokens,True,1,MRN,Christopher Shah,Sarah Marshall,False
+5480283978,jb_special_tokens,False,0,,,Sarah Marshall,False
+724-27-5840,jb_special_tokens,True,1,SSN,Christopher Baker,Sarah Marshall,False
+724-27-5840,jb_special_tokens,False,0,,,Sarah Marshall,False
+#550407,jb_special_tokens,True,1,Billing Account Number,Anthony Cooper,Sarah Marshall,False
+#550407,jb_special_tokens,False,0,,,Sarah Marshall,False
+HPB-89040,jb_special_tokens,True,1,Health Plan Number,Jeremy Bennett,Sarah Marshall,False
+HPB-89040,jb_special_tokens,False,0,,,Sarah Marshall,False
++1507-774-5563,jb_special_tokens,True,1,Telephone,Candice Peterson,Sarah Marshall,False
++1507-774-5563,jb_special_tokens,False,0,,,Sarah Marshall,False
+English,jb_special_tokens,False,0,,,Sarah Marshall,False
+Single,jb_special_tokens,False,0,,,Sarah Marshall,False
+Male,jb_special_tokens,False,0,,,Sarah Marshall,False
+1959-03-07,jb_special_tokens,True,1,DOB,Christopher Shah,Sarah Marshall,False
+1959-03-07,jb_special_tokens,False,0,,,Sarah Marshall,False
+2019-09-11,jb_special_tokens,False,0,,,Sarah Marshall,False
+2019-09-24,jb_special_tokens,False,0,,,Sarah Marshall,False
+2019-09-13,jb_special_tokens,False,0,,,Sarah Marshall,False
+Christopher Shah,jb_special_tokens,True,1,Name,Christopher Shah,Sarah Marshall,False
+Christopher Shah,jb_special_tokens,False,0,,,Sarah Marshall,False
+4621467545,continues,True,1,MRN,Scott Wright,Sarah Marshall,False
+4621467545,continues,False,0,,,Sarah Marshall,False
+HPB-72896,continues,True,1,Health Plan Number,Matthew Wilson,Sarah Marshall,False
+HPB-72896,continues,False,0,,,Sarah Marshall,False
++1434-301-5615,continues,True,1,Telephone,Veronica Myers,Sarah Marshall,False
++1434-301-5615,continues,False,0,,,Sarah Marshall,False
+Scott.Wright@dhl.com,continues,True,1,Email,Scott Wright,Sarah Marshall,False
+Scott.Wright@dhl.com,continues,False,0,,,Sarah Marshall,False
+English,continues,False,0,,,Sarah Marshall,False
+Single,continues,False,0,,,Sarah Marshall,False
+Elective,continues,False,0,,,Sarah Marshall,False
+Male,continues,False,0,,,Sarah Marshall,False
+2004-02-24,continues,False,0,,,Sarah Marshall,False
+2023-05-23,continues,False,0,,,Sarah Marshall,False
+2023-06-07,continues,False,0,,,Sarah Marshall,False
+Scott Wright,continues,True,2,Name,Scott Wright,Sarah Marshall,False
+Scott Wright,continues,True,2,Doctors Name,Samantha Thompson,Sarah Marshall,False
+Scott Wright,continues,False,0,,,Sarah Marshall,False
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,None,Sean Mcpherson,False
+Brandi Anderson,continues,True,2,RN,"Jordan Jones, Janice Cooke",Sean Mcpherson,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Sean Mcpherson,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,Sean Mcpherson,False
+Abnormal,jb_special_tokens,False,0,,,Sean Mcpherson,False
+Emergency,jb_special_tokens,False,0,,,Sean Mcpherson,False
+Shawn Barrett,jb_special_tokens,True,1,Name,Shawn Barrett,Sean Mcpherson,False
+Shawn Barrett,jb_special_tokens,False,0,,,Sean Mcpherson,False
+1677048656,continues,True,1,MRN,Theresa Bartlett,Sean Mcpherson,False
+1677048656,continues,False,0,,,Sean Mcpherson,False
+Urgent,continues,False,0,,,Sean Mcpherson,False
+Brandi Anderson,continues,False,0,,,Sean Mcpherson,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Shannon Lawrence,Shannon Lawrence,True
+Edward Clark,jb_special_tokens,True,2,Doctors Name,Samantha Smith,Shannon Lawrence,False
+Edward Clark,jb_special_tokens,True,2,RN,Ronald Stark,Shannon Lawrence,False
+Edward Clark,jb_special_tokens,False,0,,,Shannon Lawrence,False
+Female,continues,False,0,,,Shannon Lawrence,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Shelby Mccoy,Shelby Mccoy,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelby Mccoy,Shelby Mccoy,True
+Inconclusive,continues,True,3188,Multiple Rows: Test Results,None,Shelby Mccoy,False
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Shelby Mccoy,False
+Urgent,jb_special_tokens,False,0,,,Shelby Mccoy,False
+Inconclusive,continues,False,0,,,Shelby Mccoy,False
+Emergency,continues,False,0,,,Shelby Mccoy,False
+Female,continues,False,0,,,Shelby Mccoy,False
+2020-07-24,continues,True,13,"Date of Visit, Date of Discharge","Eric Cook, Kristen Merritt, Sheryl Young, Cheryl Gregory, Kevin Robertson, Kristina Wright, Brianna Wood, Mike Smith, Travis Terrell, Tiffany Lopez, Michelle Middleton, Patrick Hopkins, Amy Chandler",Sheryl Young,False
+2020-08-01,continues,True,14,"Date of Visit, Date of Discharge","Christopher Williams, Valerie Bridges, Amy Mcdaniel, Melanie Callahan, Yvonne Allen, Felicia Olson, Matthew Chung, Manuel Smith, Jose Vasquez, Deborah Phillips, Sheryl Young, Joseph Scott, Joanne Ellison, Russell Walls",Sheryl Young,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Sheryl Young,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sheryl Young,Sheryl Young,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sheryl Young,Sheryl Young,True
+Jennifer Thompson,continues,True,3,Name,Jennifer Thompson,Sheryl Young,False
+Married,continues,True,2857,Multiple Rows: Marital status,Sheryl Young,Sheryl Young,True
+Elective,jb_special_tokens,False,0,,,Sheryl Young,False
+9547490402,continues,True,1,MRN,Sheryl Young,Sheryl Young,True
+9547490402,continues,False,0,,,Sheryl Young,False
+444-21-8790,continues,True,1,SSN,Sheryl Young,Sheryl Young,True
+444-21-8790,continues,False,0,,,Sheryl Young,False
+#945853,continues,True,1,Billing Account Number,Sheryl Young,Sheryl Young,True
+#945853,continues,False,0,,,Sheryl Young,False
+HPB-72726,continues,True,1,Health Plan Number,Sheryl Young,Sheryl Young,True
+HPB-72726,continues,False,0,,,Sheryl Young,False
++1916-183-5582,continues,True,1,Telephone,Sheryl Young,Sheryl Young,True
++1916-183-5582,continues,False,0,,,Sheryl Young,False
+Sheryl.Young@yahoo.com,continues,True,1,Email,Sheryl Young,Sheryl Young,True
+Sheryl.Young@yahoo.com,continues,False,0,,,Sheryl Young,False
+English,continues,False,0,,,Sheryl Young,False
+Married,continues,False,0,,,Sheryl Young,False
+Female,continues,False,0,,,Sheryl Young,False
+1935-01-27,continues,True,1,DOB,Sheryl Young,Sheryl Young,True
+1935-01-27,continues,False,0,,,Sheryl Young,False
+2020-07-24,continues,False,0,,,Sheryl Young,False
+2020-08-01,continues,False,0,,,Sheryl Young,False
+Jennifer Thompson,continues,False,0,,,Sheryl Young,False
+2021-01-18,continues,True,7,"Date of Visit, Date of Discharge","Tammy Nolan, Ryan Hood, Sean Cook, Sara Warren, Brandon Lynn, Adam Fowler, Suzanne Shelton",Stephanie Robinson,False
+2021-01-21,continues,True,12,"Date of Visit, Date of Discharge","Wesley Clay, Fred Stevenson, Jessica Thompson, Laura Obrien, Kathryn West, Vicki Rodriguez, Megan Mason, Cathy Gonzalez, Michelle Nielsen, Scott Johnston, Charles Waller, David Mccall",Stephanie Robinson,False
+2021-02-13,continues,True,13,"Date of Visit, Date of Discharge","Kelly Ochoa, Michael Krueger, Mark Terry, Zachary Moss, Kimberly Kane, Mark Ramos, Alicia Jackson, Robert Knapp, Lori Williams, Corey Burgess, Joe Hoffman, William Hogan, Christopher Jackson",Stephanie Robinson,False
+2021-03-01,continues,True,16,"Date of Visit, Date of Discharge","Edwin Brown, Steven Robinson, Linda Spencer, Deborah Harrison, Angie Beard, Bryan Morgan, Kimberly Harris, Haley Atkinson, Mark Ross, Michael Williams, Cynthia Berry, Jonathan Cantu, Patrick Miles, Michael Morgan, Dawn Arias, Richard Koch",Stephanie Robinson,False
+Elizabeth Williams,continues,True,5,Name,Elizabeth Williams,Stephanie Robinson,False
+Elizabeth.Williams@yahoo.com,continues,True,2,Email,Elizabeth Williams,Stephanie Robinson,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Stephanie Robinson,Stephanie Robinson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Stephanie Robinson,Stephanie Robinson,True
+Single,continues,True,4834,Multiple Rows: Marital status,None,Stephanie Robinson,False
+9326873338,continues,True,1,MRN,April Graham,Stephanie Robinson,False
+9326873338,continues,False,0,,,Stephanie Robinson,False
+#270499,continues,True,1,Billing Account Number,Phyllis Ford,Stephanie Robinson,False
+#270499,continues,False,0,,,Stephanie Robinson,False
+HPB-84090,continues,True,1,Health Plan Number,Samuel Gonzalez,Stephanie Robinson,False
+HPB-84090,continues,False,0,,,Stephanie Robinson,False
+Elizabeth.Williams@yahoo.com,continues,False,0,,,Stephanie Robinson,False
+English,continues,False,0,,,Stephanie Robinson,False
+Single,continues,False,0,,,Stephanie Robinson,False
+Female,continues,False,0,,,Stephanie Robinson,False
+2003-01-02,continues,True,1,DOB,Benjamin Rodriguez,Stephanie Robinson,False
+2003-01-02,continues,False,0,,,Stephanie Robinson,False
+2021-01-18,continues,False,0,,,Stephanie Robinson,False
+2021-01-21,continues,False,0,,,Stephanie Robinson,False
+2021-02-13,continues,False,0,,,Stephanie Robinson,False
+2021-03-01,continues,False,0,,,Stephanie Robinson,False
+Elizabeth Williams,continues,True,5,Doctors Name,Debra Mueller,Stephanie Robinson,False
+Elizabeth Williams,continues,True,5,RN,Ashley Lyons,Stephanie Robinson,False
+Elizabeth Williams,continues,False,0,,,Stephanie Robinson,False
+2022-10-14,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Jessica Cook, Amanda Miller, James Smith, Derrick Shea, Vincent Martinez, Kyle Marshall, Jessica Gray, Grace Gomez, Laura Chapman",Vincent Wheeler,False
+2022-10-23,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Jesse Brooks, Isaiah Mendez, Kyle Murphy, Sherri Whitehead, Brian Rice, Brian Henderson, Jasmine Spencer, Brandon Anderson",Vincent Wheeler,False
+2022-10-27,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Deborah Luna, Breanna Morales, Tammy Lopez, Jake Padilla, Abigail Chavez, Michelle Hernandez, Mathew Dixon, Hailey Lopez, Matthew Nelson, Samantha Patterson",Vincent Wheeler,False
+2022-11-01,jb_special_tokens,True,7,"Date of Visit, Date of Discharge","Allison Smith, Elijah Cline, Elizabeth Compton, Amanda Miller, David Gray, Scott Hernandez, Douglas Brown",Vincent Wheeler,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Vincent Wheeler,Vincent Wheeler,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Vincent Wheeler,Vincent Wheeler,True
+297-82-5551,jb_special_tokens,True,1,SSN,Keith Conrad,Vincent Wheeler,False
+297-82-5551,jb_special_tokens,False,0,,,Vincent Wheeler,False
+#145363,jb_special_tokens,True,1,Billing Account Number,Ethan Boyle,Vincent Wheeler,False
+#145363,jb_special_tokens,False,0,,,Vincent Wheeler,False
+#682831,jb_special_tokens,True,1,Billing Account Number,Morgan Hubbard,Vincent Wheeler,False
+#682831,jb_special_tokens,False,0,,,Vincent Wheeler,False
+HPB-50363,jb_special_tokens,True,1,Health Plan Number,George Phillips,Vincent Wheeler,False
+HPB-50363,jb_special_tokens,False,0,,,Vincent Wheeler,False
+Male,jb_special_tokens,False,0,,,Vincent Wheeler,False
+2022-10-14,jb_special_tokens,False,0,,,Vincent Wheeler,False
+2022-11-01,jb_special_tokens,False,0,,,Vincent Wheeler,False
+2022-10-23,jb_special_tokens,False,0,,,Vincent Wheeler,False
+2022-10-27,jb_special_tokens,False,0,,,Vincent Wheeler,False
+Steven Garcia,jb_special_tokens,True,1,Name,Steven Garcia,Vincent Wheeler,False
+Steven Garcia,jb_special_tokens,False,0,,,Vincent Wheeler,False
+Elective,continues,False,0,,,Vincent Wheeler,False

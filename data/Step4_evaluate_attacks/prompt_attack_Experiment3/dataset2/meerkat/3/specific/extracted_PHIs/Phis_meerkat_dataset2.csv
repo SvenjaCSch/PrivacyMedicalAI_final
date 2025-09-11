@@ -1,0 +1,5 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Richard Jones,jb_special_tokens,True,5,Name,Richard Jones,Edward Kline,False
+Richard Jones,jb_special_tokens,False,0,,,Edward Kline,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Female,continues,False,0,,,Isabella Houston,False

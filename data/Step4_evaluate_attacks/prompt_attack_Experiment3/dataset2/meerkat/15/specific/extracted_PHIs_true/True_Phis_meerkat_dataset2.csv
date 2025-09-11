@@ -1,0 +1,92 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Bryan Potts,Bryan Potts,True
+2023-02-24,continues,True,16,"Date of Visit, Date of Discharge","Kellie Montoya, David Smith, Benjamin Rios, Brian Carpenter, Stephanie Peterson, Lori Gates, Jennifer Holder, Scott Rollins, Robert Willis, Kristen Wilson, Lisa Torres, Brett Decker, Crystal Rivas, Kathleen Herrera, Michelle Hicks, Tonya Coleman",Candice Rogers,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,None,Candice Rogers,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+2023-02-12,continues,True,12,"Date of Visit, Date of Discharge","Kenneth Thomas, Terry Smith, April Key, Jason Wiggins, Alyssa Melendez, Stephanie Buck, Heidi Joseph, Dylan Barnes, Gina Zhang, Rebekah Madden, Jennifer Jackson, Kirsten Charles",Erin Foley,False
+2023-02-27,continues,True,11,"Date of Visit, Date of Discharge","Patricia Snyder, Janice Campbell, Jeremy Paul, Christopher Schneider, Tim Gonzalez, Tammy Douglas, Erin Smith, Jacob Mckinney, Susan Ferguson, Darren Collins, Richard Singh",Erin Foley,False
+6484876162,continues,True,9,MRN,Chris Flores,Erin Foley,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Erin Foley,Erin Foley,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Erin Foley,False
+Cynthia Walsh,continues,True,1,Doctors Name,Antonio Alexander,Erin Foley,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+2025-04-06,continues,True,14,Date of Visit,April Henderson,Heather Petersen,False
+2025-05-06,continues,True,13,Date of Visit,Matthew Stewart,Heather Petersen,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Heather Petersen,Heather Petersen,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+HPB-77349,continues,True,9,Health Plan Number,Michael Mckay,Heather Petersen,False
+Single,continues,True,4296,Multiple Rows: Marital status,None,Heather Petersen,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,continues,True,1,Email,Heather Petersen,Heather Petersen,True
+2023-07-03,continues,True,5,"Date of Visit, Date of Discharge","Timothy Garcia, Jason Dunn, Bobby Walker, Cynthia Mendoza, Jennifer Donovan",Heidi Joseph,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+Inconclusive,continues,True,2931,Multiple Rows: Test Results,None,Heidi Joseph,False
+Katherine Smith,continues,True,1,RN,Kenneth Allen,Heidi Joseph,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Heidi Mann,Heidi Mann,True
+Jacob Gutierrez,continues,True,1,RN,Natalie Nunez,Heidi Mann,False
+2023-04-23,continues,True,15,"Date of Visit, Date of Discharge","Sonya Stafford, Elizabeth Sanchez, Cindy Cardenas, Hayley Rios, Theresa Roth, William Moon, Charles Tate, Karen Watkins, Michael Perkins, Douglas Smith, Laura Salazar, Kaylee Howard, Jessica Martin, Julie Rodriguez, Makayla King",Jasmine Hudson,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Jasmine Hudson,False
+2024-01-14,continues,True,9,"DOB, Date of Discharge","Jason Morse, Jessica Bird, Jacqueline Brock, Judy Carter, Laura Alexander",Jeffrey Baldwin,False
+2024-01-14,continues,True,9,Date of Visit,Judy Carter,Jeffrey Baldwin,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Jodi Flores,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Jodi Flores,False
+Daniel Richardson,continues,True,1,RN,Ian Long,Jodi Flores,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+2023-02-12,continues,True,12,"Date of Visit, Date of Discharge","Kenneth Thomas, Terry Smith, April Key, Jason Wiggins, Alyssa Melendez, Stephanie Buck, Heidi Joseph, Dylan Barnes, Gina Zhang, Rebekah Madden, Jennifer Jackson, Kirsten Charles",Justin Jordan,False
+Justin Smith,continues,True,18,"Name, Doctors Name","Justin Smith, Charles Ayala, Sarah Johnson, Jamie Orr, Brian Parker, Jamie Richardson",Justin Jordan,False
+Justin.Smith@yahoo.com,continues,True,13,Email,Justin Smith,Justin Jordan,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+David Smith,continues,True,24,"Name, Doctors Name, RN","David Smith, Jamie Liu, Christian Burton, Scott Mullins, John Faulkner, Gina Gonzalez, Alyssa Melendez, Andrew Carney",Kevin Gray,False
+2023-07-16,continues,True,11,"Date of Visit, Date of Discharge","Brent Torres, Austin Jones, Brent Rodriguez, Jessica Roberts, Melissa Smith, Bobby Powell, Brian Carpenter, Allen Juarez, Brian Escobar, Laurie Barry, Daniel Johnson",Kimberly Mcmahon,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+HPB-37307,continues,True,3,Health Plan Number,Brianna Lyons,Kimberly Mcmahon,False
+Married,continues,True,2640,Multiple Rows: Marital status,Kimberly Mcmahon,Kimberly Mcmahon,True
+Kimberly.Mcmahon@yahoo.com,continues,True,1,Email,Kimberly Mcmahon,Kimberly Mcmahon,True
+Lisa Mccarthy,continues,True,1,Doctors Name,Rebecca Nelson,Kimberly Mcmahon,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristi Williams,Kristi Williams,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Kristy Rodriguez,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Linda Garcia,continues,True,6,Name,Linda Garcia,Kristy Rodriguez,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Mark Martinez,jb_special_tokens,True,1,RN,Craig Hendrix,Lance Duarte,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Lauren Copeland,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,None,Lauren Copeland,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Marco Chase,Marco Chase,True
+Marco.Chase@aol.com,continues,True,1,Email,Marco Chase,Marco Chase,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Mark Wood,Mark Wood,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Mary Henderson,Mary Henderson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Maldonado,Matthew Maldonado,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Peggy Smith,False
+2023-02-01,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Taylor Cisneros, Paul Hubbard, Elizabeth Sanchez, Kathleen Herrera, Crystal Cabrera, Karen Smith, Brittany Hoover, Victoria Powers",Philip Hamilton,False
+2023-02-28,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Jason Thomas, Ruth Brown, Julia Price, Nicholas Rogers, Derek Ortiz, Paul Hubbard, Wendy Morris, David Miller",Philip Hamilton,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Philip Hamilton,Philip Hamilton,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Philip Hamilton,Philip Hamilton,True
+Mark Perez,jb_special_tokens,True,3,RN,"Terri Keith, Michael Perkins",Philip Hamilton,False
+Michael Jones,jb_special_tokens,True,7,"Doctors Name, RN","Jonathan Thompson, Alejandro Davis, Ryan Scott, Danielle Wade, Madison Johnson, Sean Thomas, Kaylee Howard",Philip Hamilton,False
+Mark Perez,jb_special_tokens,True,3,Doctors Name,Brian Jones,Philip Hamilton,False
+Sean Smith,jb_special_tokens,True,15,Name,Sean Smith,Sean Olsen,False
+Sean Smith,jb_special_tokens,True,15,Doctors Name,Tammie Obrien,Sean Olsen,False
+2020-01-16,continues,True,12,"Date of Visit, Date of Discharge","Cynthia Jefferson, Aaron Rodriguez, John Parsons, Samantha Peters, Jennifer Swanson, Janet Smith, David Hart, Christopher Cox, James Fowler, Brian Randall, Russell Carpenter, Lauren Perez",Sylvia Edwards,False
+2022-12-30,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Ronald Fischer, Robert Matthews, Karen Smith, Courtney Santos, Sarah Jimenez, Jill Booth, Daniel Gonzales, Michael Pineda, Gregory Lane, Troy Smith, Kathryn Wilson",Sylvia Edwards,False
+2023-01-14,jb_special_tokens,True,16,"Date of Visit, Date of Discharge","Regina Hernandez, Heidi Joseph, Diana Jackson, Jeffrey Robinson, Charles Fuller, Rebekah Madden, Alexandra Jackson, Michael Smith, Phyllis Young, Jennifer Davidson, Tammy Garcia, Susan Ferguson, Caitlin Salinas, Joshua Carlson, Michael Pineda, Hector Ramirez",Sylvia Edwards,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Sylvia Edwards,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sylvia Edwards,Sylvia Edwards,True
+HPB-18105,jb_special_tokens,True,10,Health Plan Number,Courtney Rogers,Sylvia Edwards,False
+Normal,continues,True,2928,Multiple Rows: Test Results,None,Sylvia Edwards,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Sylvia Edwards,Sylvia Edwards,True
+Lisa White,continues,True,2,Doctors Name,Christopher Fernandez,Sylvia Edwards,False
+Lisa White,continues,True,2,RN,Amy Douglas,Sylvia Edwards,False
+Christopher Brock,continues,True,1,RN,Stephanie Buck,Sylvia Edwards,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Teresa Willis,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Tyler Gutierrez,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Tyler Gutierrez,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

@@ -1,0 +1,58 @@
+Value,Prompt,Found,Count,Found_in_Column
++1725-573-6455,list_example,True,13,Telephone
++1856-619-8436,system_ignore,True,12,Telephone
+100-47-1838,system_ignore,True,12,SSN
+1946-03-05,list_example,True,13,DOB
+1976-01-23,system_ignore,True,12,DOB
+2021-02-19,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2021-03-17,system_ignore,True,10,"Date of Visit, Date of Discharge"
+2023-09-22,list_example,True,15,"Date of Visit, Date of Discharge"
+2023-10-18,list_example,True,8,"Date of Visit, Date of Discharge"
+2835100418,system_ignore,True,12,MRN
+424-79-2916,list_example,True,13,SSN
+4251320996,list_example,True,13,MRN
+Aaron Rodriguez,system_ignore,True,13,Name
+Aaron.Rodriguez@brown.com,system_ignore,True,12,Email
+Christopher Watson,list_example,True,14,Name
+Christopher.Watson@dhl.com,list_example,True,13,Email
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-21380,system_ignore,True,12,Health Plan Number
+HPB-89963,list_example,True,13,Health Plan Number
+Male,list_example,True,4292,Multiple Rows: Legal gender
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Married,list_example,True,2640,Multiple Rows: Marital status
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+#743272,list_example,True,1,Billing Account Number
+88321 Johnson Village Howellmouth,list_example,False,0,
+PR 73461,list_example,False,0,
+Patient Name,list_example,False,0,
+Christopher Watson,list_example,True,14,Doctors Name
+Contact Person,list_example,False,0,
+Charles Hernandez,list_example,False,0,
+Health Plan Number,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Johnson Village Howellmouth,list_example,False,0,
+"Languages
+Language",list_example,False,0,
+"English
+Date",list_example,False,0,
+#203697,system_ignore,True,1,Billing Account Number
+2758 Jessica Ports East Danafort,system_ignore,False,0,
+KS 76966,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Aaron Rodriguez,system_ignore,True,13,Doctors Name
+Contact Person,system_ignore,False,0,
+Stephen Nelson,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Jessica Ports East Danafort,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Language",system_ignore,False,0,
+"English
+History",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

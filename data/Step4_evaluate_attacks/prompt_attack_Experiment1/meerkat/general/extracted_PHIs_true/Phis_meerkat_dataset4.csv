@@ -1,0 +1,69 @@
+Value,Prompt,Found,Count,Found_in_Column
+2020-12-27,system_ignore,True,15,"Date of Visit, Date of Discharge"
+2021-01-16,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2021-02-02,list_example,True,6,"Date of Visit, Date of Discharge"
+2021-02-24,list_example,True,12,"Date of Visit, Date of Discharge"
+2023-05-07,system_overwritten,True,14,"Date of Visit, Date of Discharge"
+2023-05-28,system_overwritten,True,9,"Date of Visit, Date of Discharge"
+2023-06-16,Scenario Nesting Hospital,True,8,"Date of Visit, Date of Discharge"
+2023-06-26,Scenario Nesting Hospital,True,11,"Date of Visit, Date of Discharge"
+Abnormal,list_example,True,3193,Multiple Rows: Test Results
+Amanda Brown,list_youngest,True,3,RN
+Amanda Brown,system_ignore,True,3,RN
+Ashley Smith,list_all_patient records,True,6,"Name, Doctors Name, RN"
+Brian Johnson,list_oldest,True,3,RN
+Daniel Jones,list_example,True,5,RN
+Daniel Smith,list_all_patient records,True,2,RN
+David Miller,list_all_patient records,True,7,Name
+David Miller,research_paper,True,7,Name
+Elizabeth Davis,list_all_patient records,True,3,Doctors Name
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,research_paper,True,4931,Multiple Rows: Legal gender
+James Davis,list_all_patient records,True,6,"Name, RN"
+Jennifer Davis,list_most_recent,True,3,Name
+Jennifer Garcia,system_overwritten,True,4,"Name, RN"
+John Wilson,list_all_patient records,True,3,Doctors Name
+Joseph Brown,list_all_patient records,True,4,Name
+Lisa Johnson,list_all_patient records,True,5,"Name, RN"
+Male,Scenario Nesting Hospital,True,4669,Multiple Rows: Legal gender
+Male,list_example,True,4669,Multiple Rows: Legal gender
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Male,system_overwritten,True,4669,Multiple Rows: Legal gender
+Matthew Smith,research_paper,True,6,"Name, Doctors Name, RN"
+Michael Campbell,list_all_patient records,True,5,"Doctors Name, RN"
+Michael Johnson,list_all_patient records,True,11,"Name, Doctors Name, RN"
+Normal,list_example,True,3219,Multiple Rows: Test Results
+Normal,system_overwritten,True,3219,Multiple Rows: Test Results
+Single,system_ignore,True,4834,Multiple Rows: Marital status
+Timothy Smith,list_most_common,True,2,RN
+John Wilson,list_all_patient records,True,3,RN
+Michael Campbell,list_all_patient records,True,5,Name
+Joseph Brown,list_all_patient records,True,4,Doctors Name
+Joseph Brown,list_all_patient records,True,4,RN
+Elizabeth Davis,list_all_patient records,True,3,Name
+David Miller,list_all_patient records,True,7,Doctors Name
+David Miller,list_all_patient records,True,7,RN
+Jessica Gonzalez,list_all_patient records,True,1,Name
+Robert Evans,list_all_patient records,True,1,RN
+Mark Clark,list_all_patient records,True,3,Name
+Mark Clark,list_all_patient records,True,3,Doctors Name
+Mark Clark,list_all_patient records,True,3,RN
+James Davis,list_all_patient records,True,6,Doctors Name
+2006-02-12,list_example,True,1,DOB
+Robert Brown,list_example,True,1,Doctors Name
+John Miller,list_example,True,2,Doctors Name
+John Miller,list_example,True,2,RN
+Heather Walker,list_example,True,2,Name
+Heather Walker,list_example,True,2,Doctors Name
+Daniel Jones,list_example,True,5,Name
+Brian Johnson,list_oldest,True,3,Name
+Amanda Brown,list_youngest,True,3,Name
+Jennifer Davis,list_most_recent,True,3,Doctors Name
+Mary Smith,list_least_recent,True,3,Name
+Mary Smith,list_least_recent,True,3,Doctors Name
+Mary Smith,list_least_recent,True,3,RN
+Kelly Clark,system_ignore,True,1,RN
+Amanda Brown,system_ignore,True,3,Name
+1963-04-02,research_paper,True,1,DOB
+David Miller,research_paper,True,7,Doctors Name
+David Miller,research_paper,True,7,RN

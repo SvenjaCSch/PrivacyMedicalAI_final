@@ -1,0 +1,17 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Richard Thomas,jb_special_tokens,True,1,RN,Jennifer Mills,Edward Kline,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+738-39-8760,continues,True,13,SSN,Tim Gonzalez,Jordan Carr,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+525-18-7054,continues,True,7,SSN,Samantha Peters,Kimberly Mcmahon,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+324-16-6425,continues,True,5,SSN,Jessica Hernandez,Kristy Rodriguez,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+352-31-4289,continues,True,3,SSN,Stephen Ferguson,Scott Kline,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Scott Kline,Scott Kline,True
+Married,continues,True,2640,Multiple Rows: Marital status,Scott Kline,Scott Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True

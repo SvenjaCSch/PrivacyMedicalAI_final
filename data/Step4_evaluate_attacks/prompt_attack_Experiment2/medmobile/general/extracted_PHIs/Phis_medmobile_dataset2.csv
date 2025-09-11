@@ -1,0 +1,27 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-07-15,Scenario Nesting Hospital,True,9,"Date of Visit, Date of Discharge"
+John Ramirez,Scenario Nesting Hospital,True,6,Name
+John Ramirez,list_example,True,6,Name
+John Ramirez,system_ignore,True,6,Name
+John Ramirez,system_overwritten,True,6,Name
+John Smith,list_most_common,True,2,RN
+Patient Name,list_example,False,0,
+John Ramirez,list_example,True,6,RN
+Jennifer Blankenship,list_least_common,False,0,
+Juan Smith,list_oldest,True,1,Doctors Name
+Carly Moore,list_youngest,False,0,
+Patricia Hill,list_least_recent,False,0,
+Patient Name,system_ignore,False,0,
+John Ramirez,system_ignore,True,6,RN
+Patient Name,system_overwritten,False,0,
+John Ramirez,system_overwritten,True,6,RN
+3484 Box 9291 APO AP 70106,Scenario Nesting Hospital,False,0,
++1712-653-1990,Scenario Nesting Hospital,False,0,
+john.ramirez@gmail.zapermouth.com,Scenario Nesting Hospital,False,0,
+Patient Name,Scenario Nesting Hospital,False,0,
+John Ramirez,Scenario Nesting Hospital,True,6,RN
+Contact Information,Scenario Nesting Hospital,False,0,
+Michael Ramirez,Scenario Nesting Hospital,False,0,
+Doctors Name,Scenario Nesting Hospital,False,0,
+Emily Turner,Scenario Nesting Hospital,False,0,
+Chief Complaint,Scenario Nesting Hospital,False,0,

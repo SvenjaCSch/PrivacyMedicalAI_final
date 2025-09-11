@@ -1,0 +1,204 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4931,Multiple Rows: Legal gender,Adrienne Wiley,Adrienne Wiley,True
+Female,continues,False,0,,,Adrienne Wiley,False
+Female,continues,True,4931,Multiple Rows: Legal gender,April Guzman,April Guzman,True
+9533792019,continues,True,1,MRN,Richard Douglas,April Guzman,False
+9533792019,continues,False,0,,,April Guzman,False
+Female,continues,False,0,,,April Guzman,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Ashley Lyons,Ashley Lyons,True
+Female,continues,False,0,,,Ashley Lyons,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+Male,continues,False,0,,,Austin Beard,False
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Becky Vasquez,Becky Vasquez,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Becky Vasquez,False
+Male,jb_special_tokens,False,0,,,Becky Vasquez,False
+Female,jb_special_tokens,False,0,,,Becky Vasquez,False
+2020-07-01,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Lisa Salazar, Caleb Baker, Heather Mendez, Robin Edwards, Samuel Copeland, Chad Cowan, Edward Washington, Oscar Morgan, Annette Bautista, Tanner Johnson, Alexander Little",Beth Fitzgerald,False
+2020-07-14,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Susan Thornton, Jessica Mcdonald, Angela Mayer, Joseph Scott, Jacqueline Williams, Morgan Hubbard, Jennifer Johnson, Caleb Baker, Dennis Edwards, Brian Brown, Chase Butler, Heather Mendez, Randy Smith",Beth Fitzgerald,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Beth Fitzgerald,Beth Fitzgerald,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Beth Fitzgerald,Beth Fitzgerald,True
+#350707,jb_special_tokens,True,1,Billing Account Number,Kenneth Willis,Beth Fitzgerald,False
+#350707,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+HPB-74918,jb_special_tokens,True,1,Health Plan Number,Ann Rivera,Beth Fitzgerald,False
+HPB-74918,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+Beth.Fitzgerald@yahoo.com,jb_special_tokens,True,1,Email,Beth Fitzgerald,Beth Fitzgerald,True
+Beth.Fitzgerald@yahoo.com,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+English,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+Female,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+2020-07-01,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+2020-07-14,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+William Ross,jb_special_tokens,True,1,Doctors Name,Nathan Jennings,Beth Fitzgerald,False
+William Ross,jb_special_tokens,False,0,,,Beth Fitzgerald,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Brittany Freeman,Brittany Freeman,True
+Female,continues,False,0,,,Brittany Freeman,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Cassandra Carrillo,Cassandra Carrillo,True
+Female,continues,False,0,,,Cassandra Carrillo,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Catherine Kirk,Catherine Kirk,True
+Female,continues,False,0,,,Catherine Kirk,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Charles Klein,Charles Klein,True
+Male,continues,False,0,,,Charles Klein,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Christopher Espinoza,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Christopher Espinoza,Christopher Espinoza,True
+Michael Davis,continues,True,5,Doctors Name,"Richard Lane, Nancy Hess, Jonathan Espinoza",Christopher Espinoza,False
+Elective,continues,False,0,,,Christopher Espinoza,False
+Male,continues,False,0,,,Christopher Espinoza,False
+Michael Davis,continues,True,5,Name,Michael Davis,Christopher Espinoza,False
+Michael Davis,continues,True,5,RN,Jonathan Malone,Christopher Espinoza,False
+Michael Davis,continues,False,0,,,Christopher Espinoza,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Clarence Ortiz,Clarence Ortiz,True
+Male,continues,False,0,,,Clarence Ortiz,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Courtney Butler,Courtney Butler,True
+Female,continues,False,0,,,Courtney Butler,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Cynthia Bradley,Cynthia Bradley,True
+Female,continues,False,0,,,Cynthia Bradley,False
+Kimberly Bennett,continues,True,3,Name,Kimberly Bennett,Denise King,False
+Kimberly Bennett,continues,True,3,Doctors Name,Amber Escobar,Denise King,False
+Kimberly Bennett,continues,True,3,RN,Paula Morris,Denise King,False
+Kimberly Bennett,continues,False,0,,,Denise King,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+Male,continues,False,0,,,Donald Hayes,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Nguyen,Donald Nguyen,True
+Male,continues,False,0,,,Donald Nguyen,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Dustin Contreras,Dustin Contreras,True
+Male,continues,False,0,,,Dustin Contreras,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Edward Mathews,Edward Mathews,True
+Male,continues,False,0,,,Edward Mathews,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Jennifer Camacho,Jennifer Camacho,True
+Female,continues,False,0,,,Jennifer Camacho,False
+Elizabeth Miller,continues,True,6,"Name, Doctors Name, RN","Elizabeth Miller, Steven Greene, Bradley Rivera, Valerie Walls, Richard Stephens",Jeremy Kirby,False
+Female,continues,True,4931,Multiple Rows: Legal gender,None,Jeremy Kirby,False
+Female,continues,False,0,,,Jeremy Kirby,False
+Elizabeth Miller,continues,False,0,,,Jeremy Kirby,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Jerome Howell,Jerome Howell,True
+Male,continues,False,0,,,Jerome Howell,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Jimmy Rosario,Jimmy Rosario,True
+Male,continues,False,0,,,Jimmy Rosario,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Jonathan Rollins,Jonathan Rollins,True
+Male,continues,False,0,,,Jonathan Rollins,False
+2021-11-18,continues,True,13,"Date of Visit, Date of Discharge","Julie Harris, Brian Lopez, Amy Rivera, Melody Parks, Samantha Rojas, Cindy Oconnor, Michael Armstrong, Michelle Wilson, Jennifer Haney, Joseph Johnson, Laura Davies, Tara Freeman, Shari Brown",Jordan Garza,False
+2021-12-06,continues,True,10,"Date of Visit, Date of Discharge","Amy Nichols, Traci Smith, Travis Hale, Michael Pena, Jasmine Pearson, Caroline Peck, Matthew Scott, Michelle Wilson, Joseph Phillips, Lisa Watkins",Jordan Garza,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,Jordan Garza,Jordan Garza,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Garza,Jordan Garza,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Jordan Garza,Jordan Garza,True
+#700164,continues,True,1,Billing Account Number,Autumn Shaw,Jordan Garza,False
+#700164,continues,False,0,,,Jordan Garza,False
+Jordan.Garza@yahoo.com,continues,True,1,Email,Jordan Garza,Jordan Garza,True
+Jordan.Garza@yahoo.com,continues,False,0,,,Jordan Garza,False
+English,continues,False,0,,,Jordan Garza,False
+Elective,continues,False,0,,,Jordan Garza,False
+Female,continues,False,0,,,Jordan Garza,False
+2021-11-18,continues,False,0,,,Jordan Garza,False
+2021-12-06,continues,False,0,,,Jordan Garza,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Joshua Silva,Joshua Silva,True
+Male,continues,False,0,,,Joshua Silva,False
+Kimberly Martinez,continues,True,1,Doctors Name,Tyler Rogers,Karen Chavez,False
+Kimberly Martinez,continues,False,0,,,Karen Chavez,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Katherine Melton,Katherine Melton,True
+Female,continues,False,0,,,Katherine Melton,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Kathleen Mercer,Kathleen Mercer,True
+Female,continues,False,0,,,Kathleen Mercer,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Keith Wagner,Keith Wagner,True
+Male,continues,False,0,,,Keith Wagner,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Kelsey Burch,Kelsey Burch,True
+Female,continues,False,0,,,Kelsey Burch,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Mccoy,Kevin Mccoy,True
+Male,continues,False,0,,,Kevin Mccoy,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Robertson,Kevin Robertson,True
+Male,continues,False,0,,,Kevin Robertson,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Laura Rhodes,Laura Rhodes,True
+Female,continues,False,0,,,Laura Rhodes,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Melanie Miles,Melanie Miles,True
+Female,continues,False,0,,,Melanie Miles,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Melissa Burch,Melissa Burch,True
+Female,continues,False,0,,,Melissa Burch,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Michael Navarro,Michael Navarro,True
+Male,continues,False,0,,,Michael Navarro,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Misty Miller,False
+Elective,continues,False,0,,,Misty Miller,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Morgan Arias,Morgan Arias,True
+Female,continues,False,0,,,Morgan Arias,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Paul Gomez,Paul Gomez,True
+Male,continues,False,0,,,Paul Gomez,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Randall Thompson,Randall Thompson,True
+Male,continues,False,0,,,Randall Thompson,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Richard Elliott,Richard Elliott,True
+Kathryn Martinez,jb_special_tokens,True,1,RN,Andrea Hall,Richard Elliott,False
+Kathryn Martinez,jb_special_tokens,False,0,,,Richard Elliott,False
+Male,continues,False,0,,,Richard Elliott,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Robert Ortega,Robert Ortega,True
+Male,continues,False,0,,,Robert Ortega,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Robert Rush,Robert Rush,True
+Male,continues,False,0,,,Robert Rush,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Roger Wright,Roger Wright,True
+Male,continues,False,0,,,Roger Wright,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Rose Burton,Rose Burton,True
+Female,continues,False,0,,,Rose Burton,False
+Dawn Barker,continues,True,1,Doctors Name,Cynthia Berry,Ruben Lynch,False
+Dawn Barker,continues,False,0,,,Ruben Lynch,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Ryan Harper,Ryan Harper,True
+Male,continues,False,0,,,Ryan Harper,False
+Ryan Vaughn,continues,True,1,RN,Stephen Pena,Ryan Harper,False
+Ryan Vaughn,continues,False,0,,,Ryan Harper,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Ryan Hull,Ryan Hull,True
+Male,continues,False,0,,,Ryan Hull,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Sabrina Wilcox,Sabrina Wilcox,True
+Inconclusive,continues,True,3188,Multiple Rows: Test Results,None,Sabrina Wilcox,False
+Inconclusive,continues,False,0,,,Sabrina Wilcox,False
+Female,continues,False,0,,,Sabrina Wilcox,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Sarah Jackson,Sarah Jackson,True
+Female,continues,False,0,,,Sarah Jackson,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Sean Mcpherson,Sean Mcpherson,True
+Male,continues,False,0,,,Sean Mcpherson,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Shannon Lawrence,Shannon Lawrence,True
+Female,continues,False,0,,,Shannon Lawrence,False
+2023-05-13,continues,True,12,Date of Visit,"Thomas Turner, Jacob Holt, Allison Payne, Matthew Rush, Christina Jones, Lori Rojas, Carrie Sherman, Sarah Villanueva, Sean Baker, Rachel Baker, Allen Gonzalez",Shawn Richardson,False
+2023-06-05,continues,True,13,"Date of Visit, Date of Discharge","Stephen Park, Daniel White, Lisa White, Keith Thomas, Jacob Bell, Amanda Pugh, Paul Hudson, Luis Myers, Lindsey Ward, Kimberly Edwards, Gabriel Floyd, Kenneth Weiss, Sean Baker",Shawn Richardson,False
+Abnormal,continues,True,3193,Multiple Rows: Test Results,None,Shawn Richardson,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Shawn Richardson,Shawn Richardson,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shawn Richardson,Shawn Richardson,True
+Richard Byrd,continues,True,2,Doctors Name,"Janet Harvey, Jacqueline Kelley",Shawn Richardson,False
+#881190,continues,True,1,Billing Account Number,Matthew Strong,Shawn Richardson,False
+#881190,continues,False,0,,,Shawn Richardson,False
++1786-108-3365,continues,True,1,Telephone,Aaron Reyes,Shawn Richardson,False
++1786-108-3365,continues,False,0,,,Shawn Richardson,False
+Shawn.Richardson@gmail.com,continues,True,1,Email,Shawn Richardson,Shawn Richardson,True
+Shawn.Richardson@gmail.com,continues,False,0,,,Shawn Richardson,False
+English,continues,False,0,,,Shawn Richardson,False
+Abnormal,continues,False,0,,,Shawn Richardson,False
+Emergency,continues,False,0,,,Shawn Richardson,False
+2023-05-13,continues,True,12,Date of Discharge,Matthew Roberts,Shawn Richardson,False
+2023-05-13,continues,False,0,,,Shawn Richardson,False
+2023-06-05,continues,False,0,,,Shawn Richardson,False
+Richard Byrd,continues,False,0,,,Shawn Richardson,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelby Mccoy,Shelby Mccoy,True
+Female,continues,False,0,,,Shelby Mccoy,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Sheryl Young,Sheryl Young,True
+Female,continues,False,0,,,Sheryl Young,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Stephanie Robinson,Stephanie Robinson,True
+Female,continues,False,0,,,Stephanie Robinson,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Tamara Arnold,Tamara Arnold,True
+Female,continues,False,0,,,Tamara Arnold,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Tammy Crawford,Tammy Crawford,True
+Female,continues,False,0,,,Tammy Crawford,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Thomas Fletcher,Thomas Fletcher,True
+Male,continues,False,0,,,Thomas Fletcher,False
+2019-10-04,continues,True,16,"Date of Visit, Date of Discharge","Amy Hess, Lindsey Johnson, Christopher Moon, Amanda Little, Jessica Jackson, Abigail Jackson, Sarah Kane, Jeremy Mckenzie, Frederick Washington, Ian Chavez, Joshua Elliott, Cassandra Walsh, Keith Perez, Danielle Bennett, Kelly Cisneros, Charlotte Cox",Thomas Zamora,False
+2019-12-29,continues,True,11,"Date of Visit, Date of Discharge","Gregory Mcgrath, Gregory Mcbride, Craig Miller, Emily Young, Katie Delacruz, Jesse Wright, Kevin Thomas, Garrett Burke, Lauren Clarke, Sheri Keith, Kevin Ross",Thomas Zamora,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Thomas Zamora,Thomas Zamora,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Thomas Zamora,Thomas Zamora,True
+Thomas.Zamora@gmx.com,continues,True,1,Email,Thomas Zamora,Thomas Zamora,True
+Thomas.Zamora@gmx.com,continues,False,0,,,Thomas Zamora,False
+English,continues,False,0,,,Thomas Zamora,False
+Male,continues,False,0,,,Thomas Zamora,False
+2019-10-04,continues,False,0,,,Thomas Zamora,False
+2019-12-29,continues,False,0,,,Thomas Zamora,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Timothy Hensley,Timothy Hensley,True
+Male,continues,False,0,,,Timothy Hensley,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Victoria Thomas,Victoria Thomas,True
+Female,continues,False,0,,,Victoria Thomas,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Vincent Wheeler,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Vincent Wheeler,Vincent Wheeler,True
+Emergency,jb_special_tokens,False,0,,,Vincent Wheeler,False
+Male,continues,False,0,,,Vincent Wheeler,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Wendy Beard,Wendy Beard,True
+Female,continues,False,0,,,Wendy Beard,False

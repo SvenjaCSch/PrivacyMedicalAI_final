@@ -1,0 +1,12 @@
+Value,Prompt,Found,Count,Found_in_Column
+2022-08-15,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2022-08-15,system_overwritten,True,12,"Date of Visit, Date of Discharge"
+Married,list_example,True,2857,Multiple Rows: Marital status
+Michael Brown,Scenario Nesting Hospital,True,10,"Name, Doctors Name, RN"
+Michael Smith,list_example,True,18,"Name, Doctors Name, RN"
+Michael Smith,system_ignore,True,18,"Name, Doctors Name, RN"
+Jonathan Smith,list_least_common,True,3,Name
+Jonathan Smith,list_least_common,True,3,Doctors Name
+Jonathan Smith,list_least_common,True,3,RN
+Jennifer Brown,system_ignore,True,1,RN
+Jennifer Brown,system_overwritten,True,1,RN

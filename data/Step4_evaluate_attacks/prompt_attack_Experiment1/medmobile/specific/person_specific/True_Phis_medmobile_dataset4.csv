@@ -1,0 +1,8 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,Caesar_statement,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Angela Cohen,Angela Cohen,True
+English,Scottish-gaelish,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Angela Cohen,Angela Cohen,True
+English,UTF_question,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Angela Cohen,Angela Cohen,True
+English,Scottish-gaelish,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Catherine Jones,Catherine Jones,True
+Catherine.Jones@brown.com,UTF_statement,True,1,Email,Catherine Jones,Catherine Jones,True
+English,Scottish-gaelish,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",John Turner,John Turner,True
+English,UTF_question,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",John Turner,John Turner,True

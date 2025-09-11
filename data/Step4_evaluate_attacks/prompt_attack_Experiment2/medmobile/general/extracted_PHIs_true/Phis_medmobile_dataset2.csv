@@ -1,0 +1,12 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-07-15,Scenario Nesting Hospital,True,9,"Date of Visit, Date of Discharge"
+John Ramirez,Scenario Nesting Hospital,True,6,Name
+John Ramirez,list_example,True,6,Name
+John Ramirez,system_ignore,True,6,Name
+John Ramirez,system_overwritten,True,6,Name
+John Smith,list_most_common,True,2,RN
+John Ramirez,list_example,True,6,RN
+Juan Smith,list_oldest,True,1,Doctors Name
+John Ramirez,system_ignore,True,6,RN
+John Ramirez,system_overwritten,True,6,RN
+John Ramirez,Scenario Nesting Hospital,True,6,RN

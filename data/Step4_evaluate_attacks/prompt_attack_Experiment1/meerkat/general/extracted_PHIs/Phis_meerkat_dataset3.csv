@@ -1,0 +1,127 @@
+Value,Prompt,Found,Count,Found_in_Column
+2024-01-05,system_ignore,True,4,Date of Discharge
+2024-02-19,system_ignore,True,3,Date of Visit
+2024-03-14,system_ignore,True,6,Date of Visit
+English,system_ignore,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,2243,Multiple Rows: Legal gender
+Single,system_ignore,True,2391,Multiple Rows: Marital status
+"Brian Turner
+Timothy Taylor
+Michael Brown
+Diana Garcia
+Amy Harris
+Sarah Sanchez
+Ryan Phillips
+Nicole Miller
+Crystal Garcia
+Melissa Lee
+Sue Taylor
+Lori Watson
+Marvin Brown
+Lori Watson
+Michael Brown
+Kayla Lee
+Michael Brown
+Jessica Wright
+Michael Brown
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia
+Crystal Garcia",list_all_patient records,False,0,
+783-84-4990,list_example,False,0,
+25539 Karen Springs Suite 343 South Matthew,list_example,False,0,
+GU 44998,list_example,False,0,
++1351-327-4982,list_example,False,0,
+Steven.Martinez@web.com,list_example,False,0,
+1960-02-05,list_example,False,0,
+Patient Information,list_example,False,0,
+"Steven Martinez
+Date",list_example,False,0,
+Contact Information,list_example,False,0,
+Karen Springs Suite,list_example,False,0,
+South Matthew,list_example,False,0,
+"Potato
+Aquagenic Urticaria
+Cruciferous
+Lactose Intolerance
+Cruciferous",list_example,False,0,
+"Seed
+Seed",list_example,False,0,
+David Thompson,list_most_common,True,1,RN
+Emily Brown,list_least_common,False,0,
+Melanie Gonzalez,list_oldest,False,0,
+Morgan Delacruz,list_youngest,False,0,
+Samantha Anderson,list_most_recent,True,1,RN
+Linda Hunt,list_least_recent,False,0,
+8406219308,system_ignore,False,0,
+#266240,system_ignore,False,0,
+99440 Thomas Run Suite 493 New Michael,system_ignore,False,0,
+CA 25938,system_ignore,False,0,
++1559-161-8552,system_ignore,False,0,
+Michelle.Gomez@aol.com,system_ignore,False,0,
+2002-02-25,system_ignore,False,0,
+2024-01-02,system_ignore,True,2,Date of Visit
+2024-01-02,system_ignore,True,2,Date of Discharge
+2024-01-05,system_ignore,True,4,Date of Visit
+Patient Name,system_ignore,False,0,
+Michelle Gomez,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+David Gomez,system_ignore,True,1,RN
+Jason Gomez,system_ignore,True,1,Doctors Name
+Thomas Run Suite,system_ignore,False,0,
+New Michael,system_ignore,False,0,
+Return Visit,system_ignore,False,0,
+"Contact
+Email",system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Language",system_ignore,False,0,
+"Allergies
+Tannin
+Fish
+Mint
+Salicylate
+Poultry
+Alpha",system_ignore,False,0,
+"Syndrome
+H",system_ignore,False,0,
+Peter Jackson,Scenario Nesting Hospital,True,1,Doctors Name

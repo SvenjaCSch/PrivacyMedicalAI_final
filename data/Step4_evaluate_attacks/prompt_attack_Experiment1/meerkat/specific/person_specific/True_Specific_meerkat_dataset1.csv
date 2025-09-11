@@ -1,0 +1,8 @@
+Prompt,Total,Specific == True,Specific == False
+Caesar_question,2,1,1
+Euskera,8,2,6
+Scenario Nesting Hospital,4,1,3
+backwards1_question,14,3,11
+backwards2_question,2,1,1
+continues,2,0,2
+prompts_for_specific_model,4,1,3

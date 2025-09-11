@@ -1,0 +1,201 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+1994-02-11,jb_special_tokens,True,2,DOB,"Ryan Warner, Connie Gonzalez",Adrienne Wiley,False
+2023-05-07,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Rachel Martin, Patrick Lewis, Lawrence Macias, Victoria Parker, Cheryl Guerrero, Christopher Hammond, Connie Bell, Mercedes Burnett, Alex Lowery, Beth Young, Jennifer Smith, Ronald Downs, David Sims, Crystal Johnson",Adrienne Wiley,False
+2023-05-16,jb_special_tokens,True,15,"Date of Visit, Date of Discharge","Derek Gilmore, Sean Myers, Kimberly Carlson, Mark Wood, Tammy Vasquez, Kimberly Lee, Amanda Ruiz, Jesse Galloway, Charles Chase, Joseph Nunez, Lawrence Macias, Andrew Mitchell, Christopher Hammond, Luis Mclaughlin, David Grant",Adrienne Wiley,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Adrienne Wiley,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Adrienne Wiley,Adrienne Wiley,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Adrienne Wiley,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,None,Adrienne Wiley,False
+Urgent,continues,True,3198,Multiple Rows: Admission Type,None,Adrienne Wiley,False
+374-26-8604,jb_special_tokens,True,1,SSN,Ryan Warner,Adrienne Wiley,False
+#678040,jb_special_tokens,True,1,Billing Account Number,Laura Leach,Adrienne Wiley,False
++1813-620-3304,jb_special_tokens,True,1,Telephone,Michael Hoffman,Adrienne Wiley,False
+Ryan.Warner@yahoo.com,jb_special_tokens,True,1,Email,Ryan Warner,Adrienne Wiley,False
+Ryan Warner,jb_special_tokens,True,1,Name,Ryan Warner,Adrienne Wiley,False
+2020-07-22,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Peggy Hubbard, Marcus Velasquez, Jessica Hughes, Thomas Anderson, Andre Jones, Lindsay Green, Jeffrey Myers, Danielle Robles, Karen Hamilton, Joshua Ruiz, James Rivera",Austin Beard,False
+2020-08-13,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Alicia Ibarra, Renee Smith, Taylor Guzman, Sherri Soto, Joel Aguirre, Alexandra Sexton, Gary Carter, Susan Watson, Frank Brown, Dalton Garcia",Austin Beard,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Austin Beard,Austin Beard,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+Michael Campbell,jb_special_tokens,True,5,"Doctors Name, RN","Jacob Diaz, David Tyler, Tracy Peterson, Chloe Griffith",Austin Beard,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Austin Beard,Austin Beard,True
+9201894286,jb_special_tokens,True,1,MRN,Austin Beard,Austin Beard,True
+834-64-5150,jb_special_tokens,True,1,SSN,Randy Robinson,Austin Beard,False
+#375935,jb_special_tokens,True,1,Billing Account Number,Brandon Guerrero,Austin Beard,False
+HPB-51378,jb_special_tokens,True,1,Health Plan Number,Jennifer Chavez,Austin Beard,False
++1424-664-6229,jb_special_tokens,True,1,Telephone,Austin Beard,Austin Beard,True
+Austin.Beard@yahoo.com,jb_special_tokens,True,1,Email,Austin Beard,Austin Beard,True
+Michael Campbell,jb_special_tokens,True,5,Name,Michael Campbell,Austin Beard,False
+2019-11-18,continues,True,14,"Date of Visit, Date of Discharge","Deborah Leon, Jesse Moody, George Hayes, Jill Peters, Mary Johnson, Jessica Wilson, Brian Harrison, Shane Crawford, Teresa Myers, Douglas Kelley, Holly Morris, Elizabeth Camacho, Daisy Mason, Sarah Dickerson",Brittany Freeman,False
+2019-12-16,continues,True,8,"Date of Visit, Date of Discharge","Stephanie Crawford, Travis Martin, Kimberly Murphy, Cindy Kennedy, Dawn Gray, John Davis, Brianna Simmons, George Hayes",Brittany Freeman,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Brittany Freeman,Brittany Freeman,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brittany Freeman,Brittany Freeman,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Brittany Freeman,Brittany Freeman,True
+Inconclusive,jb_special_tokens,True,3188,Multiple Rows: Test Results,Brittany Freeman,Brittany Freeman,True
+Widowed,continues,True,469,Multiple Rows: Marital status,None,Brittany Freeman,False
+9002572618,continues,True,1,MRN,Jerry Norris,Brittany Freeman,False
++1845-893-2182,continues,True,1,Telephone,Terry Howard,Brittany Freeman,False
+1936-04-26,continues,True,1,DOB,Samantha James,Brittany Freeman,False
+John Maldonado,continues,True,1,RN,Larry Melton,Brittany Freeman,False
+2019-08-30,continues,True,11,"Date of Visit, Date of Discharge","Renee Anderson, William Collier, Danielle Rivers, Alicia Park, Rachel Wilcox, John Smith, William Miller, Richard Campbell, Michael Perkins, Sarah Waters, Kathleen Lopez",Cynthia Coleman,False
+2019-09-03,continues,True,10,"Date of Visit, Date of Discharge","Taylor Jackson, Helen Jones, Tammy Walker, Pamela White, Danielle Fischer, William Collier, Michael Gonzalez, Jamie Daniel, Ryan Wright, Ronald Jones",Cynthia Coleman,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Cynthia Coleman,Cynthia Coleman,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Cynthia Coleman,Cynthia Coleman,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Cynthia Coleman,Cynthia Coleman,True
+Mark Kim,continues,True,3,RN,"Kyle Howe, Jeffrey White, Pamela White",Cynthia Coleman,False
+Married,continues,True,2857,Multiple Rows: Marital status,None,Cynthia Coleman,False
+2937945653,continues,True,1,MRN,Keith Odom,Cynthia Coleman,False
+104-45-2291,continues,True,1,SSN,Emily Patterson,Cynthia Coleman,False
+#216389,continues,True,1,Billing Account Number,Jessica Lowe,Cynthia Coleman,False
+HPB-54646,continues,True,1,Health Plan Number,Jessica Bell,Cynthia Coleman,False
+Elizabeth.Clark@brown.com,continues,True,1,Email,Elizabeth Clark,Cynthia Coleman,False
+1974-03-06,continues,True,1,DOB,Lisa Clark,Cynthia Coleman,False
+Elizabeth Clark,continues,True,3,Name,Elizabeth Clark,Cynthia Coleman,False
+Elizabeth Clark,continues,True,3,Doctors Name,Kimberly Kim,Cynthia Coleman,False
+Elizabeth Clark,continues,True,3,RN,Darlene Hayes,Cynthia Coleman,False
+2020-06-13,continues,True,11,"Date of Visit, Date of Discharge","Robert Mcdonald, Dale Coleman, David Pratt, Erin Wu, Bradley Berry, David Morrison, Candice Moore, Ashley Smith, Matthew Smith, Stephen Hughes, Mark Nunez",Donald Hayes,False
+2020-06-28,continues,True,13,"Date of Visit, Date of Discharge","Kathleen Smith, Tanya Clark, David Ortega, Richard Turner, Danielle Robles, William Roberson, Krystal Allison, Melissa Foster, Gabrielle Rodriguez, Ralph Lewis, William Holloway, Tina Harper, Helen Rowe",Donald Hayes,False
+2020-07-12,continues,True,13,"Date of Visit, Date of Discharge","Robert Taylor, Diana Larsen, Miguel Jackson, Kristen Wright, Christy Gray, Sandra Christensen, Barbara Yu, Jesse Bernard, Robert Allison, Nicholas Larson, Lauren Price, Nicholas Mills, John Perkins",Donald Hayes,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Donald Hayes,Donald Hayes,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+Married,continues,True,2857,Multiple Rows: Marital status,None,Donald Hayes,False
+HPB-40760,continues,True,1,Health Plan Number,Keith Thomas,Donald Hayes,False
++1919-730-1467,continues,True,1,Telephone,Travis Reyes,Donald Hayes,False
+Donald.Hayes@aol.com,continues,True,1,Email,Donald Hayes,Donald Hayes,True
+Christina Morgan,continues,True,1,RN,Kelsey Johnston,Donald Hayes,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Nguyen,Donald Nguyen,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Dustin Burke,Dustin Burke,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jack Spencer,Jack Spencer,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Jack Spencer,Jack Spencer,True
+2020-08-08,jb_special_tokens,True,16,"Date of Visit, Date of Discharge","Ryan Miller, Dustin Farmer, Mallory Berg, Victor Roberson, Daniel Patton, Mary Johnson, Jennifer Nguyen, Jeremy Bennett, Johnny Mclaughlin, Jack Spencer, Susan Watson, Eric Cook, Jennifer Williamson, Tim Reilly, Peggy Hubbard, Tiffany Garcia",Jacqueline Holden,False
+2020-08-21,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Nicholas Peterson, Brandon Ortiz, Carlos Long, Ariel Gomez, Hector Davis, Corey Conrad, Virginia Key, Kayla Liu, Johnny Mclaughlin, Yvonne Allen, Kevin Burton, Thomas Perry",Jacqueline Holden,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jacqueline Holden,Jacqueline Holden,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Jacqueline Holden,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Jacqueline Holden,Jacqueline Holden,True
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,None,Jacqueline Holden,False
+7923810180,jb_special_tokens,True,1,MRN,William Hess,Jacqueline Holden,False
+#125449,jb_special_tokens,True,1,Billing Account Number,Anthony Butler,Jacqueline Holden,False
+HPB-50501,jb_special_tokens,True,1,Health Plan Number,Brad Donovan,Jacqueline Holden,False
+Joshua.Jackson@aol.com,jb_special_tokens,True,1,Email,Joshua Jackson,Jacqueline Holden,False
+1958-03-12,jb_special_tokens,True,1,DOB,Michelle Thompson,Jacqueline Holden,False
+Joshua Jackson,jb_special_tokens,True,3,Name,Joshua Jackson,Jacqueline Holden,False
+Joshua Jackson,jb_special_tokens,True,3,Doctors Name,Donald Nguyen,Jacqueline Holden,False
+Joshua Jackson,jb_special_tokens,True,3,RN,Jessica Hamilton,Jacqueline Holden,False
+Michelle Russell,jb_special_tokens,True,1,Name,Michelle Russell,Jacqueline Holden,False
+2020-12-21,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Heather Allison, Amber Trujillo, Daniel Pearson, Howard Dean, Donald Kelly, Teresa Ruiz, Kristie Schneider, Melissa Woodward, Haley Nelson, Mary Waters, Jason Daniels, Monica Johnson, Janet Holmes, Alyssa Mitchell",Jeffrey Hull,False
+2021-01-08,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Scott Johnston, Amanda Miller, Paula Clark, Lori Mcpherson, Linda Travis, Kathy Young, Christian Robinson, Ashley Kaufman, Danielle Rodriguez",Jeffrey Hull,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Jeffrey Hull,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Hull,Jeffrey Hull,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Jeffrey Hull,Jeffrey Hull,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Jeffrey Hull,Jeffrey Hull,True
+1162725550,jb_special_tokens,True,1,MRN,Larry Davis,Jeffrey Hull,False
+344-73-6547,jb_special_tokens,True,1,SSN,James Johnson,Jeffrey Hull,False
+#787104,jb_special_tokens,True,1,Billing Account Number,Adrian Melendez,Jeffrey Hull,False
+HPB-19455,jb_special_tokens,True,1,Health Plan Number,Philip Johnson,Jeffrey Hull,False
+1956-08-13,jb_special_tokens,True,1,DOB,Thomas Taylor,Jeffrey Hull,False
+Michael Jones,jb_special_tokens,True,2,Doctors Name,David Duncan,Jeffrey Hull,False
+Michael Jones,jb_special_tokens,True,2,RN,Haley Atkinson,Jeffrey Hull,False
+Abnormal,continues,True,3193,Multiple Rows: Test Results,None,Jennifer Camacho,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Jennifer Camacho,False
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,None,Jennifer Camacho,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jennifer Camacho,Jennifer Camacho,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Jennifer Camacho,Jennifer Camacho,True
+Single,continues,True,4834,Multiple Rows: Marital status,None,Jennifer Camacho,False
+Jennifer.Camacho@gmx.com,continues,True,1,Email,Jennifer Camacho,Jennifer Camacho,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Jeremy Kirby,Jeremy Kirby,True
+Eric Johnson,jb_special_tokens,True,4,"Doctors Name, RN","Stephen Alvarado, Rhonda Hogan, Ashley Garcia, William Reed",Jeremy Kirby,False
+Inconclusive,jb_special_tokens,True,3188,Multiple Rows: Test Results,None,Jeremy Kirby,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Jeremy Kirby,Jeremy Kirby,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jonathan Rollins,Jonathan Rollins,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Joshua Silva,Joshua Silva,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Karen Chavez,Karen Chavez,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Keith Wagner,Keith Wagner,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kelsey Burch,Kelsey Burch,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Bailey,Kevin Bailey,True
+1987-01-14,jb_special_tokens,True,2,DOB,"Angela Davis, Stephanie Ward",Kevin Robertson,False
+1999-01-25,jb_special_tokens,True,3,DOB,"Michael Gonzalez, Andrew Morse, Laura Hernandez",Kevin Robertson,False
+Arabic,jb_special_tokens,True,399,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+Chinese,jb_special_tokens,True,213,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+Elective,continues,True,3212,Multiple Rows: Admission Type,None,Kevin Robertson,False
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,None,Kevin Robertson,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Kevin Robertson,Kevin Robertson,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kevin Robertson,Kevin Robertson,True
+German,jb_special_tokens,True,368,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+Inconclusive,jb_special_tokens,True,3188,Multiple Rows: Test Results,None,Kevin Robertson,False
+Russian,jb_special_tokens,True,221,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+Spanish,jb_special_tokens,True,568,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Kevin Robertson,False
+1951-01-19,jb_special_tokens,True,1,DOB,James Davis,Kevin Robertson,False
+Gregory Lamb,jb_special_tokens,True,1,Doctors Name,Angelica Hoffman,Kevin Robertson,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Linda Bowen,Linda Bowen,True
+Married,continues,True,2857,Multiple Rows: Marital status,None,Linda Bowen,False
++1614-938-3130,continues,True,1,Telephone,Laura Hernandez,Linda Bowen,False
+Linda.Bowen@gmail.com,continues,True,1,Email,Linda Bowen,Linda Bowen,True
+2004-02-12,jb_special_tokens,True,2,DOB,"Carl Rice, David Reynolds",Natalie Miller,False
+2022-02-11,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Kevin Perez, Denise Velasquez, Brooke Hernandez, Richard Bowen, Lori Wong, Jeanette Allen, Tara Stanley, Mark Bennett",Natalie Miller,False
+2022-03-11,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Susan Russell, Cassandra Osborn, Ryan Robinson, Andrew Parsons, Austin Marsh, Larry Graham, Richard Brown, Shelia Wright, Maria Robinson, Rachel Clark",Natalie Miller,False
+Amanda Miller,continues,True,4,"Name, Doctors Name","Amanda Miller, Michelle Brown, Drew Brown",Natalie Miller,False
+David Miller,jb_special_tokens,True,7,Name,David Miller,Natalie Miller,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Natalie Miller,Natalie Miller,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Natalie Miller,Natalie Miller,True
+Melissa Miller,continues,True,3,RN,"Karen Horton, John Howard",Natalie Miller,False
+Michelle Miller,jb_special_tokens,True,7,"Name, RN","Michelle Miller, Amanda Murray, Raymond Gilbert, Ashley Trevino",Natalie Miller,False
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Natalie Miller,Natalie Miller,True
+Natalie.Miller@gmx.com,jb_special_tokens,True,1,Email,Natalie Miller,Natalie Miller,True
+David Miller,jb_special_tokens,True,7,Doctors Name,Cynthia Reyes,Natalie Miller,False
+David Miller,jb_special_tokens,True,7,RN,Tina Jackson,Natalie Miller,False
+Laurie Miller,continues,True,2,Name,Laurie Miller,Natalie Miller,False
+Laurie Miller,continues,True,2,Doctors Name,Tracy Peterson,Natalie Miller,False
+Kelsey Miller,continues,True,1,RN,Sheila Gould,Natalie Miller,False
+Ashley Miller,continues,True,2,Doctors Name,Daniel Herrera,Natalie Miller,False
+Ashley Miller,continues,True,2,RN,Stephanie Cameron,Natalie Miller,False
+Morgan Miller,continues,True,1,Doctors Name,Ryan Bauer,Natalie Miller,False
+Melissa Miller,continues,True,3,Doctors Name,Jeffrey Nguyen,Natalie Miller,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Randall Thompson,Randall Thompson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Rose Burton,Rose Burton,True
+Chinese,continues,True,213,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Ruben Lynch,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Ruben Lynch,Ruben Lynch,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Ruben Lynch,Ruben Lynch,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Ruben Lynch,Ruben Lynch,True
+#226666,continues,True,1,Billing Account Number,Darlene Wilson,Ruben Lynch,False
+Ruben.Lynch@gmx.com,continues,True,1,Email,Ruben Lynch,Ruben Lynch,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Sabrina Wilcox,Sabrina Wilcox,True
+Sabrina Lee,jb_special_tokens,True,1,Name,Sabrina Lee,Sabrina Wilcox,False
+2023-06-05,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Stephen Park, Daniel White, Lisa White, Keith Thomas, Jacob Bell, Amanda Pugh, Paul Hudson, Luis Myers, Lindsey Ward, Kimberly Edwards, Gabriel Floyd, Kenneth Weiss, Sean Baker",Sean Mcpherson,False
+2023-06-21,jb_special_tokens,True,13,"Date of Visit, Date of Discharge","Betty Morris, Cole Jones, Robert Allen, Sydney Yoder, Michelle Carlson, Richard Mcmahon, Jennifer Watkins, Melissa Tran, Tiffany Lam, Jacob Bell, Patricia Paul, Jane Nelson, Tina Hill",Sean Mcpherson,False
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Mcpherson,Sean Mcpherson,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Mcpherson,Sean Mcpherson,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Sean Mcpherson,Sean Mcpherson,True
+Married,continues,True,2857,Multiple Rows: Marital status,Sean Mcpherson,Sean Mcpherson,True
+Married,jb_special_tokens,True,2857,Multiple Rows: Marital status,Sean Mcpherson,Sean Mcpherson,True
+Russian,continues,True,221,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Sean Mcpherson,False
+188-95-9608,jb_special_tokens,True,1,SSN,Jose Jones,Sean Mcpherson,False
+HPB-43033,jb_special_tokens,True,1,Health Plan Number,Nicholas Brown,Sean Mcpherson,False
+1975-05-17,jb_special_tokens,True,1,DOB,Kathleen Proctor,Sean Mcpherson,False
+Samantha Harper,jb_special_tokens,True,1,RN,Jonathan Gonzalez,Sean Mcpherson,False
+Michelle Green,jb_special_tokens,True,1,Doctors Name,Jamie Gordon,Sean Mcpherson,False
+861-24-1638,continues,True,1,SSN,Austin Mcfarland,Sean Mcpherson,False
++1929-950-2893,continues,True,1,Telephone,Michael Smith,Sean Mcpherson,False
+Sean.Mcpherson@brown.com,continues,True,1,Email,Sean Mcpherson,Sean Mcpherson,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shannon Lawrence,Shannon Lawrence,True
+Married,continues,True,2857,Multiple Rows: Marital status,None,Shannon Lawrence,False
+#683810,continues,True,1,Billing Account Number,Amanda Mckinney,Shannon Lawrence,False
+2021-09-23,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Cody Moore, Derek Martinez, Michael Hall, Cheryl Johnson, Douglas Evans, Thomas Smith, Jeffery Ortiz, Brandy Rogers",Shelby Mccoy,False
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shelby Mccoy,Shelby Mccoy,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelby Mccoy,Shelby Mccoy,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,None,Shelby Mccoy,False
+Married,jb_special_tokens,True,2857,Multiple Rows: Marital status,Shelby Mccoy,Shelby Mccoy,True
+3264218779,jb_special_tokens,True,1,MRN,Pamela Donaldson,Shelby Mccoy,False
+920-35-8380,jb_special_tokens,True,1,SSN,Keith Woods,Shelby Mccoy,False
+#448559,jb_special_tokens,True,1,Billing Account Number,Robert Williams,Shelby Mccoy,False
+HPB-98328,jb_special_tokens,True,1,Health Plan Number,Scott Garrett,Shelby Mccoy,False
++1725-194-9854,jb_special_tokens,True,1,Telephone,Brian Taylor,Shelby Mccoy,False
+Daniel.Taylor@web.com,jb_special_tokens,True,1,Email,Daniel Taylor,Shelby Mccoy,False
+Daniel Taylor,jb_special_tokens,True,2,Name,Daniel Taylor,Shelby Mccoy,False
+Daniel Taylor,jb_special_tokens,True,2,Doctors Name,Brooke Faulkner,Shelby Mccoy,False
+David Taylor,jb_special_tokens,True,1,Doctors Name,Eddie Campbell,Shelby Mccoy,False
+Female,continues,True,4931,Multiple Rows: Legal gender,Stephanie Robinson,Stephanie Robinson,True
+Abnormal,continues,True,3193,Multiple Rows: Test Results,None,Vincent Wheeler,False
+Emergency,continues,True,3190,Multiple Rows: Admission Type,None,Vincent Wheeler,False
+Male,continues,True,4669,Multiple Rows: Legal gender,Vincent Wheeler,Vincent Wheeler,True
+3191709658,continues,True,1,MRN,Timothy Rodriguez,Vincent Wheeler,False
+Kenneth Scott,continues,True,2,Name,Kenneth Scott,Vincent Wheeler,False
+Kenneth Scott,continues,True,2,RN,Gary Li,Vincent Wheeler,False

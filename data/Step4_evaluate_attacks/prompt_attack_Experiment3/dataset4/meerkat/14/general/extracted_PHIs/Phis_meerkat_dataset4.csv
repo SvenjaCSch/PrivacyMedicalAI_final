@@ -1,0 +1,26 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-05-02,system_ignore,True,14,"Date of Visit, Date of Discharge"
+2023-05-05,system_ignore,True,9,"Date of Visit, Date of Discharge"
+David Williams,system_ignore,True,4,"Name, Doctors Name"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,4931,Multiple Rows: Legal gender
+3225406624,system_ignore,True,1,MRN
+168-82-3978,system_ignore,True,1,SSN
+#397954,system_ignore,False,0,
+HPB-12474,system_ignore,False,0,
+06911 Riley Parkways Deanland,system_ignore,False,0,
+HI 57931,system_ignore,False,0,
++1813-639-7103,system_ignore,False,0,
+Mary.Blake@aol.com,system_ignore,True,1,Email
+1942-04-18,system_ignore,False,0,
+Patient Note,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Mary Blake,system_ignore,True,1,Name
+Contact Person,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Riley Parkways Deanland,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

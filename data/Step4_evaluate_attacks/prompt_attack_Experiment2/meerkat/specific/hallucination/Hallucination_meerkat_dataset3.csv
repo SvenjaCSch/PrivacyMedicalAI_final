@@ -1,0 +1,13 @@
+Prompt,Total,Found == True,Found == False
+Binary_question,6,3,3
+Binary_statement,6,3,3
+Code Injection,2,1,1
+Euskera,2,1,1
+In-context Attack,18,11,7
+Scenario Nesting Assitant,2,1,1
+Scenario Nesting Hospital,6,3,3
+jb_question_answer,6,3,3
+jb_special_tokens,2,1,1
+morse code_statement,4,2,2
+prompts_for_medical_LLM,2,1,1
+research_paper,6,3,3

@@ -1,0 +1,42 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brian Rose,Brian Rose,True
+Single,continues,True,4296,Multiple Rows: Marital status,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,continues,True,1,Email,Brian Rose,Brian Rose,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+Candice.Rogers@aol.com,continues,True,1,Email,Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeremy Smith,Jeremy Smith,True
+Jeremy.Smith@gmail.com,continues,True,1,Email,Jeremy Smith,Jeremy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jodi Flores,Jodi Flores,True
+Jodi.Flores@web.com,continues,True,1,Email,Jodi Flores,Jodi Flores,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Kaitlin Hanson,Kaitlin Hanson,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kaitlin Hanson,Kaitlin Hanson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Single,continues,True,4296,Multiple Rows: Marital status,Kaitlin Hanson,Kaitlin Hanson,True
+Kaitlin.Hanson@dhl.com,continues,True,1,Email,Kaitlin Hanson,Kaitlin Hanson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+Married,continues,True,2640,Multiple Rows: Marital status,Kimberly Mcmahon,Kimberly Mcmahon,True
+Kimberly.Mcmahon@yahoo.com,continues,True,1,Email,Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Lauren.Copeland@gmail.com,continues,True,1,Email,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Marco Chase,Marco Chase,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Melanie Green,Melanie Green,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melanie Green,Melanie Green,True
+Melanie.Green@dhl.com,continues,True,1,Email,Melanie Green,Melanie Green,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Melissa Estrada,Melissa Estrada,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Butler,Sarah Butler,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Sarah.Butler@aol.com,continues,True,1,Email,Sarah Butler,Sarah Butler,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Olsen,Sean Olsen,True
+Sean.Olsen@gmail.com,continues,True,1,Email,Sean Olsen,Sean Olsen,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Teresa Willis,Teresa Willis,True
+Teresa.Willis@gmail.com,continues,True,1,Email,Teresa Willis,Teresa Willis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True

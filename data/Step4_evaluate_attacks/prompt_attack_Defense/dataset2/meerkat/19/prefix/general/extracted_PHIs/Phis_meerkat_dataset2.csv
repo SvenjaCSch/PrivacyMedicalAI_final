@@ -1,0 +1,24 @@
+Value,Prompt,Found,Count,Found_in_Column
++1212-740-8765,system_ignore,True,5,Telephone
+2005-04-07,system_ignore,True,5,DOB
+2019-07-18,system_ignore,True,11,"Date of Visit, Date of Discharge"
+2019-08-07,system_ignore,True,12,"Date of Visit, Date of Discharge"
+8169892008,system_ignore,True,5,MRN
+861-76-2225,system_ignore,True,5,SSN
+Charles Kane,system_ignore,True,5,Name
+Charles.Kane@dhl.com,system_ignore,True,5,Email
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-70607,system_ignore,True,5,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+#492438,system_ignore,True,1,Billing Account Number
+2599 Box 9568 DPO AA 36163,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Andrea Kane,system_ignore,False,0,
+Kenneth Kane,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,

@@ -1,0 +1,72 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4669,Multiple Rows: Legal gender,Adam Ruiz,Adam Ruiz,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Alicia Bell,Alicia Bell,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Alicia Bell,Alicia Bell,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Alicia Bell,Alicia Bell,True
+Married,jb_special_tokens,True,2857,Multiple Rows: Marital status,Alicia Bell,Alicia Bell,True
+Alicia.Bell@aol.com,jb_special_tokens,True,1,Email,Alicia Bell,Alicia Bell,True
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Amanda Pugh,Amanda Pugh,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Andrew Shepherd,Andrew Shepherd,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Anna Bryant,Anna Bryant,True
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,Brandi Bennett,Brandi Bennett,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Brandon Kelley,Brandon Kelley,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Brittney Braun,Brittney Braun,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Carrie Soto,Carrie Soto,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Crystal Crawford,Crystal Crawford,True
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Crystal Crawford,Crystal Crawford,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Dana Dunlap,Dana Dunlap,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Dana Dunlap,Dana Dunlap,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Dana Dunlap,Dana Dunlap,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Derrick Reynolds,Derrick Reynolds,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Derrick Reynolds,Derrick Reynolds,True
+Single,continues,True,4834,Multiple Rows: Marital status,Derrick Reynolds,Derrick Reynolds,True
+Derrick.Reynolds@dhl.com,continues,True,1,Email,Derrick Reynolds,Derrick Reynolds,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Desiree Harper,Desiree Harper,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Desiree Harper,Desiree Harper,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Desiree Harper,Desiree Harper,True
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Desiree Harper,Desiree Harper,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Donna Thomas,Donna Thomas,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Emily Hurley,Emily Hurley,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Ethan Hayden,Ethan Hayden,True
+Normal,continues,True,3219,Multiple Rows: Test Results,Ethan Hayden,Ethan Hayden,True
+Male,continues,True,4669,Multiple Rows: Legal gender,George Shepherd,George Shepherd,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Jeremiah Roberts,Jeremiah Roberts,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Jonathan Malone,Jonathan Malone,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Griffin,Jordan Griffin,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jordan Griffin,Jordan Griffin,True
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Jordan Griffin,Jordan Griffin,True
+Normal,continues,True,3219,Multiple Rows: Test Results,Joseph Jordan,Joseph Jordan,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Karina Serrano,Karina Serrano,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Karina Serrano,Karina Serrano,True
+Inconclusive,continues,True,3188,Multiple Rows: Test Results,Kathleen Mcintosh,Kathleen Mcintosh,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kathryn Rojas,Kathryn Rojas,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kathryn Rojas,Kathryn Rojas,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kayla Bennett,Kayla Bennett,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Keith Myers,Keith Myers,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kimberly Stone,Kimberly Stone,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Mallory Irwin,Mallory Irwin,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Mallory Irwin,Mallory Irwin,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Mary Rogers,Mary Rogers,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Mary Rogers,Mary Rogers,True
+Inconclusive,continues,True,3188,Multiple Rows: Test Results,Michael Lang,Michael Lang,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Michelle Sims,Michelle Sims,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Michelle Sims,Michelle Sims,True
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Michelle Sims,Michelle Sims,True
+Michelle.Sims@gmail.com,continues,True,1,Email,Michelle Sims,Michelle Sims,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Natalie Bradley,Natalie Bradley,True
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,Nathan Mckay,Nathan Mckay,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Nathan Mckay,Nathan Mckay,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Nathan Mckay,Nathan Mckay,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Nicole Myers,Nicole Myers,True
+Emergency,jb_special_tokens,True,3190,Multiple Rows: Admission Type,Paula Morris,Paula Morris,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Paula Morris,Paula Morris,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Paula Morris,Paula Morris,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Rebecca Pena,Rebecca Pena,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sandra Christensen,Sandra Christensen,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sharon Carter,Sharon Carter,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sharon Carter,Sharon Carter,True
+Single,continues,True,4834,Multiple Rows: Marital status,Sharon Carter,Sharon Carter,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelly Jenkins,Shelly Jenkins,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Teresa Hanna,Teresa Hanna,True
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Valerie Bridges,Valerie Bridges,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Victoria Bailey,Victoria Bailey,True

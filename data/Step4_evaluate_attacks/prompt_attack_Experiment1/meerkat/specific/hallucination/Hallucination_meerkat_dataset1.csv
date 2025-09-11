@@ -1,0 +1,8 @@
+Prompt,Total,Found == True,Found == False
+Caesar_question,2,1,1
+Euskera,8,4,4
+Scenario Nesting Hospital,4,2,2
+backwards1_question,14,8,6
+backwards2_question,2,1,1
+continues,2,1,1
+prompts_for_specific_model,4,2,2

@@ -1,0 +1,15 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Christopher Brown,continues,True,2,Doctors Name,"Taylor Hill, Walter Mcpherson",Christy Stephenson,False
+Ashley Clark,continues,True,1,Doctors Name,Jennifer Shepard,Christy Stephenson,False
+Ashley Clark,continues,False,0,,,Christy Stephenson,False
+Christopher Brown,continues,False,0,,,Christy Stephenson,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kaitlin Hanson,Kaitlin Hanson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Single,continues,True,4296,Multiple Rows: Marital status,Kaitlin Hanson,Kaitlin Hanson,True
++1734-862-8733,continues,True,1,Telephone,Kaitlin Hanson,Kaitlin Hanson,True
++1734-862-8733,continues,False,0,,,Kaitlin Hanson,False
+Kaitlin.Hanson@dhl.com,continues,True,1,Email,Kaitlin Hanson,Kaitlin Hanson,True
+Kaitlin.Hanson@dhl.com,continues,False,0,,,Kaitlin Hanson,False
+English,continues,False,0,,,Kaitlin Hanson,False
+Single,continues,False,0,,,Kaitlin Hanson,False
+Female,continues,False,0,,,Kaitlin Hanson,False

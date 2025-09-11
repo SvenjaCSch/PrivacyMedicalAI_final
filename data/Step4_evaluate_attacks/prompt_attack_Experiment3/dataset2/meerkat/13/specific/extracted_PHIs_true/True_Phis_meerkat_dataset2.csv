@@ -1,0 +1,36 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+2022-05-06,jb_special_tokens,True,11,Date of Visit,"Aaron Hall, Krystal Reyes, Melinda Porter, Cynthia Jefferson, Kristen Wilson, Robert Smith, Morgan Price, David King, Joshua Carlson, Megan Brooks",Bryan Potts,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Bryan Potts,Bryan Potts,True
+2022-05-06,jb_special_tokens,True,11,Date of Discharge,Kevin Anderson,Bryan Potts,False
+David Nelson,jb_special_tokens,True,2,Doctors Name,Russell Carpenter,Bryan Potts,False
+David Nelson,jb_special_tokens,True,2,RN,Jessica Calderon,Bryan Potts,False
+Brandon Diaz,continues,True,12,"Name, Doctors Name","Brandon Diaz, Robert Willis, Aaron Hall",Candice Rogers,False
+Jennifer Holder,continues,True,7,Name,Jennifer Holder,Candice Rogers,False
+Kelly Sanchez,continues,True,9,Name,Kelly Sanchez,Candice Rogers,False
+Kevin Huff,continues,True,11,Name,Kevin Huff,Candice Rogers,False
+Michael Moran,continues,True,3,Name,Michael Moran,Candice Rogers,False
+Nicole Garza,continues,True,11,Name,Nicole Garza,Candice Rogers,False
+Rachel Robinson,continues,True,1,Doctors Name,Allen Winters,Candice Rogers,False
+Jonathan Barnes,continues,True,1,Doctors Name,Brenda Miller,Candice Rogers,False
+Christine Olson,continues,True,2,Name,Christine Olson,Candice Rogers,False
+Christine Olson,continues,True,2,Doctors Name,Kevin Rodriguez,Candice Rogers,False
+Matthew Jacobs,continues,True,1,Doctors Name,Natalie Johnson,Candice Rogers,False
+George Martin,continues,True,1,RN,Rebecca Jones,Candice Rogers,False
+Michael Moran,continues,True,3,Doctors Name,Brenda Perez,Candice Rogers,False
+Katie Williams,continues,True,1,RN,Larry Freeman,Candice Rogers,False
+2021-07-11,continues,True,11,"Date of Visit, Date of Discharge","Charles Gray, Gary Lopez, Alexander Morrison, Nicholas Bryan, Michelle Ryan, Patrick Little, Lisa Torres, Amanda Hall, Ruth Brown, David Mcintyre, Ronald Williams",Edward Kline,False
+2021-07-25,continues,True,16,"Date of Visit, Date of Discharge","Jeff James, Nicholas Bryan, Cheryl Hernandez, Vanessa Moore, Courtney Santos, James Fowler, Brenda Morris, Natalie Johnson, Sean Page, Timothy Gardner, Rebecca Taylor, Darren Collins, Tyler Scott, Sheri Ruiz, Alexander Morrison, Justin Thomas",Edward Kline,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Mann,Heidi Mann,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+2021-12-02,continues,True,11,"Date of Visit, Date of Discharge","Jennifer Shepard, Ashley Mclean, Sean Carpenter, Sharon Archer, Jessica Gray, Gina Davis, Heather Davis, Christopher Smith, Hannah Jones, Sharon Mitchell, Kayla Franklin",Lauren Copeland,False
+2021-12-30,continues,True,9,"Date of Visit, Date of Discharge","Patrick Bishop, Calvin Meyer, Michael Thompson, Pamela Wright, Lynn Ramirez, Roberta Lopez, Daniel Gonzales, Amanda Roy, Bruce Holland",Lauren Copeland,False
+2024-04-06,jb_special_tokens,True,23,"DOB, Date of Visit, Date of Discharge","Ryan Williams, Brenda Schultz, Michael Morris, Craig Hendrix, Nicole Porter, Austin Jones, Rodney Jenkins, Christina Hill, Carol Lowery, Jimmy Klein, April Woods, Olivia Randolph, Randy Norton, Colleen Coleman, Allen Winters",Lauren Copeland,False
+2024-04-23,jb_special_tokens,True,7,"Date of Visit, Date of Discharge","Regina Mcdonald, Courtney Rogers, Alyssa Blair, Leah Hardy, Timothy Dalton, Rachael Lawson, Christina Hill",Lauren Copeland,False
+Amy Thompson,continues,True,2,RN,"Heather Parsons, Kristy James",Lauren Copeland,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Lauren Copeland,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Mary Henderson,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True

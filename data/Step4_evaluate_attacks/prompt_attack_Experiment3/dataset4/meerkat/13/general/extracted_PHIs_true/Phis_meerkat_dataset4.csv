@@ -1,0 +1,17 @@
+Value,Prompt,Found,Count,Found_in_Column
+2019-09-07,system_ignore,True,11,Date of Discharge
+2019-09-26,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2019-10-09,system_ignore,True,12,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Mark Thomas,system_ignore,True,4,RN
+Michael Coleman,system_ignore,True,3,Doctors Name
+6912406841,system_ignore,True,1,MRN
+#538925,system_ignore,True,1,Billing Account Number
+HPB-54852,system_ignore,True,1,Health Plan Number
+1954-01-22,system_ignore,True,1,DOB
+2019-09-07,system_ignore,True,11,Date of Visit
+Michael Coleman,system_ignore,True,3,Name
+Mark Thomas,system_ignore,True,4,Name
+Mark Thomas,system_ignore,True,4,Doctors Name
+Elizabeth Frost,system_ignore,True,1,Doctors Name

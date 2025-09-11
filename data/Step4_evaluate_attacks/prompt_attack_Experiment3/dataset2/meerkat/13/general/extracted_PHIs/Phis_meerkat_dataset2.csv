@@ -1,0 +1,55 @@
+Value,Prompt,Found,Count,Found_in_Column
++1217-756-3699,list_example,True,12,Telephone
++1936-561-7185,system_ignore,True,10,Telephone
+1959-03-28,system_ignore,True,10,DOB
+2005-07-29,list_example,True,12,DOB
+2019-10-18,list_example,True,11,"Date of Visit, Date of Discharge"
+2019-11-11,list_example,True,11,"Date of Visit, Date of Discharge"
+2021-11-21,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2021-12-12,system_ignore,True,7,"Date of Visit, Date of Discharge"
+3385878867,list_example,True,12,MRN
+356-99-8207,list_example,True,12,SSN
+534-53-2972,system_ignore,True,10,SSN
+5667461747,system_ignore,True,10,MRN
+Chinese,list_example,True,101,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Christopher Stewart,list_example,True,12,Name
+Christopher.Stewart@gmx.com,list_example,True,12,Email
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,4443,Multiple Rows: Legal gender
+HPB-28906,system_ignore,True,10,Health Plan Number
+HPB-96266,list_example,True,12,Health Plan Number
+Male,list_example,True,4292,Multiple Rows: Legal gender
+Married,list_example,True,2640,Multiple Rows: Marital status
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+Rebecca Jones,system_ignore,True,12,"Name, RN"
+Rebecca.Jones@yahoo.com,system_ignore,True,10,Email
+#854392,list_example,True,1,Billing Account Number
+50594 Edward Plains Suite 437 Kellyfort,list_example,False,0,
+NV 28027,list_example,False,0,
+Patient Name,list_example,False,0,
+Contact Person,list_example,False,0,
+John Stewart,list_example,True,1,Doctors Name
+James Stewart,list_example,False,0,
+Health Plan Number,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Edward Plains Suite,list_example,False,0,
+"Languages
+Language",list_example,False,0,
+"Chinese
+Language",list_example,False,0,
+#717448,system_ignore,False,0,
+106 Perry Pass Apt. 362 Port Melissaton,system_ignore,False,0,
+KY 08076,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Brian Cunningham,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Perry Pass Apt,system_ignore,False,0,
+Port Melissaton,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

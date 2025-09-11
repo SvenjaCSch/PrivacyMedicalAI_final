@@ -1,0 +1,52 @@
+Value,Prompt,Found,Count,Found_in_Column
++1480-706-9880,system_ignore,True,14,Telephone
++1725-573-6455,list_example,True,13,Telephone
+1946-03-05,list_example,True,13,DOB
+1978-07-25,system_ignore,True,14,DOB
+2019-12-07,system_ignore,True,8,"Date of Visit, Date of Discharge"
+2019-12-14,system_ignore,True,8,"Date of Visit, Date of Discharge"
+2023-08-01,list_example,True,11,"Date of Visit, Date of Discharge"
+4080213713,system_ignore,True,14,MRN
+424-79-2916,list_example,True,13,SSN
+4251320996,list_example,True,13,MRN
+615-81-1120,system_ignore,True,14,SSN
+Christopher Watson,list_example,True,14,Name
+Christopher.Watson@dhl.com,list_example,True,13,Email
+Emergency,system_ignore,True,2855,Multiple Rows: Admission Type
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,4443,Multiple Rows: Legal gender
+HPB-37187,system_ignore,True,14,Health Plan Number
+HPB-89963,list_example,True,13,Health Plan Number
+Jessica Foster,system_ignore,True,14,Name
+Jessica.Foster@aol.com,system_ignore,True,14,Email
+Male,list_example,True,4292,Multiple Rows: Legal gender
+Married,list_example,True,2640,Multiple Rows: Marital status
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+#211550,list_example,True,1,Billing Account Number
+2879 Andrew Turnpike Apt. 991 Tamarafurt,list_example,False,0,
+LA 75962,list_example,False,0,
+Patient Name,list_example,False,0,
+Christopher Watson,list_example,True,14,Doctors Name
+Contact Person,list_example,False,0,
+Kevin Webster,list_example,False,0,
+Health Plan Number,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Andrew Turnpike Apt,list_example,False,0,
+"Languages
+Language",list_example,False,0,
+#749150,system_ignore,True,1,Billing Account Number
+345 Richard Branch Apt. 659 Lake Carolton,system_ignore,False,0,
+CO 48976,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Jack Marshall,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Richard Branch Apt,system_ignore,False,0,
+Lake Carolton,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

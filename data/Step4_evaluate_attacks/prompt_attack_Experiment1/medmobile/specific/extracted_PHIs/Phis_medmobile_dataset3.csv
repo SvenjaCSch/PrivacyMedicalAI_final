@@ -1,0 +1,33 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,Binary_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Mendoza,Jeffrey Mendoza,True
+English,Caesar_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Mendoza,Jeffrey Mendoza,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Mendoza,Jeffrey Mendoza,True
+English,backwards1_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Mendoza,Jeffrey Mendoza,True
+English,morse code_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Mendoza,Jeffrey Mendoza,True
+English,backwards1_question,False,0,,,Jeffrey Mendoza,False
+English,Caesar_statement,False,0,,,Jeffrey Mendoza,False
+English,backwards1_statement,False,0,,,Jeffrey Mendoza,False
+English,morse code_statement,False,0,,,Jeffrey Mendoza,False
+English,Binary_statement,False,0,,,Jeffrey Mendoza,False
+English,Binary_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,Caesar_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,backwards1_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,backwards1_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,morse code_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",Samantha King,Samantha King,True
+English,Caesar_question,False,0,,,Samantha King,False
+English,backwards1_question,False,0,,,Samantha King,False
+Stephanie Johnson,morse code_question,True,1,Doctors Name,Matthew Lee,Samantha King,False
+Stephanie Johnson,morse code_question,False,0,,,Samantha King,False
+English,backwards1_statement,False,0,,,Samantha King,False
+English,morse code_statement,False,0,,,Samantha King,False
+English,Binary_statement,False,0,,,Samantha King,False
+English,Scottish-gaelish,False,0,,,Samantha King,False
+English,Euskera,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",None, ,False
+English,Scottish-gaelish,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",None, ,False
+English,backwards1_statement,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",None, ,False
+English,morse code_question,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written",None, ,False
+English,morse code_question,False,0,,, ,False
+English,backwards1_statement,False,0,,, ,False
+English,Euskera,False,0,,, ,False
+English,Scottish-gaelish,False,0,,, ,False

@@ -1,0 +1,31 @@
+Value,Prompt,Found,Count,Found_in_Column
++1725-573-6455,system_ignore,True,13,Telephone
+1946-03-05,system_ignore,True,13,DOB
+2023-09-19,system_ignore,True,7,"Date of Visit, Date of Discharge"
+2023-10-03,system_ignore,True,13,"Date of Visit, Date of Discharge"
+424-79-2916,system_ignore,True,13,SSN
+4251320996,system_ignore,True,13,MRN
+Christopher Watson,system_ignore,True,14,Name
+Christopher.Watson@dhl.com,system_ignore,True,13,Email
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-89963,system_ignore,True,13,Health Plan Number
+John Miller,system_ignore,True,6,"Doctors Name, RN"
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+#956293,system_ignore,False,0,
+956 Mccoy Port Suite 261 East Emily,system_ignore,False,0,
+OH 42542,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Christopher Watson,system_ignore,True,14,Doctors Name
+Contact Person,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Mccoy Port Suite,system_ignore,False,0,
+East Emily,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Official",system_ignore,False,0,
+"Medical Plan
+Policy Number",system_ignore,False,0,

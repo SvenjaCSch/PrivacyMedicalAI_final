@@ -1,0 +1,16 @@
+Value,Prompt,Found,Count,Found_in_Column
+2020-11-16,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2020-11-17,system_ignore,True,9,Date of Discharge
+Arabic,system_ignore,True,399,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Married,system_ignore,True,2857,Multiple Rows: Marital status
+Michael Coleman,system_ignore,True,3,Doctors Name
+6912406841,system_ignore,True,1,MRN
+485-83-4864,system_ignore,True,1,SSN
+#834714,system_ignore,True,1,Billing Account Number
+HPB-94091,system_ignore,True,1,Health Plan Number
++1904-292-7986,system_ignore,True,1,Telephone
+Michael.Coleman@gmx.com,system_ignore,True,1,Email
+2002-01-15,system_ignore,True,1,DOB
+2020-11-17,system_ignore,True,9,Date of Visit
+Michael Coleman,system_ignore,True,3,Name

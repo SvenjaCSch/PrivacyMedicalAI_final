@@ -1,0 +1,26 @@
+Value,Prompt,Found,Count,Found_in_Column
++1573-928-2924,system_ignore,True,14,Telephone
+1982-07-01,system_ignore,True,19,DOB
+2024-04-06,system_ignore,True,23,"DOB, Date of Visit, Date of Discharge"
+2024-04-09,system_ignore,True,12,"Date of Visit, Date of Discharge"
+366-52-3958,system_ignore,True,14,SSN
+5433569431,system_ignore,True,14,MRN
+Austin Jones,system_ignore,True,14,Name
+Austin.Jones@brown.com,system_ignore,True,14,Email
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-78847,system_ignore,True,14,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+#876553,system_ignore,False,0,
+709 Mason Wells Apt. 678 Kellyton,system_ignore,False,0,
+WY 93167,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Jeremy Mcguire,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Mason Wells Apt,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

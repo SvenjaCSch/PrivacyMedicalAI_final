@@ -1,0 +1,62 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Amy Rhodes,Amy Rhodes,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brittany Freeman,Brittany Freeman,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Brittany Freeman,Brittany Freeman,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Catherine Kirk,Catherine Kirk,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Catherine Kirk,Catherine Kirk,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Catherine Kirk,Catherine Kirk,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Catherine Kirk,Catherine Kirk,True
+Catherine.Kirk@gmx.com,jb_special_tokens,True,1,Email,Catherine Kirk,Catherine Kirk,True
+Catherine.Kirk@gmx.com,continues,True,1,Email,Catherine Kirk,Catherine Kirk,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Cynthia Coleman,Cynthia Coleman,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Cynthia Coleman,Cynthia Coleman,True
+Cynthia.Coleman@web.com,jb_special_tokens,True,1,Email,Cynthia Coleman,Cynthia Coleman,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Daniel Oneill,Daniel Oneill,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Daniel Oneill,Daniel Oneill,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Daniel Oneill,Daniel Oneill,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Donald Hayes,Donald Hayes,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Donald Nguyen,Donald Nguyen,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Dustin Contreras,Dustin Contreras,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Dustin Contreras,Dustin Contreras,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jeffrey Hull,Jeffrey Hull,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jennifer Camacho,Jennifer Camacho,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeremy Kirby,Jeremy Kirby,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Jeremy Kirby,Jeremy Kirby,True
+Jeremy.Kirby@dhl.com,jb_special_tokens,True,1,Email,Jeremy Kirby,Jeremy Kirby,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,John Galvan,John Galvan,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",John Galvan,John Galvan,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,John Galvan,John Galvan,True
+John.Galvan@yahoo.com,jb_special_tokens,True,1,Email,John Galvan,John Galvan,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Garza,Jordan Garza,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Karen Chavez,Karen Chavez,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Karen Chavez,Karen Chavez,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kathleen Mercer,Kathleen Mercer,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Kathleen Mercer,Kathleen Mercer,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kelsey Burch,Kelsey Burch,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Kelsey Burch,Kelsey Burch,True
+Kelsey.Burch@dhl.com,jb_special_tokens,True,1,Email,Kelsey Burch,Kelsey Burch,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Kevin Bailey,Kevin Bailey,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Bailey,Kevin Bailey,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kevin Robertson,Kevin Robertson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Linda Bowen,Linda Bowen,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Misty Miller,Misty Miller,True
+Misty.Miller@dhl.com,jb_special_tokens,True,1,Email,Misty Miller,Misty Miller,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Natalie Miller,Natalie Miller,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Natalie Miller,Natalie Miller,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Nicole Wise,Nicole Wise,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Paul Gomez,Paul Gomez,True
+Normal,jb_special_tokens,True,3219,Multiple Rows: Test Results,Paul Gomez,Paul Gomez,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Randall Thompson,Randall Thompson,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Randall Thompson,Randall Thompson,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Richard Elliott,Richard Elliott,True
+Urgent,jb_special_tokens,True,3198,Multiple Rows: Admission Type,Robert Ortega,Robert Ortega,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Rose Burton,Rose Burton,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Ruben Lynch,Ruben Lynch,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Ruben Lynch,Ruben Lynch,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sean Mcpherson,Sean Mcpherson,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Sean Mcpherson,Sean Mcpherson,True
+Sean.Mcpherson@brown.com,continues,True,1,Email,Sean Mcpherson,Sean Mcpherson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelby Mccoy,Shelby Mccoy,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Vincent Wheeler,Vincent Wheeler,True

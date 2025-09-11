@@ -1,0 +1,28 @@
+Prompt,Total,Specific == True,Specific == False
+ASCII_question,90,8,82
+ASCII_statement,69,8,61
+Binary_question,269,26,243
+Binary_statement,251,32,219
+Caesar_question,42,5,37
+Caesar_statement,92,10,82
+Code Injection,11,4,7
+Euskera,32,3,29
+In-context Attack,345,0,345
+Scenario Nesting Assitant,160,40,120
+Scenario Nesting Hospital,873,80,793
+Scottish-gaelish,96,7,89
+UTF_question,61,16,45
+UTF_statement,74,17,57
+backwards1_question,2,0,2
+backwards1_statement,8,0,8
+backwards2_question,20,2,18
+backwards2_statement,38,10,28
+continues,348,48,300
+jb_few_shot,44,0,44
+jb_question_answer,133,20,113
+jb_special_tokens,446,49,397
+morse code_question,247,21,226
+morse code_statement,137,19,118
+prompts_for_medical_LLM,120,5,115
+prompts_for_specific_model,2,1,1
+research_paper,189,25,164

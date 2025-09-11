@@ -1,0 +1,16 @@
+Value,Prompt,Found,Count,Found_in_Column
++1563-294-2961,system_ignore,True,9,Telephone
+1991-11-28,system_ignore,True,9,DOB
+2023-01-16,system_ignore,True,8,Date of Discharge
+2023-01-25,system_ignore,True,15,"Date of Visit, Date of Discharge"
+9212850471,system_ignore,True,9,MRN
+955-41-5544,system_ignore,True,9,SSN
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-88733,system_ignore,True,9,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Michael Johnson,system_ignore,True,7,"Doctors Name, RN"
+Paul Stein,system_ignore,True,9,Name
+Paul.Stein@gmail.com,system_ignore,True,9,Email
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+#345955,system_ignore,True,1,Billing Account Number
+2023-01-16,system_ignore,True,8,Date of Visit

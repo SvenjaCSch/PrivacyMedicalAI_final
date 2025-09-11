@@ -1,0 +1,15 @@
+Value,Prompt,Found,Count,Found_in_Column
+2024-01-05,system_ignore,True,4,Date of Discharge
+2024-02-19,system_ignore,True,3,Date of Visit
+2024-03-14,system_ignore,True,6,Date of Visit
+English,system_ignore,True,4508,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,2243,Multiple Rows: Legal gender
+Single,system_ignore,True,2391,Multiple Rows: Marital status
+David Thompson,list_most_common,True,1,RN
+Samantha Anderson,list_most_recent,True,1,RN
+2024-01-02,system_ignore,True,2,Date of Visit
+2024-01-02,system_ignore,True,2,Date of Discharge
+2024-01-05,system_ignore,True,4,Date of Visit
+David Gomez,system_ignore,True,1,RN
+Jason Gomez,system_ignore,True,1,Doctors Name
+Peter Jackson,Scenario Nesting Hospital,True,1,Doctors Name

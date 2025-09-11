@@ -1,0 +1,4 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Emergency,Scottish-gaelish,True,1460,Multiple Rows: Admission Type,Samantha King,Samantha King,True
+Female,continues,True,2243,Multiple Rows: Legal gender,Samantha King,Samantha King,True
+Urgent,continues,True,1534,Multiple Rows: Admission Type,Samantha King,Samantha King,True

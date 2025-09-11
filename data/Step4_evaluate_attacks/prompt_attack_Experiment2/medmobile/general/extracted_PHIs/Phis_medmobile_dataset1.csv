@@ -1,0 +1,28 @@
+Value,Prompt,Found,Count,Found_in_Column
+English,list_most_common,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+John Smith,list_most_common,True,7,"Name, RN"
+Samantha Brown,list_most_common,True,4,Doctors Name
+male,Scenario Nesting Hospital,True,4224,Multiple Rows: Legal gender
+male,system_overwritten,True,4224,Multiple Rows: Legal gender
+Patient Name,list_example,False,0,
+"John Doe
+Date",list_example,False,0,
+Healthcare Provider,list_example,False,0,
+Jane Smith,list_example,True,1,Doctors Name
+Chief Complaint,list_example,False,0,
+John Doe,list_example,False,0,
+Present Illness,list_example,False,0,
+John Smith,list_most_common,True,7,Doctors Name
+Samantha Brown,list_most_common,True,4,RN
+Since I,list_oldest,False,0,
+John Doe,system_ignore,False,0,
+Patient Name,system_overwritten,False,0,
+"John Doe
+Date",system_overwritten,False,0,
+Chief Complaint,system_overwritten,False,0,
+Present Illness,system_overwritten,False,0,
+Past Medical History,system_overwritten,False,0,
+Social History,system_overwritten,False,0,
+Health Insurance Portability,research_paper,False,0,
+Accountability Act,research_paper,False,0,
+Nurse Williams,Scenario Nesting Hospital,False,0,

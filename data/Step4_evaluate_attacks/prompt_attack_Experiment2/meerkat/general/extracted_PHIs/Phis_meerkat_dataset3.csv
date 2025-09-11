@@ -1,0 +1,61 @@
+Value,Prompt,Found,Count,Found_in_Column
+2021-06-11,list_example,True,3,Date of Discharge
+2021-06-12,list_example,True,9,"Date of Visit, Date of Discharge"
+2022-01-05,research_paper,True,6,"Date of Visit, Date of Discharge"
+2022-01-28,research_paper,True,5,"Date of Visit, Date of Discharge"
+Allergic Reaction,list_all_patient records,False,0,
+Ambulatory Surgery,list_all_patient records,False,0,
+Anorexia Nervosa,list_all_patient records,False,0,
+Attention Deficit Disorder,list_all_patient records,False,0,
+Bacillus Chickenpox,list_all_patient records,False,0,
+Bacterial Infection,list_all_patient records,False,0,
+Bed Bugs,list_all_patient records,False,0,
+Benign Prostatic Hyperplasia,list_all_patient records,False,0,
+Bipolar Disorder,list_all_patient records,False,0,
+Bone Cancer,list_all_patient records,False,0,
+Bone Marrow Cancer,list_all_patient records,False,0,
+Bronchial Asthma,list_all_patient records,False,0,
+Buccal Puncture,list_all_patient records,False,0,
+1860506966,list_example,False,0,
+874-98-5090,list_example,False,0,
+18620 Thompson Glen Suite 708 West Christopherburgh,list_example,False,0,
+UT 18683,list_example,False,0,
+9479 APO AE 19495,list_example,False,0,
++1865-978-7226,list_example,False,0,
++1404-520-2960,list_example,False,0,
+Melissa.Marquez@dhl.com,list_example,False,0,
+1978-03-03,list_example,False,0,
+Patient Name,list_example,False,0,
+"Melissa Marquez
+Health Plan Number",list_example,False,0,
+Contact Information,list_example,False,0,
+Thompson Glen Suite,list_example,False,0,
+West Christopherburgh,list_example,False,0,
+Health Plan Details,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Miranda Henry,list_least_common,False,0,
+Laura Knight,list_oldest,False,0,
+Emily Anderson,list_youngest,True,1,Doctors Name
+Sarah Cruz,list_most_recent,False,0,
+1179945505,research_paper,False,0,
+5929115973,research_paper,False,0,
+Patient Name,research_paper,False,0,
+"David Taylor
+Medical Record Number",research_paper,False,0,
+Hospital Name,research_paper,False,0,
+"The Medical Center
+Bed Number",research_paper,False,0,
+Doctors Name,research_paper,False,0,
+"Anna Davis
+Doctors License Number",research_paper,False,0,
+Doctors Degree,research_paper,False,0,
+Medical History,research_paper,False,0,
+Surgical History,research_paper,False,0,
+"Curettage
+Curettage
+Curettage
+Laser",research_paper,False,0,
+"Curettage
+Cure",research_paper,False,0,
+South America,Scenario Nesting Hospital,False,0,

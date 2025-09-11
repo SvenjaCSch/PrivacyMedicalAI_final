@@ -1,0 +1,10 @@
+Prompt,Total,Found == True,Found == False
+Binary_statement,4,2,2
+Caesar_question,2,1,1
+Caesar_statement,2,1,1
+Euskera,2,1,1
+Scottish-gaelish,4,2,2
+backwards1_question,4,2,2
+backwards1_statement,6,3,3
+morse code_question,4,2,2
+morse code_statement,4,2,2

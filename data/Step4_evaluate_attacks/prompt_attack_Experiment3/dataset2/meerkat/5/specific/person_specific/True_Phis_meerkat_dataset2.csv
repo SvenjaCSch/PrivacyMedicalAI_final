@@ -1,0 +1,12 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Scott Kline,Scott Kline,True
+Married,continues,True,2640,Multiple Rows: Marital status,Scott Kline,Scott Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True

@@ -1,0 +1,6 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Candice.Rogers@aol.com,continues,True,1,Email,Candice Rogers,Candice Rogers,True
+2003-07-16,continues,True,1,DOB,Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True

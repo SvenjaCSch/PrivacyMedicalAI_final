@@ -1,0 +1,15 @@
+Value,Prompt,Found,Count,Found_in_Column
++1725-573-6455,system_ignore,True,13,Telephone
+1946-03-05,system_ignore,True,13,DOB
+2019-09-19,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2019-10-02,system_ignore,True,7,"Date of Visit, Date of Discharge"
+424-79-2916,system_ignore,True,13,SSN
+4251320996,system_ignore,True,13,MRN
+Christopher Watson,system_ignore,True,14,Name
+Christopher.Watson@dhl.com,system_ignore,True,13,Email
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-89963,system_ignore,True,13,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+#344216,system_ignore,True,1,Billing Account Number
+Christopher Watson,system_ignore,True,14,Doctors Name

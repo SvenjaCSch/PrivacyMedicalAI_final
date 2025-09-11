@@ -1,0 +1,20 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Kristy Rodriguez,Kristy Rodriguez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Melanie Green,Melanie Green,True
+Inconclusive,jb_special_tokens,True,2931,Multiple Rows: Test Results,Melanie Green,Melanie Green,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Melissa Estrada,Melissa Estrada,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Ferguson,Sarah Ferguson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

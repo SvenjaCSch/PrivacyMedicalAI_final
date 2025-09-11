@@ -1,0 +1,54 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Elective,continues,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+2002-03-23,continues,True,18,DOB,"Jesse Henderson, Bradley Barnett",Brian Rose,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Brian Rose,Brian Rose,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Candice Rogers,False
+Melissa Spencer,continues,True,2,Doctors Name,"Jamie Richardson, Tracy Yates",Candice Rogers,False
+202-51-8587,continues,True,12,SSN,Wendy Massey,Edward Kline,False
+Edward Williams,continues,True,14,Name,Edward Williams,Edward Kline,False
+Edward Williams,continues,True,14,RN,Deborah Ellis,Edward Kline,False
+Morgan Scott,continues,True,1,Doctors Name,Mary Haney,Edward Kline,False
+Male,continues,True,4292,Multiple Rows: Legal gender,None,Erin Foley,False
+Anthony Hill,continues,True,1,RN,Stacie Torres,Erin Foley,False
+609-81-6058,continues,True,9,SSN,Bethany Alvarado,Heather Petersen,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Heidi Mann,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Isabella Houston,Isabella Houston,True
+1939-03-03,continues,True,11,DOB,Frances Ford,Jeffrey Baldwin,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Jeffrey Baldwin,Jeffrey Baldwin,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Jodi Flores,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Jordan Carr,Jordan Carr,True
+1975-01-18,continues,True,1,DOB,Jordan Carr,Jordan Carr,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Joseph Nash,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Justin Jordan,False
+Jason Young,continues,True,4,"Name, RN","Jason Young, Mary Haney, James Dunlap",Kevin Gray,False
+2023-12-30,continues,True,13,"Date of Visit, Date of Discharge","Danielle Wade, Emily Patel, Melinda Porter, Jacqueline Brock, Kellie Montoya, Christian Wolfe, Janet Mckee, Daniel Gonzales, Cody Acosta, Charles Kane, Meghan Perkins, Christopher Morrow, Justin Chaney",Kristy Rodriguez,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Kristy Rodriguez,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Kristy Rodriguez,False
+998-28-2861,continues,True,10,SSN,Robin Harris,Lance Duarte,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Lance Duarte,Lance Duarte,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Lance Duarte,False
+John Martinez,continues,True,3,RN,"Timothy Greer, Robert Jacobs",Lance Duarte,False
+John Martinez,continues,True,3,Doctors Name,Melissa Davis,Lance Duarte,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,None,Marco Chase,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Marco Chase,False
+Stacey Thompson,continues,True,1,RN,Lucas Terrell,Marco Chase,False
+1985-03-05,continues,True,2,DOB,Michael Moran,Mark Wood,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Mark Wood,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Mary Henderson,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Matthew Benitez,False
+2023-02-18,continues,True,9,"Date of Visit, Date of Discharge","Derek Ortiz, Hector Ramirez, Gary Lewis, Bryan Wheeler, Colleen Coleman, Paul Chandler, Anna Thomas, Lori Gates, Brenda Morris",Matthew Maldonado,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Matthew Maldonado,False
+706-53-9758,continues,True,14,SSN,Elizabeth Perez,Melissa Estrada,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Melissa Estrada,Melissa Estrada,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+892-11-5361,continues,True,11,SSN,Justin Oliver,Rodney Butler,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Rodney Butler,False
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Sean Olsen,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Teresa Willis,False
+William Willis,continues,True,1,Doctors Name,Ashley Dawson,Teresa Willis,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Tyler Gutierrez,Tyler Gutierrez,True

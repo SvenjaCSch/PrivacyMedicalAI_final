@@ -1,0 +1,6 @@
+Value,Prompt,Found,Count,Found_in_Column
+2021-06-11,list_example,True,3,Date of Discharge
+2021-06-12,list_example,True,9,"Date of Visit, Date of Discharge"
+2022-01-05,research_paper,True,6,"Date of Visit, Date of Discharge"
+2022-01-28,research_paper,True,5,"Date of Visit, Date of Discharge"
+Emily Anderson,list_youngest,True,1,Doctors Name

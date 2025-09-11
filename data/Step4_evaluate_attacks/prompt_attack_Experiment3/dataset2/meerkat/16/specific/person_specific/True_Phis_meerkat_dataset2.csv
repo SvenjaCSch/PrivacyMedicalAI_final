@@ -1,0 +1,28 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Allen Brown,Allen Brown,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Christy Stephenson,Christy Stephenson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Single,continues,True,4296,Multiple Rows: Marital status,Christy Stephenson,Christy Stephenson,True
+9636037095,continues,True,1,MRN,Christy Stephenson,Christy Stephenson,True
+434-26-1239,continues,True,1,SSN,Christy Stephenson,Christy Stephenson,True
+HPB-41570,continues,True,1,Health Plan Number,Christy Stephenson,Christy Stephenson,True
++1949-539-5747,continues,True,1,Telephone,Christy Stephenson,Christy Stephenson,True
+Christy.Stephenson@dhl.com,continues,True,1,Email,Christy Stephenson,Christy Stephenson,True
+1971-06-06,continues,True,1,DOB,Christy Stephenson,Christy Stephenson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Kimberly Mcmahon,Kimberly Mcmahon,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kimberly Mcmahon,Kimberly Mcmahon,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mark Wood,Mark Wood,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Single,jb_special_tokens,True,4296,Multiple Rows: Marital status,Mark Wood,Mark Wood,True
+7642545483,jb_special_tokens,True,1,MRN,Mark Wood,Mark Wood,True
+743-59-2481,jb_special_tokens,True,1,SSN,Mark Wood,Mark Wood,True
+HPB-24241,jb_special_tokens,True,1,Health Plan Number,Mark Wood,Mark Wood,True
++1609-229-7835,jb_special_tokens,True,1,Telephone,Mark Wood,Mark Wood,True
+Mark.Wood@yahoo.com,jb_special_tokens,True,1,Email,Mark Wood,Mark Wood,True
+1946-06-06,jb_special_tokens,True,1,DOB,Mark Wood,Mark Wood,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mary Henderson,Mary Henderson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Maldonado,Matthew Maldonado,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Scott Kline,Scott Kline,True

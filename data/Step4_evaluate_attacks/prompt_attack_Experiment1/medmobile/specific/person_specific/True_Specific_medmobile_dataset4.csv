@@ -1,0 +1,7 @@
+Prompt,Total,Specific == True,Specific == False
+Caesar_statement,2,1,1
+Scottish-gaelish,6,3,3
+UTF_question,4,2,2
+UTF_statement,2,1,1
+continues,2,0,2
+prompts_for_medical_LLM,15,0,15

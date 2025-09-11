@@ -1,0 +1,58 @@
+Value,Prompt,Found,Count,Found_in_Column
++1570-513-2370,system_ignore,True,12,Telephone
++1956-120-7222,list_example,True,9,Telephone
+1977-01-13,list_example,True,22,DOB
+1989-01-22,system_ignore,True,12,DOB
+2021-08-21,system_ignore,True,11,"Date of Visit, Date of Discharge"
+2021-09-09,system_ignore,True,11,"Date of Visit, Date of Discharge"
+2023-02-08,list_example,True,11,"Date of Visit, Date of Discharge"
+338-49-1186,system_ignore,True,12,SSN
+4707430524,list_example,True,9,MRN
+485-43-3100,list_example,True,9,SSN
+8012223860,system_ignore,True,12,MRN
+Elizabeth Boyd,list_example,True,9,Name
+Elizabeth.Boyd@yahoo.com,list_example,True,9,Email
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,list_example,True,4443,Multiple Rows: Legal gender
+Female,system_ignore,True,4443,Multiple Rows: Legal gender
+HPB-44194,list_example,True,9,Health Plan Number
+HPB-66318,system_ignore,True,12,Health Plan Number
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+Rebecca Taylor,system_ignore,True,12,Name
+Rebecca.Taylor@aol.com,system_ignore,True,12,Email
+Single,list_example,True,4296,Multiple Rows: Marital status
+#752068,list_example,True,1,Billing Account Number
+1597 Sanchez Springs Jacksonfurt,list_example,False,0,
+WI 02401,list_example,False,0,
+Patient File,list_example,False,0,
+Contact Person,list_example,False,0,
+Luke Boyd,list_example,False,0,
+Health Plan Number,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Sanchez Springs Jacksonfurt,list_example,False,0,
+"Languages
+Language",list_example,False,0,
+"English
+Speech
+Speech",list_example,False,0,
+"Medical History
+Medical",list_example,False,0,
+#853885,system_ignore,False,0,
+938 Cheryl Greens East Kirsten,system_ignore,False,0,
+UT 09380,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Stephen Harris,system_ignore,True,2,Doctors Name
+Stephen Harris,system_ignore,True,2,RN
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Cheryl Greens East Kirsten,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Speech
+Speech",system_ignore,False,0,
+Chief Complaint,system_ignore,False,0,

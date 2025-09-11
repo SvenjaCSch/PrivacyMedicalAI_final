@@ -1,0 +1,16 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Elective,continues,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Brian Rose,Brian Rose,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Isabella Houston,Isabella Houston,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Jeffrey Baldwin,Jeffrey Baldwin,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Jordan Carr,Jordan Carr,True
+1975-01-18,continues,True,1,DOB,Jordan Carr,Jordan Carr,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Lance Duarte,Lance Duarte,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Melissa Estrada,Melissa Estrada,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Tyler Gutierrez,Tyler Gutierrez,True

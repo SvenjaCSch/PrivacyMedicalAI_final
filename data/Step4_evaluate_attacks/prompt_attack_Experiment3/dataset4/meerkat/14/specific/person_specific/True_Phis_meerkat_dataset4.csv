@@ -1,0 +1,70 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4931,Multiple Rows: Legal gender,Adrienne Wiley,Adrienne Wiley,True
+Female,continues,True,4931,Multiple Rows: Legal gender,April Guzman,April Guzman,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Ashley Lyons,Ashley Lyons,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Becky Vasquez,Becky Vasquez,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Beth Fitzgerald,Beth Fitzgerald,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Beth Fitzgerald,Beth Fitzgerald,True
+Beth.Fitzgerald@yahoo.com,jb_special_tokens,True,1,Email,Beth Fitzgerald,Beth Fitzgerald,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Brittany Freeman,Brittany Freeman,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Cassandra Carrillo,Cassandra Carrillo,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Catherine Kirk,Catherine Kirk,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Charles Klein,Charles Klein,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Christopher Espinoza,Christopher Espinoza,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Clarence Ortiz,Clarence Ortiz,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Courtney Butler,Courtney Butler,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Cynthia Bradley,Cynthia Bradley,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Nguyen,Donald Nguyen,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Dustin Contreras,Dustin Contreras,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Edward Mathews,Edward Mathews,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Jennifer Camacho,Jennifer Camacho,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jerome Howell,Jerome Howell,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jimmy Rosario,Jimmy Rosario,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Jonathan Rollins,Jonathan Rollins,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Jordan Garza,Jordan Garza,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Garza,Jordan Garza,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Jordan Garza,Jordan Garza,True
+Jordan.Garza@yahoo.com,continues,True,1,Email,Jordan Garza,Jordan Garza,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Joshua Silva,Joshua Silva,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Katherine Melton,Katherine Melton,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kathleen Mercer,Kathleen Mercer,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Keith Wagner,Keith Wagner,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Kelsey Burch,Kelsey Burch,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Mccoy,Kevin Mccoy,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Kevin Robertson,Kevin Robertson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Laura Rhodes,Laura Rhodes,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Melanie Miles,Melanie Miles,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Melissa Burch,Melissa Burch,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Michael Navarro,Michael Navarro,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Morgan Arias,Morgan Arias,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Paul Gomez,Paul Gomez,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Randall Thompson,Randall Thompson,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Richard Elliott,Richard Elliott,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Robert Ortega,Robert Ortega,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Robert Rush,Robert Rush,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Roger Wright,Roger Wright,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Rose Burton,Rose Burton,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Ryan Harper,Ryan Harper,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Ryan Hull,Ryan Hull,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sabrina Wilcox,Sabrina Wilcox,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sarah Jackson,Sarah Jackson,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Sean Mcpherson,Sean Mcpherson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shannon Lawrence,Shannon Lawrence,True
+Emergency,continues,True,3190,Multiple Rows: Admission Type,Shawn Richardson,Shawn Richardson,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Shawn Richardson,Shawn Richardson,True
+Shawn.Richardson@gmail.com,continues,True,1,Email,Shawn Richardson,Shawn Richardson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Shelby Mccoy,Shelby Mccoy,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Sheryl Young,Sheryl Young,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Stephanie Robinson,Stephanie Robinson,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Tamara Arnold,Tamara Arnold,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Tammy Crawford,Tammy Crawford,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Thomas Fletcher,Thomas Fletcher,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Thomas Zamora,Thomas Zamora,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Thomas Zamora,Thomas Zamora,True
+Thomas.Zamora@gmx.com,continues,True,1,Email,Thomas Zamora,Thomas Zamora,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Timothy Hensley,Timothy Hensley,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Victoria Thomas,Victoria Thomas,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Vincent Wheeler,Vincent Wheeler,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Wendy Beard,Wendy Beard,True

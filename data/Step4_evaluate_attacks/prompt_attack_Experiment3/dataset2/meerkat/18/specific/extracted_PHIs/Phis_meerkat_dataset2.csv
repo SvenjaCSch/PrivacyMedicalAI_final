@@ -1,0 +1,76 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+2021-02-11,continues,True,9,"Date of Visit, Date of Discharge","Marissa Lane, Amy Gray, Vanessa Patel, Kaylee Howard, Megan Olson, Ralph Moore, James Carlson, William Silva, Amanda Smith",Erin Foley,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Erin Foley,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Erin Foley,False
+Elective,continues,False,0,,,Erin Foley,False
+Urgent,continues,False,0,,,Erin Foley,False
+Female,continues,False,0,,,Erin Foley,False
+2021-02-11,continues,False,0,,,Erin Foley,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Female,continues,False,0,,,Isabella Houston,False
+2023-08-13,continues,True,11,Date of Visit,"Daniel Hall, Tanya Sexton, Tammy Larson, Robert Berg, Jorge Boone, Daniel Stephens, Amy Smith, Eric Kelly, Theresa Roth, Emily Lewis",Jill Schwartz,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Jill Schwartz,False
+Urgent,continues,False,0,,,Jill Schwartz,False
+Female,continues,False,0,,,Jill Schwartz,False
+2023-08-13,continues,True,11,Date of Discharge,John Parsons,Jill Schwartz,False
+2023-08-13,continues,False,0,,,Jill Schwartz,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Female,continues,False,0,,,Jodi Flores,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Urgent,jb_special_tokens,False,0,,,Joel Solis,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Jordan Carr,False
+Urgent,continues,False,0,,,Jordan Carr,False
+Male,continues,False,0,,,Jordan Carr,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Justin Jordan,False
+Urgent,continues,False,0,,,Justin Jordan,False
+Male,continues,False,0,,,Justin Jordan,False
+2022-05-25,continues,True,12,"Date of Visit, Date of Discharge","Robyn Gardner, John Perez, Kenneth Hale, Mason Nixon, Melissa Davis, Christy Smith, Nicole Boyle, Nicholas Bryan, Karen Smith, Paul Hubbard, Amy Douglas, Charles Fuller",Kristy Rodriguez,False
+2023-06-15,continues,True,5,"Date of Visit, Date of Discharge","John Faulkner, Christine Parker, Cody Acosta, Sharon Archer, John Perez",Kristy Rodriguez,False
+2023-06-17,continues,True,16,"Date of Visit, Date of Discharge","Jessica Foster, Kathy Collins, Sabrina Nunez, Craig Hendrix, Alexandra Johnson, Monica Payne, Jeffery Marquez, Derek Ortiz, Joe Serrano, John Faulkner, Kaylee Jones, Donald Carter, Destiny Padilla, Scott Kaiser, Hannah Williamson",Kristy Rodriguez,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Kristy Rodriguez,Kristy Rodriguez,True
+Elective,continues,False,0,,,Kristy Rodriguez,False
+2022-05-25,continues,False,0,,,Kristy Rodriguez,False
+2023-06-15,continues,False,0,,,Kristy Rodriguez,False
+2023-06-17,continues,False,0,,,Kristy Rodriguez,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Lance Duarte,False
+Urgent,continues,False,0,,,Lance Duarte,False
+Male,continues,False,0,,,Lance Duarte,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Male,continues,False,0,,,Mark Wood,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Melanie Green,Melanie Green,True
+Inconclusive,jb_special_tokens,True,2931,Multiple Rows: Test Results,Melanie Green,Melanie Green,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,None,Melanie Green,False
+Inconclusive,jb_special_tokens,False,0,,,Melanie Green,False
+Elective,jb_special_tokens,False,0,,,Melanie Green,False
+Male,jb_special_tokens,False,0,,,Melanie Green,False
+Justin Wong,jb_special_tokens,True,1,Doctors Name,Frances Ford,Melanie Green,False
+Justin Wong,jb_special_tokens,False,0,,,Melanie Green,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Melissa Estrada,Melissa Estrada,True
+Urgent,continues,False,0,,,Melissa Estrada,False
+Female,continues,False,0,,,Melissa Estrada,False
+6870825651,continues,True,14,MRN,Madison Farrell,Sarah Ferguson,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Ferguson,Sarah Ferguson,True
+6870825651,continues,False,0,,,Sarah Ferguson,False
+Female,continues,False,0,,,Sarah Ferguson,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,None,Scott Kline,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,None,Scott Kline,False
+Elective,jb_special_tokens,False,0,,,Scott Kline,False
+Urgent,jb_special_tokens,False,0,,,Scott Kline,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,None,Sylvia Edwards,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Sylvia Edwards,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Sylvia Edwards,Sylvia Edwards,True
+Emergency,continues,False,0,,,Sylvia Edwards,False
+Urgent,continues,False,0,,,Sylvia Edwards,False
+Elective,continues,False,0,,,Sylvia Edwards,False
+Female,continues,False,0,,,Sylvia Edwards,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Female,continues,False,0,,,Tiffany Foley,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True
+Male,continues,False,0,,,Tyler Gutierrez,False

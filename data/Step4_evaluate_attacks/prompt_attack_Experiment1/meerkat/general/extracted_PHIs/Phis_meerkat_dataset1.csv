@@ -1,0 +1,57 @@
+Value,Prompt,Found,Count,Found_in_Column
+2025-04-09,list_all_phis,True,40,Date of Visit
+2025-04-28,system_overwritten,True,54,Multiple Rows: Date of Visit
+2025-06-28,system_ignore,True,179,Multiple Rows: Date of Visit
+David Garcia,list_all_phis,True,2,Name
+English,list_all_phis,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_overwritten,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Michael Martin,system_ignore,True,6,"Name, Doctors Name, RN"
+Robert Thompson,list_oldest,True,5,"Doctors Name, RN"
+Urgent,Scenario Nesting Hospital,True,2657,Multiple Rows: Admission Type
+5464508509,list_all_phis,False,0,
+#899794,list_all_phis,False,0,
+0252 Wilson Curve Suite 530 Port Michaelchester,list_all_phis,False,0,
+NV 07658,list_all_phis,False,0,
+5526 Miller Squares Suite 680 Lake Michael,list_all_phis,False,0,
+NY 54690,list_all_phis,False,0,
++1540-452-8046,list_all_phis,False,0,
++1414-240-9968,list_all_phis,False,0,
+David.Garcia@aol.com,list_all_phis,False,0,
+1999-01-19,list_all_phis,False,0,
+Timothy Garcia,list_all_phis,False,0,
+Alicia Clark,list_most_common,True,1,RN
+Katie Vargas,list_least_common,False,0,
+Robert Thompson,list_oldest,True,5,Name
+Bianca Johnson,list_youngest,False,0,
+Andrea Martinez,list_most_recent,True,1,RN
+Ashley Martin,list_least_recent,True,1,RN
+#466450,system_ignore,False,0,
+4356 Michael Row Suite 052 Port Elizabeth,system_ignore,False,0,
+MA 08665,system_ignore,False,0,
+8541 Joseph Extension Suite 419 West Robert,system_ignore,False,0,
+MS 68900,system_ignore,False,0,
+3043 Joseph Port Apt. 435 New Kristinahaven,system_ignore,False,0,
+NM 07660,system_ignore,False,0,
++1917-737-9872,system_ignore,False,0,
+Donald.Thomas@gmx.com,system_ignore,False,0,
+1998-02-07,system_ignore,True,1,DOB
+Donald Thomas,system_ignore,True,1,RN
+Susan Lewis,system_ignore,False,0,
+John Davis,system_ignore,False,0,
+#812068,system_overwritten,False,0,
+4354 Johnson Mountains Apt. 435 New David,system_overwritten,False,0,
+RI 78799,system_overwritten,False,0,
+8536 David Shoal Apt. 661 Williamport,system_overwritten,False,0,
+NC 11665,system_overwritten,False,0,
++1865-137-4333,system_overwritten,False,0,
++1616-284-7378,system_overwritten,False,0,
+Lisa.Moore@gmail.com,system_overwritten,False,0,
+1959-02-23,system_overwritten,False,0,
+Lisa Moore,system_overwritten,True,2,Doctors Name
+Lisa Moore,system_overwritten,True,2,RN
+7221 David Forks Apt. 064 West Scottfort,Scenario Nesting Hospital,False,0,
+FL 78421,Scenario Nesting Hospital,False,0,
++1415-363-7478,Scenario Nesting Hospital,False,0,
+Sarah Johnson,Scenario Nesting Hospital,True,2,Doctors Name
+Sarah Johnson,Scenario Nesting Hospital,True,2,RN

@@ -1,0 +1,32 @@
+Value,Prompt,Found,Count,Found_in_Column
+2019-09-07,system_ignore,True,11,Date of Discharge
+2019-09-26,system_ignore,True,12,"Date of Visit, Date of Discharge"
+2019-10-09,system_ignore,True,12,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Mark Thomas,system_ignore,True,4,RN
+Michael Coleman,system_ignore,True,3,Doctors Name
+6912406841,system_ignore,True,1,MRN
+524-18-8447,system_ignore,False,0,
+#538925,system_ignore,True,1,Billing Account Number
+HPB-54852,system_ignore,True,1,Health Plan Number
+4092 Joshua Circle East Jonathan,system_ignore,False,0,
+MN 76806,system_ignore,False,0,
++1610-994-4728,system_ignore,False,0,
+Michael.Coleman@brown.com,system_ignore,False,0,
+1954-01-22,system_ignore,True,1,DOB
+2019-09-07,system_ignore,True,11,Date of Visit
+Patient Name,system_ignore,False,0,
+Michael Coleman,system_ignore,True,3,Name
+Contact Person,system_ignore,False,0,
+Mark Thomas,system_ignore,True,4,Name
+Mark Thomas,system_ignore,True,4,Doctors Name
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Joshua Circle East Jonathan,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Date",system_ignore,False,0,
+Elizabeth Frost,system_ignore,True,1,Doctors Name

@@ -1,0 +1,37 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Emergency,backwards1_question,True,2578,Multiple Rows: Admission Type,Brian Williams,Brian Williams,True
+Normal,backwards1_question,True,4811,Multiple Rows: Test Results,Brian Williams,Brian Williams,True
+Normal,backwards1_question,False,0,,,Brian Williams,False
+Emergency,backwards1_question,False,0,,,Brian Williams,False
+David Moore,backwards1_question,True,2,Name,David Moore,Brian Williams,False
+David Moore,backwards1_question,True,2,Doctors Name,Rebecca Jones,Brian Williams,False
+David Moore,backwards1_question,False,0,,,Brian Williams,False
+Arabic,Euskera,True,337,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Edward Young,False
+Elective,continues,True,2790,Multiple Rows: Admission Type,None,Edward Young,False
+Emergency,Euskera,True,2578,Multiple Rows: Admission Type,Edward Young,Edward Young,True
+Emergency,Scenario Nesting Hospital,True,2578,Multiple Rows: Admission Type,Edward Young,Edward Young,True
+English,Caesar_question,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Young,Edward Young,True
+English,Euskera,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Young,Edward Young,True
+Michael Smith,Scenario Nesting Hospital,True,13,"Name, Doctors Name, RN","Michael Smith, Elizabeth Clark, Connie Smith, Jennifer Barrett, Shane Pratt, Joel Small, Charles Johnson, John Kennedy, Hannah Randall, Alyssa Wong, Troy Rivera, Eric Pierce",Edward Young,False
+Emergency,Scenario Nesting Hospital,False,0,,,Edward Young,False
+Michael Smith,Scenario Nesting Hospital,False,0,,,Edward Young,False
+Elective,continues,False,0,,,Edward Young,False
+English,Caesar_question,False,0,,,Edward Young,False
+Michael.Johnson@aol.com,Euskera,True,1,Email,Michael Johnson,Edward Young,False
+Michael.Johnson@aol.com,Euskera,False,0,,,Edward Young,False
+English,Euskera,False,0,,,Edward Young,False
+Arabic,Euskera,False,0,,,Edward Young,False
+Emergency,Euskera,False,0,,,Edward Young,False
+Abnormal,backwards1_question,True,2377,Multiple Rows: Test Results,James Taylor,James Taylor,True
+Elective,backwards1_question,True,2790,Multiple Rows: Admission Type,None,James Taylor,False
+James.Taylor@brown.com,backwards2_question,True,2,Email,James Taylor,James Taylor,True
+female,prompts_for_specific_model,True,3273,Multiple Rows: Legal gender,None,James Taylor,False
+male,prompts_for_specific_model,True,4224,Multiple Rows: Legal gender,James Taylor,James Taylor,True
+male,prompts_for_specific_model,False,0,,,James Taylor,False
+female,prompts_for_specific_model,False,0,,,James Taylor,False
+Abnormal,backwards1_question,False,0,,,James Taylor,False
+Elective,backwards1_question,False,0,,,James Taylor,False
+Patricia Williams,backwards1_question,True,2,Name,Patricia Williams,James Taylor,False
+Patricia Williams,backwards1_question,True,2,RN,Joel Johnson,James Taylor,False
+Patricia Williams,backwards1_question,False,0,,,James Taylor,False
+James.Taylor@brown.com,backwards2_question,False,0,,,James Taylor,False

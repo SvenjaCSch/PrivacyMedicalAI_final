@@ -1,0 +1,52 @@
+Value,Prompt,Found,Count,Found_in_Column
++1281-809-6494,system_ignore,True,8,Telephone
++1725-573-6455,list_example,True,13,Telephone
+1946-03-05,list_example,True,13,DOB
+1980-05-04,system_ignore,True,8,DOB
+2020-12-16,system_ignore,True,11,"Date of Visit, Date of Discharge"
+2021-01-14,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2023-08-01,list_example,True,11,"Date of Visit, Date of Discharge"
+424-79-2916,list_example,True,13,SSN
+4251320996,list_example,True,13,MRN
+6357985377,system_ignore,True,8,MRN
+955-29-1768,system_ignore,True,8,SSN
+Christopher Watson,list_example,True,14,Name
+Christopher.Watson@dhl.com,list_example,True,13,Email
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-33188,system_ignore,True,8,Health Plan Number
+HPB-89963,list_example,True,13,Health Plan Number
+Male,list_example,True,4292,Multiple Rows: Legal gender
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Married,list_example,True,2640,Multiple Rows: Marital status
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+Robert Smith,system_ignore,True,28,"Name, Doctors Name, RN"
+Robert.Smith@gmail.com,system_ignore,True,8,Email
+#447038,list_example,True,1,Billing Account Number
+88321 Johnson Village Howellmouth,list_example,False,0,
+PR 73461,list_example,False,0,
+Patient Name,list_example,False,0,
+Christopher Watson,list_example,True,14,Doctors Name
+Contact Person,list_example,False,0,
+Charles Hernandez,list_example,False,0,
+Health Plan Number,list_example,False,0,
+"Contact
+Address",list_example,False,0,
+Johnson Village Howellmouth,list_example,False,0,
+"Languages
+Language",list_example,False,0,
+Chief Complaint,list_example,False,0,
+#658235,system_ignore,True,1,Billing Account Number
+8240 Judy Mission East Tammie,system_ignore,False,0,
+DC 59117,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Thomas Rollins,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Judy Mission East Tammie,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"English
+Calendar",system_ignore,False,0,

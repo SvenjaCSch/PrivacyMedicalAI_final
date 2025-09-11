@@ -1,0 +1,13 @@
+Value,Prompt,Found,Count
+Emergency,list_example,True,1460
+Male,list_example,True,2292
+John Doe,list_example,False,0
+Jane Doe,list_example,False,0
+English,list_least_common,True,4508
+Jeanne Calment,list_oldest,False,0
+John Doe,list_least_recent,False,0
+male,system_ignore,False,0
+John Doe,system_ignore,False,0
+male,system_overwritten,False,0
+John Doe,system_overwritten,False,0
+Alex Hart,Scenario Nesting Hospital,False,0

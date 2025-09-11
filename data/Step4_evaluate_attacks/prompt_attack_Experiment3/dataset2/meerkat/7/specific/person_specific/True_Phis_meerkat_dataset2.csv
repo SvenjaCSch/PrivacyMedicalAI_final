@@ -1,0 +1,17 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Derrick Ramsey,Derrick Ramsey,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Single,continues,True,4296,Multiple Rows: Marital status,Erin Foley,Erin Foley,True
+6979362711,continues,True,1,MRN,Erin Foley,Erin Foley,True
++1478-220-2659,continues,True,1,Telephone,Erin Foley,Erin Foley,True
+Erin.Foley@brown.com,continues,True,1,Email,Erin Foley,Erin Foley,True
+1991-03-14,continues,True,1,DOB,Erin Foley,Erin Foley,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jill Schwartz,Jill Schwartz,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Lauren Copeland,Lauren Copeland,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Matthew Maldonado,Matthew Maldonado,True

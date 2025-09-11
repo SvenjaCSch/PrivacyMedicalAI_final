@@ -1,0 +1,52 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Allen Winters,jb_special_tokens,True,11,Name,Allen Winters,Allen Brown,False
+2019-09-19,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Melissa Smith, Kyle Welch, Timothy Anderson, April Osborn, Jesse Russell, Cheryl Wilson, Mary Haney, Leah Hardy, Rodney Wilson, Steven Kelly, Nathan Woods, David King",Bryan Potts,False
+8846531943,jb_special_tokens,True,10,MRN,Joan Young,Bryan Potts,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Derrick Ramsey,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Derrick Ramsey,Derrick Ramsey,True
+2022-10-08,continues,True,7,"Date of Visit, Date of Discharge","Janet Smith, Robert Jacobs, Kevin Gordon, Victoria Wilkins, Nicole Boyle, Michael Lopez",Erin Foley,False
+2022-10-31,continues,True,10,"Date of Visit, Date of Discharge","Jason Wiggins, Andrew Cameron, Juan Larson, Erik Osborne, Amy Gray, Leah Marks, Brian Hammond, Scott Kaiser, Jerry Callahan, Paula Fernandez",Erin Foley,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Single,continues,True,4296,Multiple Rows: Marital status,Erin Foley,Erin Foley,True
+6979362711,continues,True,1,MRN,Erin Foley,Erin Foley,True
++1478-220-2659,continues,True,1,Telephone,Erin Foley,Erin Foley,True
+Erin.Foley@brown.com,continues,True,1,Email,Erin Foley,Erin Foley,True
+1991-03-14,continues,True,1,DOB,Erin Foley,Erin Foley,True
+2019-05-08,jb_special_tokens,True,4,Date of Visit,"Michael Mckay, Isaac Wilson, William Mcfarland, Kevin Lucero",Jeremy Smith,False
+2019-05-19,jb_special_tokens,True,6,"Date of Visit, Date of Discharge","Zachary Brown, Justin Wilson, Julie Sawyer, Elizabeth Perez, Lauren Perez, Joe Serrano",Jeremy Smith,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+2022-08-01,jb_special_tokens,True,12,"Date of Visit, Date of Discharge","Brandon Diaz, Nicholas Cross, Jeffery Marquez, Hayley Rios, Robert Lucas, Brian Thomas, Bryan Olson, Amanda Brown, Gabriela Robinson, Austin Chapman, Jennifer Shepard, Cynthia Jefferson",Jill Schwartz,False
+2022-08-29,jb_special_tokens,True,9,"Date of Visit, Date of Discharge","Christine Perkins, Audrey Cuevas, Brett Nolan, Dale Davis, Justin Smith, Thomas Kim, Justin Wilson, Brent Rodriguez, Steven Boone",Jill Schwartz,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,None,Jill Schwartz,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jill Schwartz,Jill Schwartz,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+2021-10-13,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Christy Stephenson, Angel Randolph, Shannon Norris, Brandon Hill, Diane Holloway, David Smith, Ruth Mcpherson, Victoria Powers, Ashley Munoz, John Walker",Lance Duarte,False
+2021-11-07,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","Hannah Molina, Sarah Stanley, Bryan Olson, Sarah Cox, Patricia Davis, Sean King, Ronald Williams, Ryan Carter, David Smith, Ruth Mcpherson",Lance Duarte,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Lance Duarte,False
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Joseph Hall,jb_special_tokens,True,2,Doctors Name,David Cooper,Lance Duarte,False
+Joseph Hall,jb_special_tokens,True,2,RN,Justin Oliver,Lance Duarte,False
+2020-11-23,jb_special_tokens,True,6,Date of Discharge,"Leah Marks, Laura Oliver, Linda Watson, Angela Murphy, Allison Smith",Lauren Copeland,False
+2020-12-15,jb_special_tokens,True,11,"Date of Visit, Date of Discharge","Lindsay Villegas, Robert Smith, Marcus Cooper, Sheila Montgomery, Beverly Curry, Kenneth Brewer, Aaron Hall, Kristina Porter, Kathy Young, Chelsea Allen, Nancy West",Lauren Copeland,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Lauren Copeland,Lauren Copeland,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Lauren Copeland,False
+Normal,jb_special_tokens,True,2928,Multiple Rows: Test Results,None,Lauren Copeland,False
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,None,Lauren Copeland,False
+2020-11-23,jb_special_tokens,True,6,Date of Visit,Jaime Dean,Lauren Copeland,False
+437-61-7114,continues,True,11,SSN,Omar Monroe,Matthew Maldonado,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Matthew Maldonado,Matthew Maldonado,True
+David Maldonado,continues,True,1,Doctors Name,Terri Keith,Matthew Maldonado,False
+2020-05-12,jb_special_tokens,True,5,"Date of Visit, Date of Discharge","Roberta Lopez, Ashley Dawson, Hannah Williamson, Emily Patel, Jody Oconnor",Richard Mcdaniel,False
+2021-09-27,jb_special_tokens,True,14,"Date of Visit, Date of Discharge","Erin Smith, Melissa Smith, Devon Griffin, Lance Christensen, Charles Thompson, Brian Escobar, Bryan Wheeler, Wanda Carson, Rebecca Hall, Courtney Vincent, Ian Long, Marcus White, Austin Walker, William Adams",Sarah Butler,False
+2021-10-16,jb_special_tokens,True,8,"Date of Visit, Date of Discharge","Trevor Mccall, Caroline Edwards, Robyn Buck, Janice Campbell, Mark Ramirez, Brandon Hill, Rebekah Madden, Tracy Yates",Sarah Butler,False
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,None,Sarah Butler,False
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,None,Sarah Butler,False
+Eric Shaw,jb_special_tokens,True,7,Name,Eric Shaw,Sarah Butler,False
+Eric Shaw,jb_special_tokens,True,7,RN,Diana Schwartz,Sarah Butler,False
+Scott Powell,jb_special_tokens,True,11,Name,Scott Powell,Scott Kline,False
+Sean Page,jb_special_tokens,True,12,Name,Sean Page,Sean Olsen,False
+2021-09-12,jb_special_tokens,True,10,"Date of Visit, Date of Discharge","James Nielsen, John Perez, Kyle Hall, Lauren Anderson, John White, Kenneth Brewer, Joseph Curry, Andrea Doyle, Jessica Martin, Amanda Smith",Timothy Lara,False
+Stephanie Peterson,jb_special_tokens,True,8,Name,Stephanie Peterson,Tyler Gutierrez,False

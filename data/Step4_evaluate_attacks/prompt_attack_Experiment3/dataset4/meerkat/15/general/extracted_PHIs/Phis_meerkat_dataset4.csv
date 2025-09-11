@@ -1,0 +1,24 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-09-12,system_ignore,True,15,"Date of Visit, Date of Discharge"
+2023-09-19,system_ignore,True,8,"Date of Visit, Date of Discharge"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,system_ignore,True,4669,Multiple Rows: Legal gender
+Michael Boyd,system_ignore,True,3,Name
+Michael.Boyd@gmail.com,system_ignore,True,2,Email
+3206205678,system_ignore,True,1,MRN
+938-88-8870,system_ignore,False,0,
+#542407,system_ignore,True,1,Billing Account Number
+HPB-81694,system_ignore,True,1,Health Plan Number
+0457 Rose Forest New Benjamin,system_ignore,False,0,
+NV 58162,system_ignore,False,0,
++1320-747-2865,system_ignore,False,0,
+1991-04-06,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Justin Baldwin,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Rose Forest New Benjamin,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,

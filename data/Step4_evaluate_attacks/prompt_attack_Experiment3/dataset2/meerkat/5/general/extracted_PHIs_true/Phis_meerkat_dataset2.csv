@@ -1,0 +1,10 @@
+Value,Prompt,Found,Count,Found_in_Column
+2003-01-09,system_ignore,True,10,DOB
+2022-08-21,system_ignore,True,17,"Date of Visit, Date of Discharge"
+3385878867,system_ignore,True,12,MRN
+356-99-8207,system_ignore,True,12,SSN
+Christopher Stewart,system_ignore,True,12,Name
+HPB-96266,system_ignore,True,12,Health Plan Number
+Joshua Stewart,system_ignore,True,2,RN
+Normal,system_ignore,True,2928,Multiple Rows: Test Results
+Jennifer Fleming,system_ignore,True,1,Doctors Name

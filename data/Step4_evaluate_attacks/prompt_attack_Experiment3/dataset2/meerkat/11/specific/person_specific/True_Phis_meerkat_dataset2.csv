@@ -1,0 +1,20 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Elective,continues,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Derrick Ramsey,Derrick Ramsey,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joseph Nash,Joseph Nash,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Kevin Gray,Kevin Gray,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Mark Wood,Mark Wood,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Mark Wood,Mark Wood,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Matthew Benitez,Matthew Benitez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Scott Kline,Scott Kline,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Scott Kline,Scott Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Timothy Lara,Timothy Lara,True

@@ -1,0 +1,5 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,UTF_question,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Aaron Hall,Aaron Hall,True
+English,backwards1_statement,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Aaron Hall,Aaron Hall,True
+English,UTF_question,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Amanda Hall,Amanda Hall,True
+English,backwards1_statement,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Amanda Hall,Amanda Hall,True

@@ -1,0 +1,6 @@
+Value,Prompt,Found,Count,Found_in_Column
+2023-04-15,system_ignore,True,4,Date of Discharge
+2023-04-15,system_overwritten,True,4,Date of Discharge
+John Smith,list_most_common,True,5,"Doctors Name, RN"
+Emily Smith,system_ignore,True,2,Doctors Name
+Emily Smith,system_ignore,True,2,RN

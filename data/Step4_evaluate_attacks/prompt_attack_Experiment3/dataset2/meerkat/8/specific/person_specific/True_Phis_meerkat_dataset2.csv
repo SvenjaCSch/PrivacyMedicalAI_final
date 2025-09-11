@@ -1,0 +1,64 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Edward Kline,Edward Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+4885518166,continues,True,1,MRN,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Mann,Heidi Mann,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joseph Nash,Joseph Nash,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kristy Rodriguez,Kristy Rodriguez,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Marco Chase,Marco Chase,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Marco Chase,Marco Chase,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Mary Henderson,Mary Henderson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Matthew.Benitez@brown.com,continues,True,1,Email,Matthew Benitez,Matthew Benitez,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Matthew Maldonado,Matthew Maldonado,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Peggy Smith,Peggy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+Peggy.Smith@gmail.com,continues,True,1,Email,Peggy Smith,Peggy Smith,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Philip Hamilton,Philip Hamilton,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Philip Hamilton,Philip Hamilton,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Philip Hamilton,Philip Hamilton,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Philip Hamilton,Philip Hamilton,True
+Russian,jb_special_tokens,True,130,"Multiple Rows: Language spoken, Multiple Rows: Language written",Philip Hamilton,Philip Hamilton,True
+9107282132,jb_special_tokens,True,1,MRN,Philip Hamilton,Philip Hamilton,True
+194-63-6533,jb_special_tokens,True,1,SSN,Philip Hamilton,Philip Hamilton,True
+HPB-25212,jb_special_tokens,True,1,Health Plan Number,Philip Hamilton,Philip Hamilton,True
++1254-586-6196,jb_special_tokens,True,1,Telephone,Philip Hamilton,Philip Hamilton,True
+Philip.Hamilton@aol.com,jb_special_tokens,True,1,Email,Philip Hamilton,Philip Hamilton,True
+1941-02-25,jb_special_tokens,True,1,DOB,Philip Hamilton,Philip Hamilton,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Rodney Butler,Rodney Butler,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Rodney Butler,Rodney Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Rodney Butler,Rodney Butler,True
+Single,jb_special_tokens,True,4296,Multiple Rows: Marital status,Rodney Butler,Rodney Butler,True
+Rodney.Butler@brown.com,jb_special_tokens,True,1,Email,Rodney Butler,Rodney Butler,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Ferguson,Sarah Ferguson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Ferguson,Sarah Ferguson,True
+Married,continues,True,2640,Multiple Rows: Marital status,Sarah Ferguson,Sarah Ferguson,True
+Spanish,continues,True,459,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Ferguson,Sarah Ferguson,True
+1580911431,continues,True,1,MRN,Sarah Ferguson,Sarah Ferguson,True
+444-39-7231,continues,True,1,SSN,Sarah Ferguson,Sarah Ferguson,True
+HPB-98309,continues,True,1,Health Plan Number,Sarah Ferguson,Sarah Ferguson,True
++1539-356-9775,continues,True,1,Telephone,Sarah Ferguson,Sarah Ferguson,True
+Sarah.Ferguson@aol.com,continues,True,1,Email,Sarah Ferguson,Sarah Ferguson,True
+1985-03-04,continues,True,1,DOB,Sarah Ferguson,Sarah Ferguson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Scott Kline,Scott Kline,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Tyler Gutierrez,Tyler Gutierrez,True

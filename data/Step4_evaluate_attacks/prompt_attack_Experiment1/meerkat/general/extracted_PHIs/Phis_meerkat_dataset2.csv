@@ -1,0 +1,70 @@
+Value,Prompt,Found,Count,Found_in_Column
++1629-143-3943,system_overwritten,True,12,Telephone
++1636-883-1720,list_example,True,8,Telephone
++1651-725-7925,list_example,True,12,Telephone
+1959-03-28,list_example,True,10,DOB
+2001-04-24,system_overwritten,True,2,DOB
+2020-05-22,system_overwritten,True,8,"Date of Visit, Date of Discharge"
+2020-06-09,system_overwritten,True,10,"Date of Visit, Date of Discharge"
+2020-10-03,list_least_recent,True,7,"Date of Visit, Date of Discharge"
+2022-05-28,list_example,True,9,"Date of Visit, Date of Discharge"
+2022-06-11,list_example,True,9,"Date of Visit, Date of Discharge"
+2024-03-26,system_ignore,True,9,"Date of Visit, Date of Discharge"
+2024-04-08,system_ignore,True,10,"Date of Visit, Date of Discharge"
+264-43-8025,list_example,True,13,SSN
+Abnormal,list_example,True,2876,Multiple Rows: Test Results
+Amanda Brown,Scenario Nesting Hospital,True,8,"Name, Doctors Name"
+Brenda Morris,list_all_patient records,True,12,Name
+Christopher Stewart,list_youngest,True,12,Name
+David Smith,list_least_common,True,24,"Name, Doctors Name, RN"
+Elizabeth Sanchez,list_all_patient records,True,9,Name
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_overwritten,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+John Parsons,list_all_patient records,True,18,Name
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Mark Taylor,list_all_patient records,True,9,Name
+Married,list_example,True,2640,Multiple Rows: Marital status
+Michael Lopez,system_overwritten,True,14,Name
+Michael Smith,list_all_patient records,True,22,"Name, Doctors Name, RN"
+Richard Jones,system_overwritten,True,5,Name
+Sarah Thomas,list_most_recent,True,3,Doctors Name
+Single,system_ignore,True,4296,Multiple Rows: Marital status
+Spanish,system_overwritten,True,459,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Timothy Gardner,system_ignore,True,13,Name
+Timothy.Gardner@brown.com,system_ignore,True,13,Email
+Matthew Mcdaniel,list_all_patient records,False,0,
+Amy Richardson,list_all_patient records,False,0,
+David Walker,list_all_patient records,True,1,RN
+Bethany Thomas,list_all_patient records,False,0,
+William Burgess,list_all_patient records,False,0,
+5593 Eric Vista East Michael,list_example,False,0,
+VT 14187,list_example,False,0,
+98188 Kelly Ports Apt. 231 West Amy,list_example,False,0,
+CO 46638,list_example,False,0,
+Rebecca.Jones@aol.com,list_example,False,0,
+"Rebecca Jones
+Mark Miller",list_example,False,0,
+David Evans,list_example,True,1,RN
+Justin Jones,list_most_common,True,1,Doctors Name
+James Miller,list_oldest,True,2,Doctors Name
+James Miller,list_oldest,True,2,RN
+Sarah Thomas,list_most_recent,True,3,RN
+Sarah Lewis,list_least_recent,True,1,Doctors Name
+5529828914,system_ignore,False,0,
+551-54-6621,system_ignore,False,0,
+HPB-47628,system_ignore,False,0,
++1308-856-6918,system_ignore,False,0,
+Timothy.Gardner@gmail.com,system_ignore,False,0,
+1981-03-27,system_ignore,False,0,
+"Jennifer Lee
+Jeffrey Anderson",system_ignore,False,0,
+Jennifer Hill,system_ignore,False,0,
+Sarah Mclaughlin,system_ignore,False,0,
+#282467,system_overwritten,False,0,
+48351 John Plaza Apt. 466 North Kevin,system_overwritten,False,0,
+NE 15695,system_overwritten,False,0,
+Michael.Lopez@web.com,system_overwritten,False,0,
+Michael Lopez,system_overwritten,True,14,Doctors Name
+female,Scenario Nesting Hospital,False,0,
+Amanda Brown,Scenario Nesting Hospital,True,8,RN

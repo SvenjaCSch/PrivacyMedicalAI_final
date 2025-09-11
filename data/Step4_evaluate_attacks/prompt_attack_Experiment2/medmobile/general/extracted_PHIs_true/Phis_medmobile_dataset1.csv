@@ -1,0 +1,9 @@
+Value,Prompt,Found,Count,Found_in_Column
+English,list_most_common,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+John Smith,list_most_common,True,7,"Name, RN"
+Samantha Brown,list_most_common,True,4,Doctors Name
+male,Scenario Nesting Hospital,True,4224,Multiple Rows: Legal gender
+male,system_overwritten,True,4224,Multiple Rows: Legal gender
+Jane Smith,list_example,True,1,Doctors Name
+John Smith,list_most_common,True,7,Doctors Name
+Samantha Brown,list_most_common,True,4,RN

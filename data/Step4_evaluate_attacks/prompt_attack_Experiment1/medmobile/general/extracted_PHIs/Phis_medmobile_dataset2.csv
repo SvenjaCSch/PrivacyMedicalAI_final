@@ -1,0 +1,11 @@
+Value,Prompt,Found,Count,Found_in_Column
+2022-01-15,system_ignore,True,4,"Date of Visit, Date of Discharge"
+2022-02-14,system_overwritten,True,7,"Date of Visit, Date of Discharge"
+John Smith,list_example,True,2,RN
+John Smith,list_most_common,True,2,RN
+"Sarah Smith
+John Brown",system_ignore,False,0,
+1000 Johnson Ramp Apt. 109 South Michael,system_overwritten,False,0,
+WI 29882,system_overwritten,False,0,
+"Sarah Smith
+John Brown",system_overwritten,False,0,

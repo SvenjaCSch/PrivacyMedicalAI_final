@@ -1,0 +1,110 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Brian Rose,Brian Rose,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Bryan Potts,Bryan Potts,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Bryan Potts,Bryan Potts,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Candice Rogers,Candice Rogers,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Candice Rogers,Candice Rogers,True
+Candice.Rogers@aol.com,continues,True,1,Email,Candice Rogers,Candice Rogers,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Christy Stephenson,Christy Stephenson,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Christy Stephenson,Christy Stephenson,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Christy.Stephenson@dhl.com,jb_special_tokens,True,1,Email,Christy Stephenson,Christy Stephenson,True
+1971-06-06,jb_special_tokens,True,1,DOB,Christy Stephenson,Christy Stephenson,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Derrick Ramsey,Derrick Ramsey,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Edward Kline,Edward Kline,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Edward Kline,Edward Kline,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Heather Petersen,Heather Petersen,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+Married,continues,True,2640,Multiple Rows: Marital status,Heather Petersen,Heather Petersen,True
+4837618525,continues,True,1,MRN,Heather Petersen,Heather Petersen,True
+419-71-4643,continues,True,1,SSN,Heather Petersen,Heather Petersen,True
+HPB-54677,continues,True,1,Health Plan Number,Heather Petersen,Heather Petersen,True
++1351-939-9744,continues,True,1,Telephone,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,continues,True,1,Email,Heather Petersen,Heather Petersen,True
+1986-02-12,continues,True,1,DOB,Heather Petersen,Heather Petersen,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Isabella Houston,Isabella Houston,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Isabella Houston,Isabella Houston,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Jasmine Hudson,Jasmine Hudson,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jasmine Hudson,Jasmine Hudson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jasmine Hudson,Jasmine Hudson,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeffrey Baldwin,Jeffrey Baldwin,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Jeffrey Baldwin,Jeffrey Baldwin,True
+Single,jb_special_tokens,True,4296,Multiple Rows: Marital status,Jeffrey Baldwin,Jeffrey Baldwin,True
+6553045713,jb_special_tokens,True,1,MRN,Jeffrey Baldwin,Jeffrey Baldwin,True
+555-83-7589,jb_special_tokens,True,1,SSN,Jeffrey Baldwin,Jeffrey Baldwin,True
+HPB-41802,jb_special_tokens,True,1,Health Plan Number,Jeffrey Baldwin,Jeffrey Baldwin,True
++1763-515-5088,jb_special_tokens,True,1,Telephone,Jeffrey Baldwin,Jeffrey Baldwin,True
+Jeffrey.Baldwin@yahoo.com,jb_special_tokens,True,1,Email,Jeffrey Baldwin,Jeffrey Baldwin,True
+1979-04-26,jb_special_tokens,True,1,DOB,Jeffrey Baldwin,Jeffrey Baldwin,True
+Abnormal,continues,True,2876,Multiple Rows: Test Results,Jeremy Smith,Jeremy Smith,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Jeremy Smith,Jeremy Smith,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Jill Schwartz,Jill Schwartz,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jill Schwartz,Jill Schwartz,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jill Schwartz,Jill Schwartz,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jodi Flores,Jodi Flores,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Jodi.Flores@web.com,continues,True,1,Email,Jodi Flores,Jodi Flores,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Single,continues,True,4296,Multiple Rows: Marital status,Joel Solis,Joel Solis,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joseph Nash,Joseph Nash,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joseph Nash,Joseph Nash,True
+Joseph.Nash@yahoo.com,continues,True,1,Email,Joseph Nash,Joseph Nash,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Justin Jordan,Justin Jordan,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Kevin Gray,Kevin Gray,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kevin Gray,Kevin Gray,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+Single,continues,True,4296,Multiple Rows: Marital status,Kevin Gray,Kevin Gray,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Kimberly Mcmahon,Kimberly Mcmahon,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kimberly Mcmahon,Kimberly Mcmahon,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Kimberly Mcmahon,Kimberly Mcmahon,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Mark Wood,Mark Wood,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mark Wood,Mark Wood,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+Mark.Wood@yahoo.com,jb_special_tokens,True,1,Email,Mark Wood,Mark Wood,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Mary Henderson,Mary Henderson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Married,continues,True,2640,Multiple Rows: Marital status,Mary Henderson,Mary Henderson,True
+Matthew.Benitez@brown.com,jb_special_tokens,True,1,Email,Matthew Benitez,Matthew Benitez,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Matthew Maldonado,Matthew Maldonado,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Matthew Maldonado,Matthew Maldonado,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Maldonado,Matthew Maldonado,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melanie Green,Melanie Green,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Peggy Smith,Peggy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Philip Hamilton,Philip Hamilton,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Philip Hamilton,Philip Hamilton,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Richard Mcdaniel,Richard Mcdaniel,True
+1946-01-06,continues,True,1,DOB,Richard Mcdaniel,Richard Mcdaniel,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Rodney Butler,Rodney Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Rodney Butler,Rodney Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+8933415644,continues,True,1,MRN,Sylvia Edwards,Sylvia Edwards,True
+342-20-1720,continues,True,1,SSN,Sylvia Edwards,Sylvia Edwards,True
+HPB-28648,continues,True,1,Health Plan Number,Sylvia Edwards,Sylvia Edwards,True
++1417-554-1813,continues,True,1,Telephone,Sylvia Edwards,Sylvia Edwards,True
+Sylvia.Edwards@web.com,continues,True,1,Email,Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Tiffany Foley,Tiffany Foley,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Tiffany Foley,Tiffany Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

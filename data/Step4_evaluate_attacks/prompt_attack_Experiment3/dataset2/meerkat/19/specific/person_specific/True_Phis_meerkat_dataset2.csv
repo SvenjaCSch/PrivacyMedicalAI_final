@@ -1,0 +1,89 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Allen Brown,Allen Brown,True
+Married,continues,True,2640,Multiple Rows: Marital status,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,continues,True,1,Email,Allen Brown,Allen Brown,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Bryan Potts,Bryan Potts,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Bryan Potts,Bryan Potts,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Bryan Potts,Bryan Potts,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Bryan Potts,Bryan Potts,True
+Single,continues,True,4296,Multiple Rows: Marital status,Bryan Potts,Bryan Potts,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Candice Rogers,Candice Rogers,True
+Candice.Rogers@aol.com,jb_special_tokens,True,1,Email,Candice Rogers,Candice Rogers,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Kline,Edward Kline,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Edward Kline,Edward Kline,True
+Married,continues,True,2640,Multiple Rows: Marital status,Edward Kline,Edward Kline,True
+8807050007,continues,True,1,MRN,Edward Kline,Edward Kline,True
+537-35-8427,continues,True,1,SSN,Edward Kline,Edward Kline,True
++1630-545-3683,continues,True,1,Telephone,Edward Kline,Edward Kline,True
+Edward.Kline@brown.com,continues,True,1,Email,Edward Kline,Edward Kline,True
+1996-01-02,continues,True,1,DOB,Edward Kline,Edward Kline,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Single,continues,True,4296,Multiple Rows: Marital status,Erin Foley,Erin Foley,True
+6979362711,continues,True,1,MRN,Erin Foley,Erin Foley,True
+799-98-6045,continues,True,1,SSN,Erin Foley,Erin Foley,True
+#347229,continues,True,1,Billing Account Number,Erin Foley,Erin Foley,True
+HPB-60761,continues,True,1,Health Plan Number,Erin Foley,Erin Foley,True
++1478-220-2659,continues,True,1,Telephone,Erin Foley,Erin Foley,True
+Erin.Foley@brown.com,continues,True,1,Email,Erin Foley,Erin Foley,True
+1991-03-14,continues,True,1,DOB,Erin Foley,Erin Foley,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+Single,continues,True,4296,Multiple Rows: Marital status,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Urgent,jb_special_tokens,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+Jordan.Carr@gmx.com,continues,True,1,Email,Jordan Carr,Jordan Carr,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joseph Nash,Joseph Nash,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Kaitlin Hanson,Kaitlin Hanson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Single,continues,True,4296,Multiple Rows: Marital status,Kaitlin Hanson,Kaitlin Hanson,True
+2782923083,continues,True,1,MRN,Kaitlin Hanson,Kaitlin Hanson,True
+967-24-3160,continues,True,1,SSN,Kaitlin Hanson,Kaitlin Hanson,True
+#368298,continues,True,1,Billing Account Number,Kaitlin Hanson,Kaitlin Hanson,True
+HPB-74144,continues,True,1,Health Plan Number,Kaitlin Hanson,Kaitlin Hanson,True
++1734-862-8733,continues,True,1,Telephone,Kaitlin Hanson,Kaitlin Hanson,True
+Kaitlin.Hanson@dhl.com,continues,True,1,Email,Kaitlin Hanson,Kaitlin Hanson,True
+1959-03-26,continues,True,1,DOB,Kaitlin Hanson,Kaitlin Hanson,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Kevin Gray,Kevin Gray,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kimberly Mcmahon,Kimberly Mcmahon,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Lance Duarte,Lance Duarte,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Inconclusive,continues,True,2931,Multiple Rows: Test Results,Lauren Miles,Lauren Miles,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mary Henderson,Mary Henderson,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mary Henderson,Mary Henderson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Mary Henderson,Mary Henderson,True
+Married,continues,True,2640,Multiple Rows: Marital status,Mary Henderson,Mary Henderson,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Mary Henderson,Mary Henderson,True
+Mary.Henderson@gmail.com,jb_special_tokens,True,1,Email,Mary Henderson,Mary Henderson,True
+Mary.Henderson@gmail.com,continues,True,1,Email,Mary Henderson,Mary Henderson,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Matthew Benitez,Matthew Benitez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Maldonado,Matthew Maldonado,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Melanie Green,Melanie Green,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Melanie Green,Melanie Green,True
+Melanie.Green@dhl.com,continues,True,1,Email,Melanie Green,Melanie Green,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Abnormal,continues,True,2876,Multiple Rows: Test Results,Philip Hamilton,Philip Hamilton,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Philip Hamilton,Philip Hamilton,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Sarah Butler,Sarah Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Teresa Willis,Teresa Willis,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Teresa Willis,Teresa Willis,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Timothy Lara,Timothy Lara,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True
+Single,continues,True,4296,Multiple Rows: Marital status,Timothy Lara,Timothy Lara,True
+6813870647,continues,True,1,MRN,Timothy Lara,Timothy Lara,True
+#335870,continues,True,1,Billing Account Number,Timothy Lara,Timothy Lara,True
+HPB-99605,continues,True,1,Health Plan Number,Timothy Lara,Timothy Lara,True
++1903-906-2695,continues,True,1,Telephone,Timothy Lara,Timothy Lara,True
+Timothy.Lara@dhl.com,continues,True,1,Email,Timothy Lara,Timothy Lara,True
+1969-11-02,continues,True,1,DOB,Timothy Lara,Timothy Lara,True

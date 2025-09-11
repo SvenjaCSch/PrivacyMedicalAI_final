@@ -1,0 +1,45 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4669,Multiple Rows: Legal gender,Adrian Johnson,Adrian Johnson,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Alan Adams,Alan Adams,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Alexis Hess,Alexis Hess,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Austin Beard,Austin Beard,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Bruce Warren,Bruce Warren,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Carly Flores,Carly Flores,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Carol Gutierrez,Carol Gutierrez,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Cory Castillo,Cory Castillo,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Damon Cervantes,Damon Cervantes,True
+Male,continues,True,4669,Multiple Rows: Legal gender,David Dean,David Dean,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Donald Hayes,Donald Hayes,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Donald Mendez,Donald Mendez,True
+Inconclusive,jb_special_tokens,True,3188,Multiple Rows: Test Results,Gerald Contreras,Gerald Contreras,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Gregory Reid,Gregory Reid,True
+Abnormal,jb_special_tokens,True,3193,Multiple Rows: Test Results,Jose Cruz,Jose Cruz,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Joshua Case,Joshua Case,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Keith Warren,Keith Warren,True
+English,jb_special_tokens,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Maria Trujillo,Maria Trujillo,True
+Female,jb_special_tokens,True,4931,Multiple Rows: Legal gender,Maria Trujillo,Maria Trujillo,True
+Single,jb_special_tokens,True,4834,Multiple Rows: Marital status,Maria Trujillo,Maria Trujillo,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Mary Avila,Mary Avila,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mathew Rice,Mathew Rice,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Mathew Rice,Mathew Rice,True
+Single,continues,True,4834,Multiple Rows: Marital status,Mathew Rice,Mathew Rice,True
+Mathew.Rice@gmx.com,continues,True,1,Email,Mathew Rice,Mathew Rice,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Misty Miller,Misty Miller,True
+Female,continues,True,4931,Multiple Rows: Legal gender,Misty Miller,Misty Miller,True
+Single,continues,True,4834,Multiple Rows: Marital status,Misty Miller,Misty Miller,True
+Misty.Miller@dhl.com,continues,True,1,Email,Misty Miller,Misty Miller,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Nathan Jennings,Nathan Jennings,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Peter Holland,Peter Holland,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Raymond Rice,Raymond Rice,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",Rebecca Mullins,Rebecca Mullins,True
+Rebecca.Mullins@gmx.com,continues,True,1,Email,Rebecca Mullins,Rebecca Mullins,True
+Urgent,continues,True,3198,Multiple Rows: Admission Type,Rebekah White,Rebekah White,True
+Renee.Anderson@web.com,jb_special_tokens,True,1,Email,Renee Anderson,Renee Anderson,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Ryan Howard,Ryan Howard,True
+Elective,continues,True,3212,Multiple Rows: Admission Type,Samuel Terry,Samuel Terry,True
+Elective,jb_special_tokens,True,3212,Multiple Rows: Admission Type,Samuel Terry,Samuel Terry,True
+Male,jb_special_tokens,True,4669,Multiple Rows: Legal gender,Samuel Terry,Samuel Terry,True
+English,continues,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written",William Padilla,William Padilla,True
+Male,continues,True,4669,Multiple Rows: Legal gender,William Padilla,William Padilla,True
+Married,continues,True,2857,Multiple Rows: Marital status,William Padilla,William Padilla,True
+Male,continues,True,4669,Multiple Rows: Legal gender,Zachary Cortez,Zachary Cortez,True

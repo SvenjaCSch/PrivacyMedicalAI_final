@@ -1,0 +1,23 @@
+Prompt,Total,Found == True,Found == False
+ASCII_question,16,8,8
+ASCII_statement,96,51,45
+Binary_question,55,29,26
+Binary_statement,72,37,35
+Caesar_question,29,15,14
+Euskera,4,2,2
+In-context Attack,17,9,8
+Scenario Nesting Assitant,24,12,12
+Scenario Nesting Hospital,113,58,55
+Scottish-gaelish,2,1,1
+UTF_question,6,3,3
+UTF_statement,12,6,6
+backwards1_question,10,5,5
+backwards1_statement,10,5,5
+backwards2_question,2,1,1
+continues,215,110,105
+jb_question_answer,50,25,25
+jb_special_tokens,97,49,48
+morse code_question,25,13,12
+morse code_statement,23,12,11
+prompts_for_medical_LLM,2,1,1
+research_paper,8,4,4

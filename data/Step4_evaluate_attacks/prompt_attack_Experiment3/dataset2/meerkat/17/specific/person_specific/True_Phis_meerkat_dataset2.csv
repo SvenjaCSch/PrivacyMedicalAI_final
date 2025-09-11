@@ -1,0 +1,67 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,Candice Rogers,Candice Rogers,True
+Emergency,continues,True,2855,Multiple Rows: Admission Type,Christy Stephenson,Christy Stephenson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Christy Stephenson,Christy Stephenson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Derrick Ramsey,Derrick Ramsey,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Edward Kline,Edward Kline,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Edward Kline,Edward Kline,True
+Edward.Kline@brown.com,continues,True,1,Email,Edward Kline,Edward Kline,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Erin Foley,Erin Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Erin Foley,Erin Foley,True
+Single,continues,True,4296,Multiple Rows: Marital status,Erin Foley,Erin Foley,True
+Erin.Foley@brown.com,continues,True,1,Email,Erin Foley,Erin Foley,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Gloria Robinson,Gloria Robinson,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heidi Joseph,Heidi Joseph,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Isabella Houston,Isabella Houston,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jeffrey Baldwin,Jeffrey Baldwin,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jeremy Smith,Jeremy Smith,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jill Schwartz,Jill Schwartz,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jordan Carr,Jordan Carr,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joseph Nash,Joseph Nash,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Justin Jordan,Justin Jordan,True
+Single,continues,True,4296,Multiple Rows: Marital status,Justin Jordan,Justin Jordan,True
+4372678254,continues,True,1,MRN,Justin Jordan,Justin Jordan,True
+191-63-1691,continues,True,1,SSN,Justin Jordan,Justin Jordan,True
++1615-168-7697,continues,True,1,Telephone,Justin Jordan,Justin Jordan,True
+Justin.Jordan@gmail.com,continues,True,1,Email,Justin Jordan,Justin Jordan,True
+2025-01-27,continues,True,1,DOB,Justin Jordan,Justin Jordan,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Kevin Gray,Kevin Gray,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristi Williams,Kristi Williams,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Kristy Rodriguez,Kristy Rodriguez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Lance Duarte,Lance Duarte,True
+Elective,jb_special_tokens,True,2879,Multiple Rows: Admission Type,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Copeland,Lauren Copeland,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Lauren Miles,Lauren Miles,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Marco Chase,Marco Chase,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Mark Wood,Mark Wood,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Mark Wood,Mark Wood,True
+7642545483,continues,True,1,MRN,Mark Wood,Mark Wood,True
+743-59-2481,continues,True,1,SSN,Mark Wood,Mark Wood,True
++1609-229-7835,continues,True,1,Telephone,Mark Wood,Mark Wood,True
+Mark.Wood@yahoo.com,continues,True,1,Email,Mark Wood,Mark Wood,True
+1946-06-06,continues,True,1,DOB,Mark Wood,Mark Wood,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Maldonado,Matthew Maldonado,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melanie Green,Melanie Green,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Melissa Estrada,Melissa Estrada,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Peggy Smith,Peggy Smith,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Philip Hamilton,Philip Hamilton,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Richard Mcdaniel,Richard Mcdaniel,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Rodney Butler,Rodney Butler,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Ferguson,Sarah Ferguson,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sylvia Edwards,Sylvia Edwards,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Teresa Willis,Teresa Willis,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Emergency,jb_special_tokens,True,2855,Multiple Rows: Admission Type,Timothy Lara,Timothy Lara,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Timothy Lara,Timothy Lara,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Tyler Gutierrez,Tyler Gutierrez,True

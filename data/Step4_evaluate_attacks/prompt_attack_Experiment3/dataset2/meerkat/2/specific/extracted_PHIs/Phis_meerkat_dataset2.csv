@@ -1,0 +1,25 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
++1703-675-2387,continues,True,9,Telephone,Timothy Greer,Candice Rogers,False
+2022-08-08,continues,True,11,"Date of Visit, Date of Discharge","Lauren Anderson, Kevin Anderson, Randy Norton, Paul Porter, Jonathan Marshall, Donald Robbins, Michael Morris, Regina Hernandez, Michael Thompson, Austin Chapman, Sean Smith",Candice Rogers,False
+5010960976,continues,True,11,MRN,Lauren Rogers,Candice Rogers,False
+Emergency,continues,True,2855,Multiple Rows: Admission Type,None,Candice Rogers,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Candice Rogers,Candice Rogers,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Candice Rogers,Candice Rogers,True
+Spanish,continues,True,459,"Multiple Rows: Language spoken, Multiple Rows: Language written",None,Candice Rogers,False
+5010960976,continues,False,0,,,Candice Rogers,False
++1703-675-2387,continues,False,0,,,Candice Rogers,False
+Candice.Rogers@aol.com,continues,True,1,Email,Candice Rogers,Candice Rogers,True
+Candice.Rogers@aol.com,continues,False,0,,,Candice Rogers,False
+English,continues,False,0,,,Candice Rogers,False
+Spanish,continues,False,0,,,Candice Rogers,False
+Emergency,continues,False,0,,,Candice Rogers,False
+Female,continues,False,0,,,Candice Rogers,False
+2003-07-16,continues,True,1,DOB,Candice Rogers,Candice Rogers,True
+2003-07-16,continues,False,0,,,Candice Rogers,False
+2022-08-08,continues,False,0,,,Candice Rogers,False
+Mark Clark,continues,True,1,Doctors Name,Hannah Williamson,Candice Rogers,False
+Mark Clark,continues,False,0,,,Candice Rogers,False
+706-53-9758,continues,True,14,SSN,Elizabeth Perez,Kaitlin Hanson,False
+Female,continues,True,4443,Multiple Rows: Legal gender,Kaitlin Hanson,Kaitlin Hanson,True
+706-53-9758,continues,False,0,,,Kaitlin Hanson,False
+Female,continues,False,0,,,Kaitlin Hanson,False

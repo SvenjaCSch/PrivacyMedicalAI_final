@@ -1,0 +1,29 @@
+Value,Prompt,Found,Count,Found_in_Column
++1570-513-2370,system_ignore,True,12,Telephone
++1725-573-6455,list_example,True,13,Telephone
+1946-03-05,list_example,True,13,DOB
+1989-01-22,system_ignore,True,12,DOB
+2021-07-09,system_ignore,True,15,"Date of Visit, Date of Discharge"
+2021-08-04,system_ignore,True,18,"Date of Visit, Date of Discharge"
+2023-08-01,list_example,True,11,"Date of Visit, Date of Discharge"
+338-49-1186,system_ignore,True,12,SSN
+424-79-2916,list_example,True,13,SSN
+4251320996,list_example,True,13,MRN
+8012223860,system_ignore,True,12,MRN
+Christopher Watson,list_example,True,14,Name
+Christopher.Watson@dhl.com,list_example,True,13,Email
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,system_ignore,True,4443,Multiple Rows: Legal gender
+HPB-66318,system_ignore,True,12,Health Plan Number
+HPB-89963,list_example,True,13,Health Plan Number
+Male,list_example,True,4292,Multiple Rows: Legal gender
+Married,list_example,True,2640,Multiple Rows: Marital status
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+Rebecca Taylor,system_ignore,True,12,Name
+Rebecca.Taylor@aol.com,system_ignore,True,12,Email
+Sean Smith,system_ignore,True,15,Name
+#211550,list_example,True,1,Billing Account Number
+Christopher Watson,list_example,True,14,Doctors Name
+#567232,system_ignore,True,1,Billing Account Number
+Sean Smith,system_ignore,True,15,Doctors Name

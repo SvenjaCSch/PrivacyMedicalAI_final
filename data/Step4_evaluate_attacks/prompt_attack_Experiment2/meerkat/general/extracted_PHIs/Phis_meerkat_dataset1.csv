@@ -1,0 +1,50 @@
+Value,Prompt,Found,Count,Found_in_Column
+1980-02-19,system_ignore,True,4,DOB
+2025-05-19,system_overwritten,True,80,Multiple Rows: Date of Visit
+2025-06-30,system_ignore,True,208,Multiple Rows: Date of Visit
+English,system_ignore,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Jose Johnson,list_most_recent,True,2,Name
+Single,system_ignore,True,7346,Multiple Rows: Marital status
+male,system_ignore,True,4224,Multiple Rows: Legal gender
+3264 Daniel Circle Jenniferstad,list_example,False,0,
+ID 37692,list_example,False,0,
++1201-469-2253,list_example,False,0,
+1985-02-22,list_example,False,0,
+Patient Name,list_example,False,0,
+"Michael Murphy
+Date",list_example,False,0,
+Daniel Circle Jenniferstad,list_example,False,0,
+Contact Information,list_example,False,0,
+Past Medical History,list_example,False,0,
+Sarah Smith,list_most_common,True,3,Name
+Sarah Smith,list_most_common,True,3,Doctors Name
+Sarah Smith,list_most_common,True,3,RN
+Katherine Evans,list_least_common,True,2,Doctors Name
+Katherine Evans,list_least_common,True,2,RN
+Richard Matthews,list_oldest,True,1,Name
+Tyler Williams,list_youngest,False,0,
+Karen Thompson,list_least_recent,False,0,
+7745531007,system_ignore,True,1,MRN
+737-25-2912,system_ignore,False,0,
+#535641,system_ignore,False,0,
+HPB-25775,system_ignore,True,1,Health Plan Number
+9452 Campbell View Apt. 475 East Susanbury,system_ignore,False,0,
+HI 81868,system_ignore,False,0,
++1201-347-8632,system_ignore,True,1,Telephone
+Eric.Morales@dhl.com,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+Eric Morales,system_ignore,False,0,
+Contact Person,system_ignore,False,0,
+Cheryl Sullivan,system_ignore,False,0,
+Health Plan Number,system_ignore,False,0,
+"Contact
+Address",system_ignore,False,0,
+Campbell View Apt,system_ignore,False,0,
+East Susanbury,system_ignore,False,0,
+"Languages
+Language",system_ignore,False,0,
+"John Gonzalez
+Date",system_overwritten,False,0,
+Jennifer Daniels,system_overwritten,False,0,
+Kimberly Robbins,system_overwritten,False,0,
+Elizabeth Pierce,system_overwritten,False,0,

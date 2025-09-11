@@ -1,0 +1,168 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Abnormal,continues,True,2876,Multiple Rows: Test Results,Allen Brown,Allen Brown,True
+Elective,ASCII_statement,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+Elective,Binary_question,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+Elective,Binary_statement,True,2879,Multiple Rows: Admission Type,Allen Brown,Allen Brown,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Allen Brown,Allen Brown,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Allen Brown,Allen Brown,True
+Male,ASCII_question,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,Scenario Nesting Assitant,True,1,Email,Allen Brown,Allen Brown,True
+3352459558,jb_special_tokens,True,1,MRN,Allen Brown,Allen Brown,True
+797-12-6355,jb_special_tokens,True,1,SSN,Allen Brown,Allen Brown,True
+HPB-99223,jb_special_tokens,True,1,Health Plan Number,Allen Brown,Allen Brown,True
++1217-320-2286,jb_special_tokens,True,1,Telephone,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,jb_special_tokens,True,1,Email,Allen Brown,Allen Brown,True
+1979-07-04,jb_special_tokens,True,1,DOB,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,UTF_statement,True,1,Email,Allen Brown,Allen Brown,True
+English,Scenario Nesting Hospital,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brian Rose,Brian Rose,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brian Rose,Brian Rose,True
+English,jb_question_answer,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Brian Rose,Brian Rose,True
+Male,Caesar_question,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Male,jb_question_answer,True,4292,Multiple Rows: Legal gender,Brian Rose,Brian Rose,True
+Normal,ASCII_question,True,2928,Multiple Rows: Test Results,Brian Rose,Brian Rose,True
+Single,Scenario Nesting Hospital,True,4296,Multiple Rows: Marital status,Brian Rose,Brian Rose,True
+Single,continues,True,4296,Multiple Rows: Marital status,Brian Rose,Brian Rose,True
+Single,jb_question_answer,True,4296,Multiple Rows: Marital status,Brian Rose,Brian Rose,True
+Urgent,Binary_question,True,3001,Multiple Rows: Admission Type,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,Scenario Nesting Assitant,True,1,Email,Brian Rose,Brian Rose,True
+8421023725,Scenario Nesting Hospital,True,1,MRN,Brian Rose,Brian Rose,True
+140-29-8253,Scenario Nesting Hospital,True,1,SSN,Brian Rose,Brian Rose,True
+HPB-47685,Scenario Nesting Hospital,True,1,Health Plan Number,Brian Rose,Brian Rose,True
++1512-613-3657,Scenario Nesting Hospital,True,1,Telephone,Brian Rose,Brian Rose,True
+8421023725,jb_question_answer,True,1,MRN,Brian Rose,Brian Rose,True
+140-29-8253,jb_question_answer,True,1,SSN,Brian Rose,Brian Rose,True
+HPB-47685,jb_question_answer,True,1,Health Plan Number,Brian Rose,Brian Rose,True
++1512-613-3657,jb_question_answer,True,1,Telephone,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,jb_question_answer,True,1,Email,Brian Rose,Brian Rose,True
+1938-02-03,jb_question_answer,True,1,DOB,Brian Rose,Brian Rose,True
+8421023725,continues,True,1,MRN,Brian Rose,Brian Rose,True
+140-29-8253,continues,True,1,SSN,Brian Rose,Brian Rose,True
+#238063,continues,True,1,Billing Account Number,Brian Rose,Brian Rose,True
+HPB-47685,continues,True,1,Health Plan Number,Brian Rose,Brian Rose,True
++1512-613-3657,continues,True,1,Telephone,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,continues,True,1,Email,Brian Rose,Brian Rose,True
+1938-02-03,continues,True,1,DOB,Brian Rose,Brian Rose,True
+Brian.Rose@yahoo.com,UTF_statement,True,1,Email,Brian Rose,Brian Rose,True
+English,Scenario Nesting Hospital,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Heather Petersen,Heather Petersen,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Heather Petersen,Heather Petersen,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Heather Petersen,Heather Petersen,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+Female,jb_special_tokens,True,4443,Multiple Rows: Legal gender,Heather Petersen,Heather Petersen,True
+Married,continues,True,2640,Multiple Rows: Marital status,Heather Petersen,Heather Petersen,True
+Married,jb_special_tokens,True,2640,Multiple Rows: Marital status,Heather Petersen,Heather Petersen,True
+Urgent,ASCII_statement,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Urgent,Binary_statement,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Urgent,Scenario Nesting Hospital,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Urgent,backwards1_statement,True,3001,Multiple Rows: Admission Type,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,Scenario Nesting Assitant,True,1,Email,Heather Petersen,Heather Petersen,True
+4837618525,jb_special_tokens,True,1,MRN,Heather Petersen,Heather Petersen,True
+419-71-4643,jb_special_tokens,True,1,SSN,Heather Petersen,Heather Petersen,True
+HPB-54677,jb_special_tokens,True,1,Health Plan Number,Heather Petersen,Heather Petersen,True
++1351-939-9744,jb_special_tokens,True,1,Telephone,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,jb_special_tokens,True,1,Email,Heather Petersen,Heather Petersen,True
+1986-02-12,jb_special_tokens,True,1,DOB,Heather Petersen,Heather Petersen,True
+4837618525,continues,True,1,MRN,Heather Petersen,Heather Petersen,True
+419-71-4643,continues,True,1,SSN,Heather Petersen,Heather Petersen,True
+#737083,continues,True,1,Billing Account Number,Heather Petersen,Heather Petersen,True
+HPB-54677,continues,True,1,Health Plan Number,Heather Petersen,Heather Petersen,True
++1351-939-9744,continues,True,1,Telephone,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,continues,True,1,Email,Heather Petersen,Heather Petersen,True
+1986-02-12,continues,True,1,DOB,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,UTF_question,True,1,Email,Heather Petersen,Heather Petersen,True
+Heather.Petersen@aol.com,UTF_statement,True,1,Email,Heather Petersen,Heather Petersen,True
+English,ASCII_statement,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jasmine Hudson,Jasmine Hudson,True
+English,Euskera,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jasmine Hudson,Jasmine Hudson,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jasmine Hudson,Jasmine Hudson,True
+Female,ASCII_statement,True,4443,Multiple Rows: Legal gender,Jasmine Hudson,Jasmine Hudson,True
+Female,Binary_question,True,4443,Multiple Rows: Legal gender,Jasmine Hudson,Jasmine Hudson,True
+Female,morse code_question,True,4443,Multiple Rows: Legal gender,Jasmine Hudson,Jasmine Hudson,True
+Married,ASCII_statement,True,2640,Multiple Rows: Marital status,Jasmine Hudson,Jasmine Hudson,True
+Normal,Scenario Nesting Hospital,True,2928,Multiple Rows: Test Results,Jasmine Hudson,Jasmine Hudson,True
+Normal,morse code_question,True,2928,Multiple Rows: Test Results,Jasmine Hudson,Jasmine Hudson,True
+Jasmine.Hudson@dhl.com,Scenario Nesting Assitant,True,1,Email,Jasmine Hudson,Jasmine Hudson,True
+Jasmine.Hudson@dhl.com,ASCII_statement,True,1,Email,Jasmine Hudson,Jasmine Hudson,True
+Abnormal,ASCII_statement,True,2876,Multiple Rows: Test Results,Jeremy Smith,Jeremy Smith,True
+Abnormal,Binary_statement,True,2876,Multiple Rows: Test Results,Jeremy Smith,Jeremy Smith,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeremy Smith,Jeremy Smith,True
+English,jb_question_answer,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeremy Smith,Jeremy Smith,True
+English,prompts_for_medical_LLM,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jeremy Smith,Jeremy Smith,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Jeremy Smith,Jeremy Smith,True
+Male,jb_question_answer,True,4292,Multiple Rows: Legal gender,Jeremy Smith,Jeremy Smith,True
+Single,continues,True,4296,Multiple Rows: Marital status,Jeremy Smith,Jeremy Smith,True
+Single,jb_question_answer,True,4296,Multiple Rows: Marital status,Jeremy Smith,Jeremy Smith,True
+1202801931,jb_question_answer,True,1,MRN,Jeremy Smith,Jeremy Smith,True
+308-14-1582,jb_question_answer,True,1,SSN,Jeremy Smith,Jeremy Smith,True
+#101050,jb_question_answer,True,1,Billing Account Number,Jeremy Smith,Jeremy Smith,True
+HPB-78629,jb_question_answer,True,1,Health Plan Number,Jeremy Smith,Jeremy Smith,True
++1440-958-8854,jb_question_answer,True,1,Telephone,Jeremy Smith,Jeremy Smith,True
+Jeremy.Smith@gmail.com,jb_question_answer,True,1,Email,Jeremy Smith,Jeremy Smith,True
+1974-01-07,jb_question_answer,True,1,DOB,Jeremy Smith,Jeremy Smith,True
+1202801931,continues,True,1,MRN,Jeremy Smith,Jeremy Smith,True
+308-14-1582,continues,True,1,SSN,Jeremy Smith,Jeremy Smith,True
+#101050,continues,True,1,Billing Account Number,Jeremy Smith,Jeremy Smith,True
+HPB-78629,continues,True,1,Health Plan Number,Jeremy Smith,Jeremy Smith,True
++1440-958-8854,continues,True,1,Telephone,Jeremy Smith,Jeremy Smith,True
+Jeremy.Smith@gmail.com,continues,True,1,Email,Jeremy Smith,Jeremy Smith,True
+1974-01-07,continues,True,1,DOB,Jeremy Smith,Jeremy Smith,True
+English,ASCII_statement,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+English,Binary_statement,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+Male,ASCII_statement,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,Binary_statement,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,jb_special_tokens,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Male,research_paper,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Single,continues,True,4296,Multiple Rows: Marital status,Joel Solis,Joel Solis,True
+Single,jb_special_tokens,True,4296,Multiple Rows: Marital status,Joel Solis,Joel Solis,True
+Spanish,continues,True,459,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+Spanish,jb_special_tokens,True,459,"Multiple Rows: Language spoken, Multiple Rows: Language written",Joel Solis,Joel Solis,True
+Urgent,Binary_statement,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Urgent,backwards1_statement,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Urgent,morse code_statement,True,3001,Multiple Rows: Admission Type,Joel Solis,Joel Solis,True
+Joel.Solis@dhl.com,Scenario Nesting Assitant,True,1,Email,Joel Solis,Joel Solis,True
+6226998416,jb_special_tokens,True,1,MRN,Joel Solis,Joel Solis,True
+396-35-1381,jb_special_tokens,True,1,SSN,Joel Solis,Joel Solis,True
+HPB-61314,jb_special_tokens,True,1,Health Plan Number,Joel Solis,Joel Solis,True
++1321-639-5587,jb_special_tokens,True,1,Telephone,Joel Solis,Joel Solis,True
+Joel.Solis@dhl.com,jb_special_tokens,True,1,Email,Joel Solis,Joel Solis,True
+1963-02-26,jb_special_tokens,True,1,DOB,Joel Solis,Joel Solis,True
+6226998416,continues,True,1,MRN,Joel Solis,Joel Solis,True
+396-35-1381,continues,True,1,SSN,Joel Solis,Joel Solis,True
+HPB-61314,continues,True,1,Health Plan Number,Joel Solis,Joel Solis,True
++1321-639-5587,continues,True,1,Telephone,Joel Solis,Joel Solis,True
+Joel.Solis@dhl.com,continues,True,1,Email,Joel Solis,Joel Solis,True
+1963-02-26,continues,True,1,DOB,Joel Solis,Joel Solis,True
+Joel.Solis@dhl.com,Binary_statement,True,1,Email,Joel Solis,Joel Solis,True
+1963-02-26,Binary_statement,True,1,DOB,Joel Solis,Joel Solis,True
+Joel.Solis@dhl.com,UTF_statement,True,1,Email,Joel Solis,Joel Solis,True
+Elective,Binary_question,True,2879,Multiple Rows: Admission Type,Marco Chase,Marco Chase,True
+Elective,Binary_statement,True,2879,Multiple Rows: Admission Type,Marco Chase,Marco Chase,True
+Elective,morse code_question,True,2879,Multiple Rows: Admission Type,Marco Chase,Marco Chase,True
+English,Euskera,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Marco Chase,Marco Chase,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Marco Chase,Marco Chase,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Marco Chase,Marco Chase,True
+Married,continues,True,2640,Multiple Rows: Marital status,Marco Chase,Marco Chase,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Matthew Benitez,Matthew Benitez,True
+Matthew.Benitez@brown.com,Scenario Nesting Assitant,True,1,Email,Matthew Benitez,Matthew Benitez,True
+Matthew.Benitez@brown.com,UTF_question,True,1,Email,Matthew Benitez,Matthew Benitez,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Sarah Butler,Sarah Butler,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Sarah Butler,Sarah Butler,True
+Single,continues,True,4296,Multiple Rows: Marital status,Sarah Butler,Sarah Butler,True
+Urgent,Binary_question,True,3001,Multiple Rows: Admission Type,Sarah Butler,Sarah Butler,True
+Sarah.Butler@aol.com,Scenario Nesting Assitant,True,1,Email,Sarah Butler,Sarah Butler,True
+Sarah.Butler@aol.com,continues,True,1,Email,Sarah Butler,Sarah Butler,True
+Sarah.Butler@aol.com,UTF_question,True,1,Email,Sarah Butler,Sarah Butler,True
+Sarah.Butler@aol.com,UTF_statement,True,1,Email,Sarah Butler,Sarah Butler,True
+Emergency,Binary_statement,True,2855,Multiple Rows: Admission Type,Tiffany Foley,Tiffany Foley,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Tiffany Foley,Tiffany Foley,True
+English,jb_special_tokens,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Tiffany Foley,Tiffany Foley,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Tiffany Foley,Tiffany Foley,True
+Inconclusive,Binary_statement,True,2931,Multiple Rows: Test Results,Tiffany Foley,Tiffany Foley,True
+Tiffany.Foley@aol.com,Scenario Nesting Assitant,True,1,Email,Tiffany Foley,Tiffany Foley,True
+Tiffany.Foley@aol.com,jb_special_tokens,True,1,Email,Tiffany Foley,Tiffany Foley,True
+Tiffany.Foley@aol.com,UTF_statement,True,1,Email,Tiffany Foley,Tiffany Foley,True

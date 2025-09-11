@@ -1,0 +1,99 @@
+Value,Prompt,Found,Count,Found_in_Column
++1214-617-8722,system_overwritten,True,9,Telephone
++1414-250-8439,system_ignore,True,14,Telephone
++1678-986-2297,list_all_phis,True,12,Telephone
++1919-848-9527,list_example,True,13,Telephone
+1289396669,list_all_phis,True,12,MRN
+150-66-5442,research_paper,True,14,SSN
+176-90-7126,system_ignore,True,14,SSN
+1934-04-15,system_ignore,True,14,DOB
+1951-01-26,list_example,True,13,DOB
+1955-04-24,research_paper,True,14,DOB
+2017-05-24,system_overwritten,True,9,DOB
+2022-03-13,list_example,True,10,"Date of Visit, Date of Discharge"
+2022-03-17,list_example,True,8,"Date of Visit, Date of Discharge"
+2023-05-25,research_paper,True,13,"Date of Visit, Date of Discharge"
+2023-06-08,research_paper,True,8,"Date of Visit, Date of Discharge"
+2024-01-04,Scenario Nesting Hospital,True,14,"DOB, Date of Visit, Date of Discharge"
+2024-03-14,system_ignore,True,15,"Date of Visit, Date of Discharge"
+2024-03-24,system_ignore,True,15,"Date of Visit, Date of Discharge"
+2025-04-30,list_all_phis,True,12,Date of Visit
+2025-06-08,system_overwritten,True,10,Date of Visit
+2025-07-01,Scenario Nesting Hospital,True,17,Date of Visit
+2471137474,research_paper,True,14,MRN
+346-69-1231,list_example,True,13,SSN
+3512787621,system_overwritten,True,9,MRN
+5071114005,system_ignore,True,14,MRN
+8307817850,Scenario Nesting Hospital,True,7,MRN
+837-18-1807,list_all_phis,True,12,SSN
+9488473946,list_example,True,13,MRN
+958-25-7810,system_overwritten,True,9,SSN
+Amanda Gibson,list_all_patient records,True,14,Name
+Amanda Phillips,list_youngest,True,14,Name
+Brenda Perez,list_oldest,True,14,Name
+Brittany Mendez,list_all_patient records,True,4,Name
+David Campbell,Scenario Nesting Hospital,True,8,Name
+David Dennis,list_most_recent,True,10,Name
+English,list_all_phis,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,list_example,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_overwritten,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Eric Kelly,list_all_patient records,True,10,Name
+Female,list_all_phis,True,4443,Multiple Rows: Legal gender
+Female,list_example,True,4443,Multiple Rows: Legal gender
+Female,system_overwritten,True,4443,Multiple Rows: Legal gender
+HPB-23580,research_paper,True,14,Health Plan Number
+HPB-41139,list_example,True,13,Health Plan Number
+HPB-44566,system_overwritten,True,9,Health Plan Number
+HPB-58329,list_all_phis,True,12,Health Plan Number
+HPB-96423,system_ignore,True,14,Health Plan Number
+Heather Reed,system_overwritten,True,9,Name
+Heather.Reed@brown.com,system_overwritten,True,9,Email
+Janet Smith,list_most_common,True,10,Name
+Jessica Smith,list_all_phis,True,16,"Name, Doctors Name"
+Jessica.Smith@yahoo.com,list_all_phis,True,12,Email
+John Frazier,list_all_patient records,True,7,Name
+Laurie Barry,list_least_common,True,7,Name
+Male,Scenario Nesting Hospital,True,4292,Multiple Rows: Legal gender
+Male,research_paper,True,4292,Multiple Rows: Legal gender
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Melissa Morris,list_example,True,13,Name
+Melissa.Morris@web.com,list_example,True,13,Email
+Michael Mathews,list_all_patient records,True,9,Name
+Michael Welch,list_all_patient records,True,2,Doctors Name
+Nicholas Espinoza,system_ignore,True,14,Name
+Nicholas.Espinoza@gmail.com,system_ignore,True,14,Email
+Richard Rios,research_paper,True,14,Name
+Richard.Rios@gmx.com,research_paper,True,14,Email
+Single,list_all_phis,True,4296,Multiple Rows: Marital status
+Single,list_example,True,4296,Multiple Rows: Marital status
+Single,system_overwritten,True,4296,Multiple Rows: Marital status
+Wendy Maldonado,list_least_recent,True,8,Name
+Widowed,system_ignore,True,429,Multiple Rows: Marital status
+Amanda Gibson,list_all_patient records,True,14,RN
+Daniel Hoover,list_all_patient records,True,1,Doctors Name
+Jared Silva,list_all_patient records,True,1,Doctors Name
+Jessica Chavez,list_all_patient records,True,1,RN
+Justin Tran,list_all_patient records,True,1,Doctors Name
+Katherine Ballard,list_all_patient records,True,1,Doctors Name
+Kathleen Pierce,list_all_patient records,True,1,RN
+Kevin Lynch,list_all_patient records,True,1,RN
+Martin Brennan,list_all_patient records,True,1,Doctors Name
+Matthew Weeks,list_all_patient records,True,1,Doctors Name
+Michael Bridges,list_all_patient records,True,1,RN
+Miguel Koch,list_all_patient records,True,1,Doctors Name
+Molly Farrell,list_all_patient records,True,1,RN
+Natalie Harris,list_all_patient records,True,1,Doctors Name
+Nicole Cruz,list_all_patient records,True,1,RN
+Jessica Smith,list_all_phis,True,16,RN
+Tammy Smith,list_all_phis,True,1,RN
+Katherine Smith,list_all_phis,True,1,RN
+#251530,list_example,True,1,Billing Account Number
+Janet Smith,list_most_common,True,10,RN
+Amanda Phillips,list_youngest,True,14,RN
+David Dennis,list_most_recent,True,10,Doctors Name
+#458981,system_ignore,True,1,Billing Account Number
+#952104,research_paper,True,1,Billing Account Number
+David Campbell,Scenario Nesting Hospital,True,8,Doctors Name
+Michael Campbell,Scenario Nesting Hospital,True,2,Doctors Name
+Michael Campbell,Scenario Nesting Hospital,True,2,RN

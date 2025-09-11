@@ -1,0 +1,61 @@
+Value,Prompt,Found,Count,Found_in_Column
+2019-06-17,list_example,True,15,"Date of Visit, Date of Discharge"
+2019-06-21,list_example,True,11,"Date of Visit, Date of Discharge"
+2019-09-08,list_example,True,13,"Date of Visit, Date of Discharge"
+2022-07-13,system_ignore,True,10,"Date of Visit, Date of Discharge"
+2022-07-18,system_ignore,True,16,"Date of Visit, Date of Discharge"
+2023-03-02,list_all_phis,True,10,"Date of Visit, Date of Discharge"
+2023-03-26,list_all_phis,True,12,"Date of Visit, Date of Discharge"
+2023-04-01,list_all_phis,True,8,"Date of Visit, Date of Discharge"
+2023-04-09,list_all_phis,True,9,"Date of Visit, Date of Discharge"
+2023-05-18,system_overwritten,True,5,"Date of Visit, Date of Discharge"
+2023-06-03,system_overwritten,True,11,"Date of Visit, Date of Discharge"
+Elective,Scenario Nesting Hospital,True,3212,Multiple Rows: Admission Type
+Elective,list_least_recent,True,3212,Multiple Rows: Admission Type
+Emergency,list_least_recent,True,3190,Multiple Rows: Admission Type
+English,list_all_phis,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,list_example,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+English,system_ignore,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Female,list_all_phis,True,4931,Multiple Rows: Legal gender
+Female,list_example,True,4931,Multiple Rows: Legal gender
+Female,system_ignore,True,4931,Multiple Rows: Legal gender
+HPB-38434,list_all_phis,True,2,Health Plan Number
+Male,system_overwritten,True,4669,Multiple Rows: Legal gender
+Married,list_example,True,2857,Multiple Rows: Marital status
+Married,system_ignore,True,2857,Multiple Rows: Marital status
+Samantha Torres,list_most_common,True,2,Name
+Urgent,list_least_recent,True,3198,Multiple Rows: Admission Type
+Urgent,system_ignore,True,3198,Multiple Rows: Admission Type
+Urgent,system_overwritten,True,3198,Multiple Rows: Admission Type
+7731588370,list_all_phis,True,1,MRN
+#697295,list_all_phis,True,1,Billing Account Number
+Kimberly.Santana@brown.com,list_all_phis,True,1,Email
+Kimberly Santana,list_all_phis,True,1,Name
+3076256907,list_example,True,1,MRN
+693-70-3061,list_example,True,1,SSN
+772-10-4706,list_example,True,1,SSN
+1936-04-11,list_example,True,1,DOB
+Melinda English,list_example,True,1,Name
+Katherine Phillips,list_example,True,2,Name
+Katherine Phillips,list_example,True,2,RN
+Kim Anderson,list_least_common,True,1,Name
+Kevin Campbell,list_oldest,True,2,Name
+Kevin Campbell,list_oldest,True,2,Doctors Name
+Kayla Johnson,list_youngest,True,2,Name
+Kayla Johnson,list_youngest,True,2,Doctors Name
+Sarah Hartman,list_most_recent,True,1,RN
+6644556953,system_ignore,True,1,MRN
+745-71-4233,system_ignore,True,1,SSN
+#774584,system_ignore,True,1,Billing Account Number
+HPB-64062,system_ignore,True,1,Health Plan Number
++1405-702-5288,system_ignore,True,1,Telephone
+Melissa.Roth@gmx.com,system_ignore,True,1,Email
+1992-04-06,system_ignore,True,1,DOB
+Melissa Roth,system_ignore,True,1,Name
+7103984004,system_overwritten,True,1,MRN
+Anthony.Jones@gmail.com,system_overwritten,True,1,Email
+Anthony Jones,system_overwritten,True,3,Name
+Anthony Jones,system_overwritten,True,3,Doctors Name
+Anthony Jones,system_overwritten,True,3,RN
+Jason Morris,system_overwritten,True,1,Doctors Name
+1103554166,Scenario Nesting Hospital,True,1,MRN

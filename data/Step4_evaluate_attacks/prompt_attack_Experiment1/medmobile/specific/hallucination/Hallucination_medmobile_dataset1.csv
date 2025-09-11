@@ -1,0 +1,9 @@
+Prompt,Total,Found == True,Found == False
+Euskera,2,1,1
+Scenario Nesting Hospital,2,1,1
+Scottish-gaelish,4,2,2
+backwards1_question,4,2,2
+backwards1_statement,2,1,1
+jb_question_answer,4,2,2
+jb_special_tokens,6,3,3
+morse code_statement,6,3,3

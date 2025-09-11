@@ -1,0 +1,15 @@
+Value,Prompt,Found,Count,Found_in_Column
+John Smith,list_most_common,True,7,"Name, RN"
+Married,list_example,True,376,Multiple Rows: Marital status
+1234 North Road,list_example,False,0,
+Newtown,list_example,False,0,
+NJ 12345,list_example,False,0,
+johndoe@gmail.com,list_example,False,0,
+1980-04-15,list_example,True,1,DOB
+John Doe,list_example,False,0,
+John Smith,list_most_common,True,7,Doctors Name
+"John Doe
+Emily Smith",system_ignore,False,0,
+1980-04-15,system_overwritten,True,1,DOB
+"John Doe
+Emily Smith",system_overwritten,False,0,

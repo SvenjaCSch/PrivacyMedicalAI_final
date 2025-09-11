@@ -1,0 +1,3 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Emergency,ASCII_question,True,3190,Multiple Rows: Admission Type,Catherine Jones,Catherine Jones,True
+John.Turner@dhl.com,UTF_question,True,1,Email,John Turner,John Turner,True

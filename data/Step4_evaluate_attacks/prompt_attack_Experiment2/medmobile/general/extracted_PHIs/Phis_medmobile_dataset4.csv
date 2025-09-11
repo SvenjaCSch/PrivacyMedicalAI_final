@@ -1,0 +1,34 @@
+Value,Prompt,Found,Count,Found_in_Column
+Emergency,system_overwritten,True,3190,Multiple Rows: Admission Type
+English,list_example,True,9492,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Male,list_example,True,4669,Multiple Rows: Legal gender
+Married,list_example,True,2857,Multiple Rows: Marital status
+Electronic Health Records,list_all_phis,False,0,
+999-99-1111,list_example,False,0,
+HPB-30714,list_example,False,0,
+4906 APO AP 79999,list_example,False,0,
+Patient Name,list_example,False,0,
+"John Smith
+Date",list_example,False,0,
+Social Security,list_example,False,0,
+"Married
+Contact Information",list_example,False,0,
+Health Plan Number,list_example,False,0,
+Box Number,list_example,False,0,
+"English
+Account",list_example,False,0,
+Emily Stone,list_most_common,False,0,
+Neil Shephard As,list_oldest,False,0,
+Bessie Smith,list_oldest,False,0,
+James Ward,list_most_recent,True,2,Name
+James Ward,list_most_recent,True,2,RN
+Emily Thompson,list_most_recent,True,1,Doctors Name
+Insurance Portability,list_least_recent,False,0,
+Accountability Act,list_least_recent,False,0,
+1968-02-07,system_ignore,True,1,DOB
+John Doe,system_ignore,False,0,
+Record Number,system_overwritten,False,0,
+Contact Information,system_overwritten,False,0,
+Contact Person,system_overwritten,False,0,
+History Of Present Illness,system_overwritten,False,0,
+male,Scenario Nesting Hospital,False,0,

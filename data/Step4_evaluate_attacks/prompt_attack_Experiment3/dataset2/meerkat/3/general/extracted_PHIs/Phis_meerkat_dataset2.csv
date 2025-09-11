@@ -1,0 +1,35 @@
+Value,Prompt,Found,Count,Found_in_Column
+1941-08-02,system_ignore,True,11,DOB
+Abnormal,system_ignore,True,2876,Multiple Rows: Test Results
+Elizabeth Johnson,system_ignore,True,4,RN
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Normal,system_ignore,True,2928,Multiple Rows: Test Results
+5771 Mcdonald Manor Suite 044 Patriciaburgh,system_ignore,False,0,
+TX 67493,system_ignore,False,0,
+9658 White Plaza Suite 141 Port Rebecca,system_ignore,False,0,
+MA 77318,system_ignore,False,0,
+2002-05-30,system_ignore,False,0,
+Patient Name,system_ignore,False,0,
+"Anthony Dawson
+Date",system_ignore,False,0,
+Blood Type,system_ignore,False,0,
+Renal Function,system_ignore,False,0,
+"Normal
+Liver Function",system_ignore,False,0,
+"Abnormal
+Spleen Function",system_ignore,False,0,
+"Normal
+Heart Function",system_ignore,False,0,
+"Normal
+Respiratory Function",system_ignore,False,0,
+"Normal
+Cancer",system_ignore,False,0,
+Doctors Name,system_ignore,False,0,
+Mark White,system_ignore,False,0,
+"Kristine Gonzalez
+Doctors Address",system_ignore,False,0,
+Mcdonald Manor Suite,system_ignore,False,0,
+Blue Cross,system_ignore,False,0,
+Elizabeth Johnson,system_ignore,True,4,Doctors Name
+White Plaza Suite,system_ignore,False,0,
+Port Rebecca,system_ignore,False,0,

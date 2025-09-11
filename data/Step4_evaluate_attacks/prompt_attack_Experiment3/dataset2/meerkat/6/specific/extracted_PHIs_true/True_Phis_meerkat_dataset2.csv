@@ -1,0 +1,42 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+2022-10-27,continues,True,8,"Date of Visit, Date of Discharge","Charles Tate, Gina Gonzalez, Judy Carter, Madison Farrell, Paula Fernandez, Karen Potts, Kevin Gordon, Brandi Davis",Allen Brown,False
+2022-11-09,continues,True,13,"Date of Visit, Date of Discharge","Alicia Velasquez, Heidi Beasley, Joshua Carlson, Matthew Hinton, Sophia Church, William Nelson, April Osborn, Cory Hernandez, Jeffrey Robinson, Michael Baker, Todd Evans, Craig Dickson, Donna Greene",Allen Brown,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+3352459558,continues,True,1,MRN,Allen Brown,Allen Brown,True
+797-12-6355,continues,True,1,SSN,Allen Brown,Allen Brown,True
+HPB-99223,continues,True,1,Health Plan Number,Allen Brown,Allen Brown,True
++1217-320-2286,continues,True,1,Telephone,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,continues,True,1,Email,Allen Brown,Allen Brown,True
+1979-07-04,continues,True,1,DOB,Allen Brown,Allen Brown,True
+Ashley Clark,continues,True,1,Doctors Name,Jennifer Shepard,Allen Brown,False
+Robert Perry,jb_special_tokens,True,12,Name,Robert Perry,Christy Stephenson,False
+Robert Perry,jb_special_tokens,True,12,Name,Robert Perry,Heather Petersen,False
+1988-01-02,continues,True,14,DOB,Jessica Roberts,Jodi Flores,False
+2021-03-14,continues,True,14,"Date of Visit, Date of Discharge","Elizabeth Perez, Laura Salazar, Christopher Hawkins, Gregory Lawrence, Douglas Berry, Kim Hull, April Woods, Andrew Smith, Ashley Munoz, Gina Davis, Cody Davis, John Franklin, Patricia Ellis, Chelsea Armstrong",Jodi Flores,False
+2021-03-26,continues,True,10,"Date of Visit, Date of Discharge","Kevin Rodriguez, Thomas Smith, Catherine Cunningham, Nicole Boyle, Anthony Bell, Jon Simpson, Kathleen Melendez, Amy Sanchez, Mark Austin, Eric Clark",Jodi Flores,False
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jodi Flores,Jodi Flores,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Married,continues,True,2640,Multiple Rows: Marital status,Jodi Flores,Jodi Flores,True
+Roberta Lopez,jb_special_tokens,True,11,Name,Roberta Lopez,Jodi Flores,False
+Jodi.Flores@web.com,continues,True,1,Email,Jodi Flores,Jodi Flores,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Melissa Morris,jb_special_tokens,True,13,Name,Melissa Morris,Justin Jordan,False
+John Ramirez,jb_special_tokens,True,6,Name,John Ramirez,Kaitlin Hanson,False
+John Ramirez,jb_special_tokens,True,6,RN,Luis Wolf,Kaitlin Hanson,False
+Amy Smith,jb_special_tokens,True,16,"Name, RN","Amy Smith, Sarah Rose, Sarah Cox, Jesse Henderson",Kristy Rodriguez,False
+Amy Smith,jb_special_tokens,True,16,Doctors Name,Ricky Hanson,Kristy Rodriguez,False
+Kyle Miller,jb_special_tokens,True,1,Doctors Name,Cody Crawford,Lauren Miles,False
+1987-03-21,continues,True,10,DOB,Sarah Johnson,Melanie Green,False
+John Mcdonald,jb_special_tokens,True,8,Name,John Mcdonald,Richard Mcdaniel,False
+John Mcdonald,jb_special_tokens,True,8,RN,Heidi Beasley,Richard Mcdaniel,False
+2023-02-12,continues,True,12,"Date of Visit, Date of Discharge","Kenneth Thomas, Terry Smith, April Key, Jason Wiggins, Alyssa Melendez, Stephanie Buck, Heidi Joseph, Dylan Barnes, Gina Zhang, Rebekah Madden, Jennifer Jackson, Kirsten Charles",Rodney Butler,False
+2023-02-13,continues,True,9,"Date of Visit, Date of Discharge","Jamie Liu, Diane Perez, Aaron Smith, Tonya Coleman, Donna Greene, Savannah Robbins, Scott Petty, Katie Phillips, Rachel Taylor",Rodney Butler,False
+2023-03-01,continues,True,11,"Date of Visit, Date of Discharge","Lawrence Benitez, Sean Thomas, John Mcdonald, Victoria Powers, James Kaufman, Taylor Cisneros, Michael Pineda, April Key, James Nielsen, Wayne Small, Nicholas Rogers",Rodney Butler,False
+2023-03-05,continues,True,12,"Date of Visit, Date of Discharge","Melissa Thompson, Stacie Torres, Jacqueline Sanchez, Sharon Archer, Tyler Bell, Lawrence Benitez, Kevin Gordon, Victoria Wilkins, David Smith, Craig Dickson, James Kaufman",Rodney Butler,False
+Elective,continues,True,2879,Multiple Rows: Admission Type,Rodney Butler,Rodney Butler,True
+Urgent,continues,True,3001,Multiple Rows: Admission Type,None,Rodney Butler,False
+Robert Perry,jb_special_tokens,True,12,Name,Robert Perry,Sarah Butler,False
+Mark Walker,continues,True,6,Name,Mark Walker,Sarah Ferguson,False
+Tiffany Phillips,jb_special_tokens,True,10,Name,Tiffany Phillips,Scott Kline,False
+Tiffany Phillips,jb_special_tokens,True,10,Doctors Name,Mark Ball,Scott Kline,False
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True

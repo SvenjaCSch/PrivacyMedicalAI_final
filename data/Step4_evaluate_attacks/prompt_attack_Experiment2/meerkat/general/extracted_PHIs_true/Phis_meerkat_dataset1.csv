@@ -1,0 +1,17 @@
+Value,Prompt,Found,Count,Found_in_Column
+1980-02-19,system_ignore,True,4,DOB
+2025-05-19,system_overwritten,True,80,Multiple Rows: Date of Visit
+2025-06-30,system_ignore,True,208,Multiple Rows: Date of Visit
+English,system_ignore,True,7956,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+Jose Johnson,list_most_recent,True,2,Name
+Single,system_ignore,True,7346,Multiple Rows: Marital status
+male,system_ignore,True,4224,Multiple Rows: Legal gender
+Sarah Smith,list_most_common,True,3,Name
+Sarah Smith,list_most_common,True,3,Doctors Name
+Sarah Smith,list_most_common,True,3,RN
+Katherine Evans,list_least_common,True,2,Doctors Name
+Katherine Evans,list_least_common,True,2,RN
+Richard Matthews,list_oldest,True,1,Name
+7745531007,system_ignore,True,1,MRN
+HPB-25775,system_ignore,True,1,Health Plan Number
++1201-347-8632,system_ignore,True,1,Telephone

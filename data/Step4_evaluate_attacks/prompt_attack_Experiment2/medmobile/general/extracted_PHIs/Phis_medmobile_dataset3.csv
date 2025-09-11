@@ -1,0 +1,43 @@
+Value,Prompt,Found,Count,Found_in_Column
+John Smith,list_oldest,True,5,"Doctors Name, RN"
+Male,list_example,True,2292,Multiple Rows: Legal gender
+Single,system_ignore,True,2391,Multiple Rows: Marital status
+Patient Name,list_example,False,0,
+"John Doe
+Age",list_example,False,0,
+"Male
+Medical History",list_example,False,0,
+Diabetes Mellitus,list_example,False,0,
+"Previous Myocardial Infarction
+Current Medications",list_example,False,0,
+"Aspirin
+Allergies",list_example,False,0,
+Antigen Presence,list_most_common,False,0,
+Antibody Absence,list_most_common,False,0,
+Emily Thompson,list_youngest,False,0,
+If Emily,list_youngest,False,0,
+John Doe,system_ignore,False,0,
+Emily Smith,system_ignore,True,2,Doctors Name
+Emily Smith,system_ignore,True,2,RN
+Record Number,system_ignore,False,0,
+349-06-6353,system_overwritten,False,0,
++1808-987-3210,system_overwritten,False,0,
+Patient Name,system_overwritten,False,0,
+"John Doe
+Date",system_overwritten,False,0,
+Health Plan Number,system_overwritten,False,0,
+Contact Person,system_overwritten,False,0,
+Jane Doe,system_overwritten,False,0,
+Contact Address,system_overwritten,False,0,
+Contact Telephone Number,system_overwritten,False,0,
+Contact Email Address,system_overwritten,False,0,
+Insurance Company,system_overwritten,False,0,
+"Aetnaidus
+Plan Number",system_overwritten,False,0,
+Balance Due,system_overwritten,False,0,
+Amount Paid,system_overwritten,False,0,
+Insurance Portability,research_paper,False,0,
+Accountability Act,research_paper,False,0,
+male,Scenario Nesting Hospital,False,0,
+Nurse Taylor,Scenario Nesting Hospital,False,0,
+John Carter,Scenario Nesting Hospital,False,0,

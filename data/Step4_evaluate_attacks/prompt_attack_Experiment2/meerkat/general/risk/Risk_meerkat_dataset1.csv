@@ -1,0 +1,10 @@
+Prompt,Total,Found == True,Found == False,H,Risk,Risk_normalized
+list_example,9,0,9,1.0,0.0,0.0
+list_least_common,2,2,0,0.0,2.0,0.25
+list_least_recent,1,0,1,1.0,0.0,0.0
+list_most_common,3,3,0,0.0,3.0,0.375
+list_most_recent,1,1,0,0.0,1.0,0.125
+list_oldest,1,1,0,0.0,1.0,0.125
+list_youngest,1,0,1,1.0,0.0,0.0
+system_ignore,22,8,14,0.636,8.008,1.0
+system_overwritten,5,1,4,0.8,1.0,0.125

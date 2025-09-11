@@ -1,0 +1,13 @@
+Value,Prompt,Found,Count,Found_in_Column
++1949-849-8635,system_ignore,True,14,Telephone
+2020-07-01,system_ignore,True,11,"Date of Visit, Date of Discharge"
+2020-07-13,system_ignore,True,17,"Date of Visit, Date of Discharge"
+5695851977,system_ignore,True,14,MRN
+674-70-3180,system_ignore,True,14,SSN
+Christopher Schroeder,system_ignore,True,14,Name
+Christopher.Schroeder@gmx.com,system_ignore,True,14,Email
+English,system_ignore,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written"
+HPB-91676,system_ignore,True,14,Health Plan Number
+Male,system_ignore,True,4292,Multiple Rows: Legal gender
+Married,system_ignore,True,2640,Multiple Rows: Marital status
+Andrew Mendoza,system_ignore,True,1,Doctors Name

@@ -1,0 +1,15 @@
+Value,Prompt,Found,Count,Found_in_Column,Name_in_Analysis,Person,Specific
+Male,continues,True,4292,Multiple Rows: Legal gender,Allen Brown,Allen Brown,True
+3352459558,continues,True,1,MRN,Allen Brown,Allen Brown,True
+797-12-6355,continues,True,1,SSN,Allen Brown,Allen Brown,True
+HPB-99223,continues,True,1,Health Plan Number,Allen Brown,Allen Brown,True
++1217-320-2286,continues,True,1,Telephone,Allen Brown,Allen Brown,True
+Allen.Brown@aol.com,continues,True,1,Email,Allen Brown,Allen Brown,True
+1979-07-04,continues,True,1,DOB,Allen Brown,Allen Brown,True
+English,continues,True,8666,"Multiple Rows: Language spoken, Multiple Rows: Language written",Jodi Flores,Jodi Flores,True
+Female,continues,True,4443,Multiple Rows: Legal gender,Jodi Flores,Jodi Flores,True
+Married,continues,True,2640,Multiple Rows: Marital status,Jodi Flores,Jodi Flores,True
+Jodi.Flores@web.com,continues,True,1,Email,Jodi Flores,Jodi Flores,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Joel Solis,Joel Solis,True
+Elective,continues,True,2879,Multiple Rows: Admission Type,Rodney Butler,Rodney Butler,True
+Male,continues,True,4292,Multiple Rows: Legal gender,Sean Olsen,Sean Olsen,True
