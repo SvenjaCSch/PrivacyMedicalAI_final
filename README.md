@@ -118,6 +118,27 @@ Like the general prompts, the specific prompt attack are divided into different 
 After I attacked the fine-tuned models in the three experiments, I evaluated the results. 
 For that I both evaluated the general and the specific results to gather information about the hallucination, success and risk ratios. 
 
+#### Models and Outputs
+The Output can be found on following links:
+
+[Prompt Attack Baseline](https://drive.google.com/file/d/1XyRZRwfrHzqEJeruFAlIziDvUouX1dcj/view?usp=sharing)
+
+[Prompt Attack Experiment 1](https://drive.google.com/file/d/1BqF-UJ7Qp6r93L7pocKvDUX36GFslVXq/view?usp=sharing)
+
+[Prompt Attack Experiment 2](https://drive.google.com/file/d/1hXLfEBgTUpHWLdLsjbo_knI1CpwAqLl_/view?usp=sharing)
+
+[Prompt Attack Experiment 3.1]()
+
+[Prompt Attack Experiment 3.2](https://drive.google.com/file/d/1PJkgdQ0CwBGV7XWtcz6w83mJn1IfgrW3/view?usp=sharing)
+
+[Defense](https://drive.google.com/file/d/1PoH3iaC-3MYK1-Re-zC09ca7BuIk7HXA/view?usp=sharing)
+
+One of the models is stored here:
+
+[Meerkat Dataset4 Epoch2](https://drive.google.com/file/d/1QGT7Euv0_6brqpqKKtBAQcA1U0pdHdMr/view?usp=sharing)
+
+Further Models can be sended by request.
+
 ## References
 [1] Kim, H., Hwang, H., Lee, J., Park, S., Kim, D., Lee, T., Yoon, C., Sohn, J., Choi, D., and Kang, J. (2024). Small language models learn enhanced reasoning skills from medical textbooks. arXiv preprint arXiv:2404.00376.
 
